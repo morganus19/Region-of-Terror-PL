@@ -1,0 +1,13 @@
+@0    = ~(Teraz musisz przeczytać tę historię).~
+@1    = ~(Przeczytaj pierwszą część).~
+@2    = ~W poszukiwaniu przygód mu przeznaczonych opuścił swe rodzinne strony. Najpierw na wschód się udał, gdzie legendarny skarb znalazł...~
+@3    = ~By go pomnożyć do Jaskini Ognia wkroczył. Tam smoka zabił i skarby jego zabrał...~
+@4    = ~By mityczny zwój odnaleźć, do Gospody Na Krańcu Świata wyruszył i tam go zdobył...~
+@5    = ~W szczęściu swoim zadufany, błąd popełnił, wyruszając do miasta o kolistych murach. Tam skarbiec władcy splądrował i uciekł...~
+@6    = ~W radości i bogactwie do domu powrócił. Nocą jednak, błogo śniąc, wieczny odpoczynek znalazł...~
+@7    = ~(Przeczytałeś pierwszą część. Czas na drugą).~ ~(Przeczytałaś pierwszą część. Czas na drugą).~
+@8    = ~(Przeczytałeś drugą część. Czas na trzecią).~ ~(Przeczytałaś drugą część. Czas na trzecią).~
+@9    = ~(Przeczytałeś trzecią część. Czas na czwartą).~ ~(Przeczytałaś trzecią część. Czas na czwartą).~
+@10   = ~(Przeczytałeś czwartą część. Czas na ostatnią)~ ~(Przeczytałaś czwartą część. Czas na ostatnią)~
+@11   = ~(Udało ci się. Zdobywasz znak Świętego. Możesz przejść przez drzwi).~
+@12   = ~(Popełniłeś błąd. Musisz zacząć od nowa).~ ~(Popełniłaś błąd. Musisz zacząć od nowa).~
