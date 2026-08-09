@@ -1,0 +1,8 @@
+@0    = ~<CHARNAME> zdradził nas, tak jak to Drizzt przewidział. Do ataku!~ ~<CHARNAME> zdradziła nas, tak jak to Drizzt przewidział. Do ataku!~
+@1    = ~Zdrajco! Giń od mego topora!~ [Bruen12] ~Zdrajczyni! Giń od mego topora!~ [Bruen12]
+@2    = ~Cóż to? Atakujesz nas? Wulfgar, Regis! Do ataku!~ [Bruen16]
+@3    = ~Potrzebujesz pomocy, Regis? Drizzt wiedział, że <CHARNAME> nas zdradzi, więc was śledziliśmy. Wulfgarze, zabijmy ich!~
+@4    = ~Ta, Wulfgarze! Drizzt wiedział, że <CHARNAME> nas zdradzi, więc was śledziliśmy. Regisie, zaczynajmy!~
+@5    = ~Potrzebujesz pomocy? Drizzt wiedział, że <CHARNAME> nas zdradzi, więc was śledziłem, by pomóc, kiedy się od nas odwróci. Mój topór zasmakuje twej krwi, zdrajco!~ ~Potrzebujesz pomocy? Drizzt wiedział, że <CHARNAME> nas zdradzi, więc was śledziłem, by pomóc, kiedy się od nas odwróci. Mój topór zasmakuje twej krwi, zdrajczyni!~
+@6    = ~Cóż to? Atakujesz nas? Regis! Do ataku!~ [BRUEN15]
+@7    = ~Cóż to? Atakujesz nas? Wulfgar! Do ataku!~ [BRUEN14] 
