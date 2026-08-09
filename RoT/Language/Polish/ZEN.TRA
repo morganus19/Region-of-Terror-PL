@@ -1,0 +1,5 @@
+@0    = ~Nauczę cię co nieco o tworzeniu podklas. Służą do tego trzy narzędzia: Kit Creator, Kit Checker i Kit Editor. Powinieneś użyć tylko Creatora.~ ~Nauczę cię co nieco o tworzeniu podklas. Służą do tego trzy narzędzia: Kit Creator, Kit Checker i Kit Editor. Powinnaś użyć tylko Creatora.~
+@1    = ~Checker robi dokładnie to, co ma w swojej nazwie. Sprawdza, czy nie ma błędów w podklasach. Nigdy nie używałem tego narzędzia. Editor jest bardzo niepewny, ale w każdym razie to dobre narzędzie. Używa się go, uwaga, do edytowania podklas! Creator zaś jest niezwykle prosty w obsłudze. Wyjaśnione jest w nim, jak go używać, więc nie podam ci o nim więcej informacji.~
+@2    = ~Jedna rzecz powinna być ci wiadoma. Twoja nowa podklasa będzie zapisana jako pliki 2DA w folderze override. Można je edytować Notatnikiem, Wordpadem czy innym edytorem tekstów.~
+@3    = ~W Komnacie Cudów we Wrotach Baldura (Strona Klanu Children of Bhaal) znajdziesz tutorial Yarpena dotyczący tego zagadnienia. Jest znakomity.~
+@4    = ~Zresztą prawdę mówiąc tworzenie podklas nie wymaga używania żadnych narzędzi. W razie jakichś wątpliwości – pytaj w Dokach Athkatli (Forum Klanu CoB).~

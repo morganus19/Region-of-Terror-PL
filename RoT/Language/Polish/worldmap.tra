@@ -1,0 +1,43 @@
+
+@ROT_785001 =  "Arlax"
+@ROT_785002 =  "Jaskinia###Monzumy"
+@ROT_785003 =  "Zachodnie###Zgliszcza"
+@ROT_785004 =  "Zamek###Olmara"
+@ROT_785005 =  "Zamek###Talavana"
+@ROT_785006 =  "Maribur"
+@ROT_785007 =  "Tajemnicza###grota"
+@ROT_785008 =  "Las"
+@ROT_785009 =  "Arena"
+@ROT_785010 =  "Gospodarstwa"
+@ROT_785011 =  "Zamek###Gaidana"
+@ROT_785012 =  "Jaskinia"
+@ROT_785013 =  "Kryjówka###Brzytwy"
+@ROT_785014 =  "Niewolniczy###szlak"
+@ROT_785101 =  "Arlax
+@ROT_785102 =  "Jaskinia###Monzumy
+@ROT_785103 =  "Zachodnie###Zgliszcza
+@ROT_785104 =  "Zamek###Olmara
+@ROT_785105 =  "Zamek###Talavana
+@ROT_785106 =  "Maribur
+@ROT_785107 =  "Tajemnicza###grota
+@ROT_785108 =  "Las
+@ROT_785109 =  "Arena
+@ROT_785110 =  "Gospodarstwa
+@ROT_785111 =  "Zamek###Gaidana
+@ROT_785112 =  "Jaskinia
+@ROT_785113 =  "Kryjówka###Brzytwy
+@ROT_785114 =  "Niewolniczy###szlak
+
+@ROT_785015 =  "Bremen"
+@ROT_785016 =  "Punkt###orientacyjny"
+@ROT_785017 =  "Pogórze"
+@ROT_785018 =  "Pustelnia"
+@ROT_785019 =  "Lodowa###świątynia"
+@ROT_785020 =  "Smocze###leże"
+@ROT_785021 =  "Labirynt"
+@ROT_785022 =  ~Wzlatująca###Dusza~
+
+@DSW_786003 = "Osada###Plemienia###Niedźwiedzia"
+
+@IW1000 = "Targos"
+@IW2000 = "Bród###Shaengarne"

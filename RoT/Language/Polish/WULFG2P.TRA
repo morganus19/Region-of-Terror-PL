@@ -1,0 +1,17 @@
+@0    = ~Jesteś pewien, że chcesz, abym odszedł?~ [WU_ENDM] ~Jesteś pewna, że chcesz, abym odszedł?~ [WU_ENDK] 
+@1    = ~Nie. Myślę, że powinieneś zostać.~
+@2    = ~Tak. Powinniśmy się rozstać.~
+@3    = ~Dobrze... Gdzie mam na ciebie czekać?~
+@4    = ~Poczekaj tutaj.~
+@5    = ~Idź do gospody „Pod Miedzianym Diademem” w Slumsach.~
+@6    = ~Wróciłeś! Chcesz znowu ze mną podróżować?~ ~Wróciłaś! Chcesz znowu ze mną podróżować?~
+@7    = ~Tak! Tęskniłem za tobą.~ ~Tak! Tęskniłam za tobą.~
+@8    = ~Nie. Nie teraz. Może później.~
+@9    = ~Co? Chcesz mnie z powrotem?~
+@10   = ~Tak, przyłączysz się?~
+@11   = ~Nie ma z tobą Drizzta. Nie mogę się przyłączyć.~
+@12   = ~Oczywiście! Chodźmy.~
+@13   = ~Co?~
+@14   = ~Nie zostawiaj mnie teraz!~
+@15   = ~Pozdrowienia, <CHARNAME>. Delly będzie czekać w namiocie. Pójdzie z nami, kiedy wyruszymy. Jestem pewien, że możemy na chwile zboczyć z obranej ścieżki i odprowadzić ją do domu.~
+@16   = ~Ale teraz już chodźmy.~
