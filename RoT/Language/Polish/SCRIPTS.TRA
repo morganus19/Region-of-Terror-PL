@@ -1,0 +1,594 @@
+@562677 = ~Co? Drowy!? AAAAA!~ [REGIS4]
+@562678 = ~Proszę, nie róbcie mi krzywdy!~ [REGIS5]
+@562680 = ~Odpowiadajcie!~ [CATCUT02]
+@562681 = ~Wobec tego gińcie!~ [CATCUT03]
+@562683 = ~Ha, ha, ha! Gińcie, gińcie przeklęte bęk... aaaaa!~ [BR562683]
+@562684 = ~Co? Gdzie mnie zabieracie...?~ [REGIS6]
+@562685 = ~C-co? Gdzie mnie zabieracie?~
+
+@563887 = ~Strażnik~
+
+@564051 = ~Talavan nadchodzi! Będzie tu wkrótce ze swoją armią!~
+@564052 = ~Chodź ze mną. Zaprowadzę cię do wodza.~
+@564058 = ~Zabijmy ich, zanim Olmar przyjdzie!~
+@564059 = ~Do ataku, ludzie!~
+@564061 = ~Do ataku!~
+
+@565047 = ~Drowy! Na pewno nie przyszły tu w dobrych intencjach. GIŃCIE!~ [BR565047]
+@565229 = ~Tak, to na pewno jest...~
+@565231 = ~Plan? Jaki plan? Nie mówiłeś mi nic o żadnym planie.~
+@565233 = ~Już niedługo dowiesz się o tym wystarczająco dużo...~
+@565234 = ~Cóż, to naprawdę nie ma znaczenia. Kiedy stawimy im czoła, po prostu zatrzymaj ich, kiedy będę się rozprawiać z Drizztem.~
+@565235 = ~Chyba będę w stanie powstrzymywać ich na tyle długo, żebyś zdążył mi przyjść z pomocą. Nie ma powodu do zmartwienia.~
+@565236 = ~Nie musisz się w ogóle martwić. Mam plan.~
+@565244 = ~Szybko! Użyj przedmiotu!~
+@565263 = ~Nie martwię się. Co mogłoby pójść źle? Nasz plan jest idealny.~
+@565307 = ~Mamy już wszystkie potrzebne informacje. Teraz tylko będziemy musieli zaczekać.~
+@565323 = ~Wezmę Odłamek kryształu. Możesz kontynuować rzucanie zaklęcia.~
+@565324 = ~Tak, zająć pozycje.~
+@565498 = ~Dotykasz symboli i wszystko pogrąża się w ciemnościach...~
+@565499 = ~Sfera kieszeniowa Mistrza Ostateczności została zniszczona. Z symbolami nic się nie dzieje.~
+
+@565676 = ~Hej! Ty! Chciałbym zamienić z tobą słówko!~
+
+@565852 = ~Zostało ci dane pozwolenie i niewidzialny mur zniknął.~
+@565984 = ~Jestem ciężko ranny... Czas z tym skończyć.~
+@565985 = ~Aaaaaa!~ [DR_RTS01]
+@565986 = ~Catti-Brie! Teraz twoja kolej. Chodź!~
+@565989 = ~Catti-Brie, zabij go.~
+@565991 = ~Entreri, gdzie jesteś?~ [DR_RTS02]
+
+@566015 = ~Spróbuj mnie teraz zranić!~
+@566021 = ~C-co ja zrobiłem!? NIE!~
+@566022 = ~Co to jest!? Jarlaxle... poniósł klęskę?~
+@566023 = ~Muszę spróbować...~
+@566024 = ~Drizzt! Dzięki bogu! Zbieraj swoje rzeczy i zmywajmy się stąd.~
+@566025 = ~Zrobię, co każe mi mój mistrz...~
+@566049 = ~Dziękujemy ci za grę w modyfikację Region of Terror (Kraina Grozy).
+Przy obecnych możliwościach nie jest możliwe stworzenie prawdziwej listy autorów, więc tu jest moja... innego rodzaju lista osób w to zamieszanych.~
+@566050 = ~Szczególne podziękowania dla: Tapio Perkiömäkiego, Maxa i TeamBG.
+Głosy aktorów: Bruno Bernardi, Valeska Scholl, Robert Dupuis, Steven Andrews, Clinton Wolf, Gregg Kincaid
+Portrety: Jeromia Phair, różne strony w sieci
+Strona internetowa: Bruno Bernardi~
+@566051 = ~Autor i wydawca moda: Pekka Syrjänen~
+@566052 = ~Wersja PL: Gwiazdy Mystry (SoM), część Klanu Children of Bhaal~
+@566055 = ~Tłumaczący: chisette, gumilka, Kirara, Marlong, morgan i Wszelak;
+Dubbingujący: Rafał Skoczewski, Folloutman, Sebastian Jankowski, Hubert Chiron Sawicki, Joshua Szpilarski, Tomasz Świątek, Villentretenmerth, Ytna, Jakub Kondrat, Krzysiek Taborski, koordynator: anoim2666;
+Podziękowania:
+– dla Cuttootha za przepiękny Maribur,
+– dla dradiela za WoBG,
+– dla wszystkich zaangażowanych w procesy tłumaczenia i korekty, którzy udzielali się na forum tłumaczenia,
+– dla wszystkich zaangażowanych w proces udźwiękowienia~
+@566056 = ~„No, I can't forget tomorrow
+When I think of all my sorrow
+When I had you there
+But then I let you go
+And now it's only fair
+That I should let you know
+What you should know...”
+H. Nilssen
+
+„Kell még egy szó mielőtt mennél,
+kell még egy ölelés, ami végig elkísér.
+Az úton majd néha gondolj reám,
+ez a föld a tiéd, ha elmész, visszavár!”
+D. Ferenc
+
+Ad perpetuam hesternae cohaerentiae nostrae memoriam,
+Tibi, qui amavisti quique fuisti,
+Tibi, dulcissima Catharina!
+Gratias tibi ago. Vale!
+							coordinatorus~
+@566072 = ~Dotarłeś właśnie do końca swojej drogi, Drizzt. Tutaj wszystko się kończy.~
+@566292 = ~To było do przewidzenia. Zdobyli przedmiot, który chroni przed działaniem Odłamka kryształu.~
+@566297 = ~Moja mama mówi, że potwory nie mogą nam zrobić krzywdy.~
+@566298 = ~To głupie! Potwory mogłyby nas wszystkich pozabijać!~
+@566299 = ~Nie strasz mojej siostrzyczki! Żadne potwory nas nie skrzywdzą!~
+@566300 = ~Zgadza się. Żadne potwory nas nie skrzywdzą.~
+@566301 = ~PIIISK!!~
+@566302 = ~Pomocy! Mamo!~
+@566303 = ~Pomocy! Potwory!~
+@566304 = ~Niech ktoś pomoże moim dzieciom!~
+@566638 = ~Zemsta została wymierzona.~
+@566732 = ~Nie! Muszę uciekać!~
+@566874 = ~Więc, cała reszta nie żyje. Ja sam zostałem i walczyłem ze smokiem.~
+@566875 = ~Haaahaha! Niedorzeczne! Ty walczyłeś ze smokiem!? HAHAHAHA!~
+@566876 = ~Mówię ci, że to prawda. Zabiłem smoka.~
+@566877 = ~Nigdy tego nie kupię, ty kłamliwy szczurze! BUAHAHAHAHA!~
+@566878 = ~Nie? Cóż, zobaczymy, co powiesz, kiedy powiem ci to...~
+@566879 = ~Tak więc, podniosłem miecz i zmierzyłem się z wojownikiem.~
+@566880 = ~Ty walczyłeś z wojownikiem!? Zabawne! BUAHAHAHA!~
+@566881 = ~Nie wierzysz mi? Powinieneś zobaczyć, jak wymachiwałem mieczem.~
+@566882 = ~Ale z ciebie zabawny wieśniak! HAHAHAHAHA!~
+@566883 = ~Czy zawsze musisz się śmiać z moich opowieści?~
+@566884 = ~Nic na to nie poradzę. Jesteś taki zabawny... Hahahihi...~
+@566885 = ~Ale tu nie ma niczego do śmiechu.~
+@566886 = ~Więc ty myślałeś, że... HAHIHAHIAHAHA!~
+@566888 = ~HAHAHAHAHA! Kobieta... HAHAHAHAHIAHA!~
+@566889 = ~Spotkałem już wielu dziwnych gości, ale zapewniam cię, że nikogo dziwniejszego od ciebie.~
+@566898 = ~No więc, wziąłem kobietę na ręce i uciekłem z walącej się jaskini.~
+@566989 = ~Uciekajcie!~
+@566991 = ~Uciekajcie, jeśli wam życie miłe!~
+@566992 = ~Dzięki, nieznajomi. Zawdzięczamy wam życie.~
+@566993 = ~Sprawiedliwość została wymierzona. Chodźmy.~
+@566994 = ~Nie zapomnę tego, nieznajomi. Pokornie wam dziękuję.~
+
+@567487 = ~Skopmy parę tyłków!~
+@567488 = ~Zabić go! Płacę wam za to!~
+@567489 = ~Zabić go!~
+@567490 = ~Uderzaj mocniej! Uderzaj mocniej!~
+@567491 = ~Zabić ją! Płacę wam za to!~
+@567492 = ~Zabić ją!~
+@567493 = ~Pokażcie nam, z jakiej gliny jesteście ulepieni!~ 
+@567494 = ~Krew! Chcemy krwi!~
+@567495 = ~Zetnij łeb!~
+@567496 = ~Przetnij go na pół!~
+@567497 = ~Przetnij ją na pół!~
+@567498 = ~Nie strać tego!~
+@567499 = ~Tak! Tak! Podwoisz moje pieniądze!~
+@567500 = ~Bierz go!~
+@567501 = ~Bierz ją!~
+@567502 = ~Szybko! Nie daj mu odetchnąć!~
+@567503 = ~Szybko! Nie daj jej odetchnąć!~
+@567504 = ~Siekanie i cięcie to twoja droga do zwycięstwa!~
+@567505 = ~Boo mówi: W oczy! W oczy!~
+@567506 = ~Boo, do ataku!~
+@567507 = ~Bijesz się jak jakaś dziewczyna!~
+@567508 = ~Krwi! Krwi! Krwi! KRWI!~
+@567509 = ~Potrzebujesz pomocy bękarcie!?~
+@567510 = ~Tnij głowę!~
+@567511 = ~Dobre uderzenie!~
+@567512 = ~Tak, dasz radę to zrobić!~
+@567513 = ~Ognista kula nadlatuje!~
+@567514 = ~Nie waż się przegrać!~
+@567516 = ~Zrób to dla ni<PRO_HISHER>!~
+@567517 = ~Dobrze idzie!~
+@567518 = ~Tylko się tam trzymaj!~
+@567519 = ~Dajcie mi zobaczyć trochę krwi!~
+@567520 = ~Furia! Furia!~
+@567522 = ~Korgan jest zwycięzcą!~
+@567523 = ~Tapio jest zwycięzcą!~
+@567524 = ~Bruenor jest zwycięzcą!~
+@567525 = ~Wulfgar jest zwycięzcą!~
+@567526 = ~<CHARNAME> jest zwycięzcą!~
+@567527 = ~Mazzy jest zwycięzcą!~
+@567528 = ~Dasz radę!~
+@567529 = ~Wal, wal, wal, wal, wal!~
+@567530 = ~Użyj swojej siły!~
+@567531 = ~Uważaj!~
+@567532 = ~Stać cię na więcej niż to!~
+@567533 = ~Miej pewność, że wygrasz!~
+@567534 = ~Korgan jest zwycięzcą tego dnia! Wejdź do budynku, aby odebrać nagrodę.~
+@567537 = ~A tutaj masz swoją nagrodę! Pierwszego dnia będzie to okazały krótki miecz, Ostrze Sprawiedliwości!~
+@567539 = ~Coś pojawia się na podłodze i podnosisz to.~
+@567552 = ~Zabierz swoje wyposażenie.~
+@567559 = ~Tapio Perkiomaki jest zwycięzcą tego dnia! Wejdź do budynku, aby odebrać nagrodę.~
+@567560 = ~Bruenor jest zwycięzcą tego dnia! Wejdź do budynku, aby odebrać nagrodę.~
+@567561 = ~Wulfgar jest zwycięzcą tego dnia! Wejdź do budynku, aby odebrać nagrodę.~
+@567562 = ~<CHARNAME> jest zwycięzcą tego dnia! Wejdź do budynku, aby odebrać nagrodę.~
+@567563 = ~Mazzy jest zwycięzcą tego dnia! Wejdź do budynku, aby odebrać nagrodę.~
+@567601 = ~A tutaj masz swoją nagrodę! Drugiego dnia będzie to zbroja twoich snów! Cyzelowana pełna zbroja płytowa!~
+@567602 = ~Nie daj mi teraz przegrać!~
+@567603 = ~Po prostu dalej uderzaj!~
+@567604 = ~Będę bogaty, jeśli wygrasz!~
+@567605 = ~Jeśli przegrasz, dostaniesz połowę mojej wygranej!~
+@567606 = ~Wal go mocniej! Zabij go!~
+@567607 = ~Zabij go, a ja będę bogaty!~
+@567608 = ~Pokaż mi, że moje pieniądze nie pójdą na marne! Odetnij mu głowę!~
+@567609 = ~Wal ją mocniej! Zabij ją!~
+@567610 = ~Zabij ją, a ja będę bogaty!~
+@567611 = ~Pokaż mi, że moje pieniądze nie pójdą na marne! Odetnij jej głowę!~
+@567612 = ~Daj mi zobaczyć trochę krwi!~
+@567613 = ~Rozwal czaszkę!~
+@567614 = ~Uważaj!~
+@567615 = ~Taak! Wygląda nieźle!~
+@567616 = ~Pokaż mu znaczenie słowa ból!~
+@567617 = ~Wydrzyj mu flaki!~
+@567618 = ~Porachuj mu kości!~
+@567619 = ~Pokaż jej znaczenie słowa ból!~
+@567620 = ~Wydrzyj jej flaki!~
+@567621 = ~Porachuj jej kości!~
+@567628 = ~A tutaj masz swoją nagrodę! Trzeciego dnia będzie to cudowna para... Młot Moradina i Tarcza Thora!~
+@567629 = ~A tutaj masz swoją nagrodę! Czwartego dnia będzie to potężny miecz dwuręczny, Lwie serce!~
+@567643 = ~Coś pojawia się na podłodze. Dwa przedmioty. Podnosisz je.~
+@567644 = ~Coś pojawia się na podłodze. Kilka przedmiotów. Podnosisz je.~
+@567651 = ~Witajcie, ludzie! Pierwsza runda zaraz się rozpocznie. Wstrzymajcie oddech! Walki, mające wyłonić najlepszych wojowników, już się zaczynają!~
+@567652 = ~Przejdźmy do drugiej rundy. Zostało ich już tylko szesnastu, ludzie!~
+@567653 = ~Przejdźmy do trzeciej rundy. Zostało ich już tylko ośmiu, ludzie!~ 
+@567654 = ~Przejdźmy do czwartej rundy. Zostało ich już tylko czterech, ludzie! Niedługo będziemy mieli zwycięzcę!~
+@567655 = ~To jest to! Walka finałowa! Dwóch najlepszych wojowników w Amn jest teraz na arenie! Niech walka się rozpocznie!~
+@567656 = ~Korgan jest najlepszym wojownikiem! Wejdź do budynku, aby odebrać swoją nagrodę!~
+@567657 = ~Tapio Perkiomaki jest najlepszym wojownikiem! Wejdź do budynku, aby odebrać swoją nagrodę!~
+@567658 = ~Bruenor jest najlepszym wojownikiem! Wejdź do budynku, aby odebrać swoją nagrodę!~
+@567659 = ~Wulfgar jest najlepszym wojownikiem! Wejdź do budynku, aby odebrać swoją nagrodę!~
+@567660 = ~<CHARNAME> jest najlepszym wojownikiem! Wejdź do budynku, aby odebrać swoją nagrodę!~
+@567661 = ~Mazzy jest najlepszym wojownikiem! Wejdź do budynku, aby odebrać swoją nagrodę!~
+
+@568502 = ~Na co my jeszcze czekamy!? Zabijmy tych przeklętych rolników!~
+@568503 = ~Nie, jeszcze nie! Musimy czekać na rozkaz mistrza!~
+@568504 = ~Hej, szefie! Mamy towarzystwo!~
+@568505 = ~Wyciągajcie broń, chłopaki!~
+@568513 = ~Powstań mój sługo ciemności! Chodź do mnie! Chodź do mnie!~
+@568525 = ~Czeka cię zguba!~
+@568526 = ~Giń!~
+@568527 = ~Poczuj cierpienie!~
+@568528 = ~Dodaj mi sił!~
+@568529 = ~Mistrzu!~
+@568548 = ~W powietrzu czuć zapach śmierci. Orientujesz się, że jest już za późno. Rolnicy są martwi.~
+@568618 = ~Zwoje na sprzedaż! Zwoje na sprzedaż! Chodźcie i zobaczcie!~
+@568619 = ~Mam tu do sprzedanie niezłe zwoje z zaklęciami! Ceny nie są wysokie!~
+@568718 = ~Panie! Pojawiła się grupa podróżników zmierzających w tę stronę. Co mamy z nimi zrobić?~
+@568719 = ~Hmm... Po prostu ich zabijcie.~
+@568720 = ~Pójdę i poinformuję ludzi o twoich rozkazach, panie!~
+@568763 = ~Idź mój trollu! Do ataku!~
+@568771 = ~Chodź tutaj! Zdobędziemy schody.~
+@568772 = ~Do ataku!~
+@568773 = ~To zasadzka!~
+@568774 = ~Nie idź! W podłodze jest pułapka!~
+@568848 = ~To napad!~
+@568849 = ~Złodzieje! Zabić ich!~
+@568850 = ~Wkrótce się pojawią. Czekaj tutaj. Zostawię wam zabijanie. Kiedy już będą martwi, przyjdę i pozbieram majątek kupca.~
+@568851 = ~Dobra robota! Tutaj jest zwój. Zostaniesz wkrótce odeskortowany do mojego zamku.~
+@568890 = ~Hej, strażnik! Mógłbyś mi rzucić jakąś kość. Muszę coś zjeść.~
+@568891 = ~Zamknij się!~
+@568892 = ~Jadłaś cokolwiek!?~
+@568893 = ~Ostatnio nic!~
+@568895 = ~Hej, bracie! Jak tam idzie?~
+@568896 = ~Ona mówi do ciebie!~
+@568948 = ~Czekaj!~
+
+@569195 = ~Chodź i pokaż mi swoje umiejętności! Walcz na Arenie!~
+@569196 = ~Weź udział w turnieju na Arenie! Dobre ceny!~
+@569197 = ~Walcz na Arenie i zostań mistrzem!~
+@569446 = ~Auć! Nigdy nie rób tego więcej. Ostrzegam cię.~
+@569447 = ~*piszczy*~
+
+@569874 = ~Unieście swoje ręce, bracia! Chwalcie Mroczną Panią!~
+@569880 = ~Co!? Intruzi! Zabijcie ich bracia! Shar, dodaj nam siły!~
+@569881 = ~Kiedy wchodzisz do podziemi, dziwne uczucie obecności jakiegoś niewypowiedzianego zła przyprawia cię o dreszcze.~
+@569882 = ~Shar, proszę, pomóż mi!~
+
+@570004 = ~Odbiorę ci duszę!~
+@570013 = ~Kiedy wchodzisz do podziemi, dziwne uczucie obecności jakiegoś niewypowiedzianego zła wzbudza twoją ciekawość.~
+@570046 = ~Masz dziwne wrażenie, że zbliża się jakieś zło...~
+@570102 = ~Shar... Shar! Zaprowadź nas do wiecznych ciemności. Zaprowadź nas do źródła całego zła...~
+@570104 = ~Prowadź nas do najwyższego! Prowadź nas do siebie...~
+@570105 = ~Wy... zniszczyliście... moje... sługi...~
+@570197 = ~Koncentracja! To trudna sztuczka do wykonania...~
+@570251 = ~Nie jesteś w stanie przesunąć przełącznika.~
+@570252 = ~Czynisz tak, jak ci powiedziano, ale z jakiegoś powodu nic się nie dzieje.~
+@570253 = ~Wraz ze śmiercią Strażnika i jego sług, Wężowy Tron się otwiera.~
+@570389 = ~Nie jesteś w stanie nic z tym w tej chwili zrobić.~
+@570391 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „pancerz”.~
+@570392 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „cień”.~
+@570393 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „serce”.~
+@570394 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „strzała”.~
+@570395 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „dzwon”.~
+@570396 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „liść”.~
+@570397 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „słońce”.~
+@570398 = ~Na półce jest wyryty jakiś tekst. Sprawdzasz to bardzo dokładnie i odczytujesz słowo „wojna”.~
+@570399 = ~Dotykasz półki, ale coś ci mówi, że był to zły wybór.~
+@570401 = ~Dotykasz półki... Nic się nie dzieje... Odpowiedź musiała byś poprawna.~
+@570449 = ~Masz ten kształt... Zobaczmy, czy jesteś mnie teraz w stanie pokonać!~
+@570450 = ~Ty... nie możesz mnie pokonać!~
+@570451 = ~Wygrywasz walkę. Oka boga jest twoje.~
+@570452 = ~Nie możesz jeszcze odejść.~
+@570710 = ~Jak daleko stąd jest najbliższe miasto? Potrzebuję wozu i kilku koni!~
+@570712 = ~Kapitanie! Wiem, że to dziwnie brzmi, ale mam dziwne przeczucie, że ktoś nas obserwuje...~
+@570715 = ~Wcale nie tak daleko. Kilka dni przy dobrym tempie.~
+@570716 = ~Masz zmysły wojownika. Nie wahaj się im zaufać. Kupcze, rzuć zaklęcie ze zwoju.~
+@570717 = ~Och, mam oczywiście nadzieję, że nie ma tutaj złodziei... Jeśli są, obronisz mnie, jak sądzę?~
+@570718 = ~Ruszać się!~
+@570753 = ~Chodź!~
+@570762 = ~To było proste! Ten zamek należy DO MNIE!!~
+@570780 = ~A więc, Talavanie. Mógłbyś mi powiedzieć, jak tak właściwie wygląda ten atak?~
+@570781 = ~Cóż, najpierw elitarni żołnierze zetrą się przed zamkiem. Stanowi to niepodlegający zmianom obyczaj.~
+@570782 = ~Kiedy jedna z grup żołnierzy udaje się do odwrotu, oznacza to zwycięstwo drugiej i często podnosi to morale całej armii.~
+@570783 = ~Po ich odwrocie, atakujący rozpoczynają frontalny atak na obrońców.~
+@570784 = ~Pomimo tego, że mam tylko około pięciuset ludzi i Olmar również, bitwa będzie duża.~
+@570785 = ~W historii naszych zamków, atakujący zawsze musieli się wycofywać z powodu obecności magów bojowych u obrońców. Jeśli wykonasz swoją robotę, tym razem się nie wycofamy...~
+@570786 = ~Cóż, myślę, że to wystarczająca odpowiedź na twoje pytanie. Wracajmy na drogę. Chodźcie ludzie! Będziemy tam ze zmierzchem!~
+@570787 = ~Stać! Powinniśmy odpocząć kilka minut!~
+@570812 = ~Zabić zdrajcę!~
+@570818 = ~Ruchy, ruchy, ruchy!~
+@570819 = ~Na mury!~
+@570820 = ~Zabić zdrajców!~
+@570854 = ~Zabić przywódców!~
+@570855 = ~Weź klucz i ruszaj!~
+@570856 = ~Czekaj! Ty także musisz przyjść! Wyjaśnię wszystko, kiedy będziemy już przy wejściu!~
+
+@571085 = ~Trzy przejścia spotykają się i prowadzą do komnat kapłanów.~
+@571147 = ~Bracia! Bądźcie gotowi do zdjęcia osłony i rzucenia zaklęć na zbliżające się demony!~
+@571148 = ~Jesteście gotowi?~
+@571149 = ~Teraz!~
+@571150 = ~Gotów.~
+@571151 = ~Idź, <CHARNAME>! Masz teraz swoją szansę!~
+@571152 = ~Dziękuję wam wszystkim, którzy mieliście jeszcze siły nas tutaj wspomagać. Módlcie się dalej i nie lękajcie się.~
+@571155 = ~Hmf! Głupcy dostarczyli nam obiad...~
+
+@571179 = ~(Może wypadałoby zakończyć walkę przed wejściem...)~
+@571180 = ~Ehm... Bracie Luciusie... Nie potrafię zrozumieć, dlaczego poświęcasz się dla... tego. To niedorzeczne!~
+@571181 = ~To nie jest chyba najlepszy czas, aby o tym rozmawiać...~
+@571182 = ~(Co za idiota! Muszę przemyśleć moją decyzję dołączenia to tej grupy...)~
+@571183 = ~(<CHARNAME> i podróżowanie z <PRO_SIRMAAM> na pewno będzie interesujące! Zabijanie setek demonów zwiększyłoby sprzedaż rzepy!)~
+@571184 = ~To za Cadderliusa, biesie!~
+@571185 = ~Już prawie jesteśmy, odważny kapłanie! Nie lękaj się!~
+@571186 = ~(Co to w ogóle jest!?)~
+@571188 = ~(Nie mogę pozwolić, by ktoś zobaczył, że się boję!) Zabijmy drania!~
+@571200 = ~(Brat Malius...)~
+@571206 = ~Ten demon musi zostać zabity!~
+@571207 = ~HAHAHAHA!!~
+@571208 = ~Heh! Dobra, dajcie mi się przygotować.~
+@571209 = ~Nie ma tu już nic wartego zainteresowania.~
+@571210 = ~Może nie trzeba mi jeszcze odchodzić...~
+@571211 = ~Zdjąć osłonę!~ 
+@571227 = ~Powracasz!~
+@571266 = ~Drowy!? Co wy tutaj robicie?~ [CATCUT01]
+@571421 = ~On jest wesołym kompanem, on jest wesołym kompanem! On jest wesołym kompaaaaanem...~
+@571422 = ~(Co zamierzamy teraz robić...?)~
+@571435 = ~Nie mogę ci na to pozwolić, Drizzt.~
+@571437 = ~Nie gadaj głupot! Nie zginiesz tutaj, jeśli ma to zależeć ode mnie!~
+@571439 = ~Muszę. Któż inny mógłby to zrobić?~ [DR_RTS03]
+@571441 = ~Ja bym mogła. Masz przed sobą jeszcze długie życie. Nie zmarnuj go tutaj.~
+@571443 = ~Ja bym mógł. Twoje życie jest cenniejsze od mojego.~
+@571444 = ~Nie wiem kto, ale to nie ty będziesz tym, który to zrobi, to wiem.~
+@571448 = ~Nie powstrzymasz mnie, <CHARNAME>. To ja decyduję, co zrobię ze swoim życiem. Teraz decyduję się poświęcić je dla wyższego dobra.~ [DR_RTS04]
+@571451 = ~Nie pomyślałeś, że my też cię kochamy!? Nie pomyślałeś, że będziemy opłakiwać twoją śmierć?~
+@571454 = ~Ja... ja to zrobię!~ [DR_RTS05]
+@571458 = ~Haman!?~
+@571460 = ~Co ty tutaj robisz? Jak...?~
+@571461 = ~Ja i moja drużyna... poszliśmy zabić smoka... Wszyscy nie żyją. Tylko mi udało się uciec.~
+@571462 = ~Poszedłem was szukać, pytałem się ludzi, aż w końcu dowiedziałem się, że się tutaj wybieracie. Spotkałem na zewnątrz brata Cadderliusa. Wyjaśnił mi sytuację i przyszedłem tu, aby wam pomóc.~
+@571464 = ~Nie sądzę! HAHAHA!!~
+@571465 = ~C-co?~
+@571467 = ~Kiedy potrzebny jest bohater, wtedy przybywam.~
+@571469 = ~Nie poświęcisz swojego życia! Zabraniam ci.~
+@571470 = ~Ja... ja to zrobię. Nie możecie mnie zatrzymać.~ [DR_RTS06]
+@571471 = ~Ale...~
+@571473 = ~Ty i ten twój egoizm, Drizzt! Doprowadzisz do swojej śmierci i zostawisz nas tutaj w żałobie! Zmarnujesz nie tylko własne życie, ale również i nasze!~
+@571474 = ~Zamknę portal.~ [DR_RTS07]
+@571475 = ~Cóż, ja bym mógł, ty głupcze!~
+@571476 = ~Jesteście wielkimi herosami a ja tylko małym niziołkiem bez żadnego przeznaczenia we wiatrach czasu... Zatem powinienem być tym, który zamknie portal...~
+@571477 = ~Nie gadaj głupot! Nie pozwolę nikomu z was tu zginąć. Wszyscy jesteście mi zbyt drodzy.~ [DR_RTS08]
+@571478 = ~To ty gadasz od rzeczy! My o ciebie też się martwimy!~
+@571479 = ~Twoja śmierć byłaby wszędzie opłakiwana! To ja powinienem zginąć...~
+@571480 = ~Dość tego! Nadszedł czas, żebyście wszyscy zginęli!~
+@571481 = ~Kto śmie nam przeszkadzać!?~
+@571482 = ~HAHAHAHA!!~
+@571483 = ~A teraz się z wami zabawię.~
+@571484 = ~Ja bym mógł. Moje życie jest krótsze. Możesz uczynić ze swoim życiem więcej dobrego niż ja.~
+@571485 = ~NIEEEEEE!!~
+@571488 = ~(Słyszysz odgłos kroków dochodzący od strony schodów...)~
+@571489 = ~Słyszałem waszą rozmowę i doszedłem do wniosku, że człowiek musi zrobić to, co ma do zrobienia. To ja zamknę to przeklętą dziurę!~
+@571490 = ~(Głos w głowie: „Idź, dziecko.”)~
+@571491 = ~(Głos w głowie: „Módl się.”)~
+@571539 = ~(Szepty...)~
+@571560 = ~Pohandlujmy.~
+@571561 = ~Raczej nie. Ahem. To jest napad.~
+@571562 = ~Przyjdź porozmawiać ze mną, kiedy przygotujesz się do zabijania.~
+
+@572828 = ~Myśliwi się nie pojawili? Spóźniają się i bardzo się martwię.~
+@572829 = ~Ja także. Dam ci znać, kiedy czegoś się dowiem.~
+@572830 = ~W porządku. Dziękuję ci.~
+@572907 = ~Powinniśmy najpierw porozmawiać z Fenedonem Trempem. Przebywa, zdaje się, w tym namiocie.~ [DR_RTS09]
+@572910 = ~Aegis-Fang tu jest!~
+@572911 = ~Zaczekaj, honorowy Thorinie! Nie jesteśmy tutaj, aby walczyć!~ [DR_RTS10]
+@572912 = ~Kłamiesz! Wszyscy chcą walczyć!~
+@572968 = ~W porządku. Chodźmy.~
+
+@573029 = ~Wciąż żyjesz.~
+@573030 = ~Jest w tobie dużo siły.~
+@573031 = ~Oni cię polubią.~
+@573048 = ~Jeszcze nie skończyliśmy!~
+@573061 = ~Pomóż nam!~
+@573062 = ~Otwierać drzwi!~
+@573063 = ~Wypuść nas!~
+@573064 = ~Pomóż mi!~
+@573065 = ~Wypuść mnie!~
+@573068 = ~Hej! Otwierać drzwi! Pozwól mi stąd odejść!~
+@573069 = ~HAHAHA! GŁUPIEC!~
+@573070 = ~Pozwól mi odejść! Proszę!~
+@573071 = ~Ty naprawdę istniejesz! Nareszcie wolność!~
+@573127 = ~Nie możesz już nic z tym zrobić.~
+@573160 = ~Nie dotykaj mojego skarbu!~
+@573204 = ~Nie! Nie! Nie! Musi być jakiś sposób, aby ją uleczyć!~
+@573205 = ~My... my go odnajdziemy!~
+@573210 = ~Jest to tajemniczy okrągły przedmiot. Nie masz pojęcie do czego służy.~
+@573211 = ~Przed odejściem musimy znaleźć jakąś pomoc!~
+@573212 = ~Ty... ty żyjesz!~
+@573213 = ~Wulfgar? Gdzie ja jestem?~
+@573215 = ~<CHARNAME>, natychmiast zabiorę ją do miasta. Spotkajmy się tam. Chodź, Delly, wyjaśnię ci wszystko w drodze.~
+@573216 = ~Prawdopodobnie jest to jakiś rodzaj leczącej maszyny.~
+@573224 = ~ARRR! Gińcie!~
+@573225 = ~Myślę, że powinniśmy jak najszybciej znaleźć się na zewnątrz...~
+@573226 = ~Po prostu uwielbiam walki w ciemnościach nocy!~
+@573227 = ~Twoja śmierć zostanie pomszczona!~
+@573228 = ~Odpoczywaj w pokoju, bracie!~
+@573229 = ~Nigdy nie zostaniesz zapomniany, bracie!~
+@573230 = ~Pomszczę cię!~
+@573231 = ~Tempusie, dodaj mi siły!~
+@573237 = ~Na Tempusa! Oni wszyscy nie żyją! Muszę to pomścić!~
+@573238 = ~A ty. Możesz odejść. Nie ma już nic, co możesz tu zrobić.~
+@573239 = ~W porządku.~
+@573246 = ~(Co?)~
+@573247 = ~Nie możesz wejść. Chaos odpycha cię.~
+@573348 = ~(Myślę, że najlepiej będzie, jeśli odejdę...)~
+@573250 = ~HAHAHA!! Głupcy!!~
+@573257 = ~Chaos cię wessał.~
+@573261 = ~Nie mogę zawieść mojego mistrza!~
+@573262 = ~(Domyślamy się, że ich rządy dobiegają końca...)~
+@573412 = ~Nigdzie stąd nie pójdziesz, dopóki nie porozmawiasz z Najwyższym.~
+@573428 = ~Dotykasz kamienia.~
+@573429 = ~Nie możesz teraz nic z tym zrobić.~
+@573487 = ~Zrób to!~
+@573602 = ~Teraz ich zabij.~
+@573603 = ~Dobra robota.~
+@573613 = ~Daj nam zacząć spijając krew z Krwawiącego Posągu!~
+@573615 = ~Ciesz się z daru Bestii! Posmakuj ciemnej krwi i przyjmij jego znak!~
+@573616 = ~Pij! Pij! Przyjmij ciemność!~
+@573617 = ~A teraz, módlmy się!~
+@573618 = ~Zabić heretyka!~
+@573623 = ~Posmakuj słodkiej skazy Bestii!~
+@573638 = ~Nigdzie stąd nie pójdziesz.~
+@573648 = ~Żadnego podglądania!~
+@573660 = ~Pokryjcie komnatę krwią.~
+@573661 = ~Więcej.~
+@573662 = ~Torturuj ich aż do śmierci.~
+@573711 = ~Twoje dołączenie jest już bliskie.~
+@573712 = ~Zmieszam twoją krew z krwią Bestii.~
+@573713 = ~Wypij do końca i przypieczętuj przymierze.~
+@573743 = ~Udało mi się uzyskać cztery ofiary dla Bestii!~
+@573744 = ~Poczuj Jego moc!~
+@573745 = ~Patrz teraz, jak On ich zabija!~
+@573746 = ~Widziałeś, że Bestia jest wszechpotężna! Módl się teraz, a nie będziesz musiał się obawiać Jego gniewu!~
+@573747 = ~Bestio, wszechpotężny! Wysłuchaj swoich wiernych!~
+@573749 = ~Przyjmij nasze ofiary...~
+@573750 = ~Daj zbawienie nam, swoim wybrańcom!~
+@573752 = ~Dobry wybór.~
+@573753 = ~Nie dotykaj ich!~
+@573754 = ~Tylko jeden!~
+@573991 = ~Zabić maga w błękicie!~
+
+@574010 = ~Czego ode mnie chcesz!?~
+@574011 = ~Mag w błękicie! Nie pozwólcie mu uciec!~
+
+@574737 = ~Odłamku kryształu! Znajdź Drizzta Do'Urdena!~ [EN_CUT6]
+@574738 = ~Czekaj!~ [JARCUT6]
+@574739 = ~Przechwyć zaklęcie!~ [EN_CUT7]
+@574740 = ~C-co się stało?~ [JARCUT7]
+@574741 = ~Nie wiem. Odłamek nie jest już w stanie wykryć Drizzta.~ [EN_CUT8]
+@574743 = ~W porządku. Mów.~ [EN_CUT9]
+@574745 = ~Czy Odłamek kryształu odnalazł jego towarzyszy?~ [EN_CUT10]
+@574746 = ~Tak. Porozrzucanych po świecie, dzięki za twoje przechwycenie zaklęcia... samego Drizzta można znaleźć w Athkatli. Zdaje się, że Wulfgar też tam jest.~ [JARCUT10]
+@574749 = ~Ale teraz, pobawmy się tym trochę...~ [EN_CUT12]
+@574751 = ~Heh... Naprawdę dobrze jej idzie z tym łukiem...~ [EN_CUT12A]
+@574752 = ~On wygra. Niech to szlag. Przetestujmy to.~ [EN_CUT13]
+@574755 = ~Entreri i Jarlaxle! Myślałem, że z wami skończyliśmy, głupcy!~ [BR574755]
+@574756 = ~Tak jak ja.~ [EN_CUT16]
+@574760 = ~Głupi krasnolud. Musisz już iść.~ [EN_CUT17]
+@574761 = ~A ja myślę, że powinienem zacząć na północy, w Dolinie Lodowego Wichru.~ [JARCUT1]
+@574764 = ~Niestety nie mam żadnych informacji o jego dokładnym miejscu pobytu. Coś blokuje Odłamek.~ [JARCUT11]
+@574765 = ~Interesujące... Dżin będzie musiał na to spojrzeć.~ [EN_CUT11]
+@574769 = ~To było proste. Do przewidzenia.~ [EN_CUT14]
+@574770 = ~Nieźle... Cóż, pójdę posłać dżina.~ [EN_CUT15]
+@574771 = ~Taak, a kiedy ty ganiasz za Drizztem, ja mam czas, żeby zająć się pewną sprawą... naprawdę nieźle...~ [JARCUT12]
+
+@574772 = ~Nie ma się nad czym rozwodzić! Słuchajcie, troje z was otrzyma zadanie specjalne!~ [JARCUT13]
+@574773 = ~Ty będziesz przynętą! Brzmi fajnie, co nie?~ [JARCUT14]
+@574774 = ~Jeśli chcesz Drizzta, idź za Drizztem. Porywanie mojej córki i grubaska nie pomoże ci. Wypuść ich!~ [BR574774]
+@574775 = ~A my poczekamy.~ [JARCUT15]
+@574776 = ~Twoi towarzysze pozostaną w zamknięciu. Udaj się do Arlax po więcej informacji. Artemis Entreri.~
+@574777 = ~Co!? Czekaj!~ [DR_RTS11]
+@574784 = ~Dżin powrócił.~ [JARCUT16]
+@574785 = ~Dobrze... Masz jakieś informacje o blokowaniu Odłamka?~ [EN_CUT18]
+@574789 = ~Tak... dżin podążał trochę za Drizztem. Zdaje się, że podróżuje on teraz z pomiotem Bhaala.~ [JARCUT17]
+@574790 = ~Ten jest potężny, podobno. On blokuje działanie Odłamka kryształu.~ [JARCUT18]
+@574791 = ~Interesujące... Czy on obawia się swoich umiejętności?~ [EN_CUT19A] ~Interesujące... Czy ona obawia się swoich umiejętności?~ [EN_CUT19B]
+@574792 = ~Najprawdopodobniej nie.~ [JARCUT19]
+@574793 = ~Interesujące...~ [EN_CUT20]
+@574813 = ~Co to jest!? Wypuście mnie!~
+@574814 = ~Co wiesz o Smokodzierżcy?~
+@574815 = ~Nic! Daj mi odejść!~
+@574816 = ~AAAAAAA!!~
+@574817 = ~Co wiesz o Smokodzierżcy?~
+@574818 = ~Ja-ja nie wiem...~
+@574820 = ~W porządku! W porządku! Jest w...~
+@574821 = ~Siódmej Sferze! Crec'tur! Siódma Sfera! Crec'tur!~
+@574822 = ~W porządku. W Siódmej Sferze, w łapach demona Crec'tur. Teleportuję was tam. Niech Deneir was prowadzi.~
+@574827 = ~AAARRG!!~
+@574829 = ~Najpierw trzeba zdobyć przedmiot.~
+@574830 = ~Świetnie! Czas udać się po smoka.~
+
+@574918 = ~Porażenie energii ogłusza cię. Nie możesz iść naprzód.~
+@574998 = ~Nie możesz wejść.~
+
+@575054 = ~Zamknąć się! Oboje!~
+@575055 = ~Ostrzegam! Skończcie tę rozmowę.~
+@575056 = ~Ej, soodziutka! Cho no tu!~
+@575057 = ~<CHARNAME>! Uwolnijmy więźniów!~ [DR_RTS12]
+@575058 = ~Trafiasz do nieznanej lokalizacji. Kiedy oglądasz się za siebie, zauważasz, że nie ma odwrotu.~
+@575063 = ~Zabili Olmara! Upewnijmy się, że za to zapłacą! Pójdę po więcej ludzi!~
+@575065 = ~(Czas zniszczyć Odłamek kryształu)~
+@575066 = ~W tym miejscu daje się wyczuć zło...~
+@575067 = ~Kiedy badasz dziwny mechanizm zaczynasz czuć, że zaczyna cię on dokądś pchać.~
+@575068 = ~To urządzenie może być użyte tylko raz.~
+@575089 = ~Ale skąd możemy wiedzieć o tym, co to potrafi?~ [EN_CUT1]
+@575090 = ~My nie... Trzeba przeprowadzić test. I to jak należy. Jeśli coś się nie powiedzie, rozpęta się chaos.~ [JARCUT2]
+@575091 = ~Co masz na myśli?~ [EN_CUT2]
+@575093 = ~Kto?~ [EN_CUT3]
+@575094 = ~Co!?~ [EN_CUT4]
+@575096 = ~Jest jedno, potężne indywiduum, które może być do tego użyte...~ [JARCUT3]
+@575097 = ~Drizzt Do'Urden.~ [JARCUT4]
+@575098 = ~Co? Oszalałeś? On nie żyje.~ [EN_CUT5]
+@575099 = ~Wcale nie. Ocaliłem go.~ [JARCUT4A]
+@575100 = ~Ale to dobrze, bo możemy go teraz wykorzystać...~ [JARCUT5]
+@575101 = ~W porządku, ale zapomnijmy o nim na chwilę. Najpierw posłuchaj mojego planu.~ [JARCUT8]
+@575102 = ~Zaprowadzimy rządy terroru w...~ [JARCUT9]
+
+@575278 = ~A więc, znowu się spotykamy.~
+@575279 = ~Giń.~
+
+@576137 = ~Poczekajmy...~
+@576138 = ~*szepcze* Tam...!~
+@576139 = ~Henryku...~
+@576140 = ~Nie...~
+@576172 = ~Gdzie?~
+@576173 = ~Czekaj...~
+@576174 = ~Julio!~
+@576175 = ~Henryku?~
+@576176 = ~Co się dzieje?~
+@576177 = ~Wybacz mi... Nie mogłam odejść... Kocham cię...~
+@576178 = ~Ja też cię kocham! Pójdę razem z tobą!~
+@576179 = ~Ale... ty żyjesz...~
+@576180 = ~To nie ma znaczenia. Chcę być z tobą.~
+@576181 = ~Och... Kocham cię...~
+@576249 = ~Nie masz wystarczającej potęgi, aby wejść.~
+
+//*********************************************************************************
+//missed strings for \SNIP\BAF\
+
+@563196 = ~Nie, proszę, nie chcę więcej cierpienia...~
+@563198 = ~Proszę, uratuj mnie!~
+@563199 = ~Nie zakładaj mnie więcej do bitwy, mistrzu...~
+@563200 = ~Uwolnij mnie, proszę, uwolnij mnie!~
+@563201 = ~Nie daj im mnie skrzywdzić...~
+@563202 = ~Przyszli, pojawili się znikąd... Teraz jestem tutaj... Nikt nie widział, co oni ze mną zrobili...~
+@563203 = ~Nie wytrzymam tego bólu...~
+@563204 = ~On to zrobił. Nigdy bym nie pomyślał, że to zrobi, nigdy.~
+@563205 = ~Proszę...~
+@563206 = ~Zniszcz mnie, zniszcz mnie! Musisz to zrobić!~
+@563207 = ~Aaaa! Przestań... mnie... bić...~
+@563208 = ~Mistrzu, zabij to, zabij to!~
+@563209 = ~Nie, nie chcę więcej ran, nie chcę...~
+@563210 = ~Matko, co za ból!~
+@563211 = ~AAAAAA! Zabijcie mnie, napastnicy...~
+@563212 = ~Nie wytrzymam już więcej, proszę...~
+@563213 = ~Dość, już dość! AAAA!~
+@563214 = ~Zabij, zabij szybko!~
+@563215 = ~AAAAAAAAAAAAAAAAAA!~
+@563216 = ~NIE! Nie! Trzeba szybko zakończyć tę walkę...~
+
+@566966 = ~Przy ludzkich zwłokach znajdujesz zwój. Jest tam napisane o tym, gdzie znajduje się syn Cloba.~
+
+@569140 = ~Uciekać! Pić mikstury!~
+@569141 = ~Nie mam żadnej!~
+
+@569152 = ~Czy ma... Hej! Ktoś tu idzie!~
+@569153 = ~Znam ich. Przybyli mnie porwać.~
+@569154 = ~Cóż, w takim razie... Czemu nie damy im porządnej lekcji!~
+
+@571165 = ~Brat Lucius umarł. Nie udało ci się go ochronić.~
+@571166 = ~(To musiał być Deneir...)~
+@573572 = ~Symbol wibruje.~
+
+@571351 = ~Co!? Gdzie jest mój miecz?~
+@571352 = ~Tutaj, Olga.~
+@571353 = ~Zapluty złodziej!~
+@571356 = ~Ups!~
+@571357 = ~Jedzenie!~
+@571361 = ~Mmm... Smaczne!~
+@571359 = ~(Tylko nie znowu!) Jenave, Wskrzeszenie...~
+@571365 = ~COO!? Moje jedzenie ożyło!~
+@571362 = ~Myślę, że najlepiej będzie, jeśli już sobie pójdziemy...~
+
+@573848 = ~Lodowaty wiatr wieje od strony jeziora, przeszywając cię aż do szpiku kości. Spanie na zewnątrz nie byłoby mądre.~

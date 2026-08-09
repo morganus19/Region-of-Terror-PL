@@ -1,0 +1,3139 @@
+@955 = ~Najpowszechniej używany rodzaj topora bojowego składa się ze styliska o długości metra do półtora z osadzonym szerokim, półokrągłym ostrzem. Topory bojowe określa się również mianem szerokich. Ten wzmocniony został magicznym klejnotem.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Kwasowa strzała Melfa, trzy razy dziennie
+
+Obrażenia: 1k8 +3, +4 obrażenia od kwasu
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 7~
+@957 = ~Cep bojowy składa się z solidnego drzewca, służącego za uchwyt, do którego przymocowany jest bądź gruby metalowy pręt, bądź nabijany ostrymi kawałkami metalu lub kamieni drąg, lub też żelazna kula ze szpikulcami. Te dwa elementy łączono zwykle krótkim łańcuchem lub mocnymi rzemieniami. Broń ta wywodzi się od cepów używanych do młócenia zboża. Ten wzmocniony został magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na kwas: +50%
+
+Obrażenia: 1k6 +4, +3 obrażenia od kwasu
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 15~
+@962 = ~Aegis-Fang +4
+
+Broń tę wykonał Bruenor Waleczny Młot specjalnie dla Wulfgara. Najsilniejsze z czarów wplecionych w ten młot bojowy działają tylko wtedy, kiedy oręż ten znajduje się w rękach tego młodego wojownika. Bruenor odczuwa wielką dumę na widok tej broni, jest bowiem jego najwspanialszym dziełem.
+
+PARAMETRY:
+
+Obrażenia: 2k4 +4
+TraK0: +4 
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 18
+
+Waga: 3~
+@975 = ~Pochodzenie tego amuletu jest nieznane, dlatego nikt nie potrafi określić kto i kiedy to stworzył. Znaleziony został prawdopodobnie w jakiegoś rodzaju sferze kieszeniowej, ponieważ amulety tego rodzaju są niezwykle rzadkie w Faerûnie.
+
+PARAMETRY:
+
+Specjalne:
+– Umożliwia zapamiętanie po jednym dodatkowym czarze z 1., 2., 3. i 4. poziomu~
+@988 = ~To ostrze zostało użyte do obrony Wrót Baldura przed rzeszą potworów. Był on dzierżony przez wielkiego bohatera, Tapia Perkiomakiego.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 6
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@992 = ~Bransolety ochrony KP 2
+
+Bransolety te stanowią jedną z nagród za walki w Arenie. Fundator tego miejsca przywiózł je do Amn ze swych podróży po południowych krainach. Opowieści o sposobie ich zdobycia przez niego krąży wiele, jednak nawet ta najbardziej wiarygodna najprawdopodobniej mogłaby stanowić kanwę „Czarnej Kompanii”.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+
+Waga: 2~
+@997 = ~Sztylet ten wykonali Złodzieje Cienia by wspomóc swoich zabójców w wypełnianiu ich misji. Może on zostać rzucony i powróci do ręki rzucającego, co czyni go niesamowicie użytecznym przy zabójstwie. Czyni także władającego nim niewidzialnym.
+
+PARAMETRY:
+
+Specjalne:
+– Zręczność: +2
+– Niewidzialność
+
+Obrażenia: 1k4 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@999 = ~Zwany jest również „bękartem” – zawdzięcza tę nazwę faktowi, że jest skrzyżowaniem miecza długiego i oburęcznego. Ten egzemplarz jest umagiczniony.
+
+PARAMETRY:
+
+Obrażenia: 2k4 +2
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 6
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 9~
+@1001 = ~Zwany jest również „bękartem” – zawdzięcza tę nazwę faktowi, że jest skrzyżowaniem miecza długiego i oburęcznego. Ten egzemplarz jest umagiczniony.
+
+PARAMETRY:
+
+Obrażenia: 2k4 +4
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 6
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 9~
+@1003 = ~Zazwyczaj Ostrze rozpaczy ujrzeć można tylko w dłoniach sług złej bogini Shar. Jest to przeklęty symbol otrzymywany przez tych wyznawców, którzy swe życia na zawsze poświęcili swej mrocznej Pani.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1005 = ~Ta magiczna strzała przy każdym trafieniu zadaje potężny, ogłuszający cios. 
+
+PARAMETRY:
+
+Specjalne:
+– 3k6 obrażeń od ogłuszenia
+
+Obrażenia: 1k6 +4
+TraK0: +3
+Typ obrażeń: pocisk
+Wyrzutnia: łuk
+
+Waga: 0~
+@1007 = ~Konni rycerze nie mogą efektywnie używać długich broni drzewcowych, co sprawiło, że wiele rodzajów broni zostało zaopatrzonych w krótsze drzewce, aby mogły być używane jednoręcznie. Wekiery i cepy bojowe są dwoma tego typu rodzajami broni drzewcowych – młot bojowy kolejnym. Cały jest wykonany ze stali, z dyskami, chroniącymi i wzmacniającymi uchwyt. Dyski te są małe i metalowe, często układane w dekoracyjne kształty. Drzewce ma około 60 cm długości. Ten młot bojowy wzmocniony został magicznym klejnotem.
+
+PARAMETRY:
+
+Obrażenia: 1k4 +3, +8 obrażeń od ogłuszenia
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 3
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 6~
+@1011 = ~Zbroja płytowa to połączenie kolczugi z mocnymi blachami, które chronią żywotnie ważne części ciała – klatkę piersiową, brzuch i krocze. Jej ciężar jest równo rozłożony na całe ciało, zaś całość połączona metalowymi spinkami i rzemieniami. Ta wzmocniona została magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Niskopoziomowe czary (poniżej szóstego poziomu) są odbijane z powrotem w rzucającego
+
+Klasa Pancerza: 1
+
+Wymagania:
+– Siła: 12
+
+Waga: 50~
+@1013 = ~Miecz ten jest osobistą bronią „Strachu”. Jedyne co o nim wiadomo, to to, że wywołuje u wrogów strach.
+
+PARAMETRY:
+
+Specjalne:
+– Wywołuje u wrogów strach
+
+Obrażenia: 1k10
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1015 = ~Miecz ten jest osobistą bronią „Nienawiści”. Jedyne co o nim wiadomo, to to, że zadaje wrogom dodatkowe obrażenia obuchowe.
+
+PARAMETRY:
+
+Specjalne:
+– Zadaje wrogom dodatkowe 2k6 obrażeń obuchowych
+
+Obrażenia: 1k10
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1017 = ~Miecz ten jest osobistą bronią „Bólu”. Jedyne co o nim wiadomo, to to, że zadaje wrogom dodatkowe obrażenia od trucizny.
+
+PARAMETRY:
+
+Specjalne:
+– Zadaje wrogom dodatkowe 2k6 obrażeń od trucizny
+
+Obrażenia: 1k10
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1019 = ~Miecz ten jest osobistą bronią „Żalu”. Jedyne co o nim wiadomo, to to, że wywołuje u wrogów chorobę.
+
+PARAMETRY:
+
+Specjalne:
+– Wywołuje u wrogów chorobę
+
+Obrażenia: 1k10
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1023 = ~Ostrze to łączy w sobie siły dobra i zła. Obie tocząc ze sobą wieczysty bój rozświetlają miecz kolorami mroku i światła. Miecz może być dzierżony tylko przez dobrych lub złych, bez możliwości użycia przez neutralnych. W dzisiejszych czasach ostrze zawierające moc obu stron jest niezwykle rzadkim znaleziskiem. 
+
+PARAMETRY:
+
+Specjalne:
+– Wszystkie czary ofiary w ciągu następnych 5 rund podlegać będą efektom dzikiej magii, jeśli nie powiedzie się jej rzut obronny przeciw czarom
+
+Obrażenia: 1k12 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1057 = ~Bransolety te stanowią jedną z nagród otrzymywanych przez zwycięzcę rozgrywanego na Arenie turnieju magicznych pojedynków. W tym właśnie celu zostały stworzone, skutkiem czego stanowią całkowity unikat.
+
+PARAMETRY:
+
+Specjalne:
+– Umożliwiają zapamiętanie po 1 dodatkowym czarze z 5., 6., 7. i 8. poziomu
+
+Klasa Pancerza: 4
+
+Waga: 2~
+@1059 = ~Topór ten został znaleziony przez Bruenora Walecznego Młota podczas jego przygód w szerokim świecie. Stał się przyczyną zguby wielu nieszczęsnych goblinów i olbrzymów.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +4, +3 obrażeń od ognia
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 7~
+@1061 = ~Hełm ten stanowi własność Bruenora Walecznego Młota, który jest na tyle doń przywiązany, że zwykł w nim nawet sypiać. Jeden z rogów tego hełmu został odcięty w trakcie dawnej bitwy.
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed trafieniami krytycznymi
+
+Klasa Pancerza: +1
+
+Waga: 2~
+@1063 = ~Tarcza ta stanowi własność wodza Klanu Waleczny Młot i znajduje się obecnie w posiadaniu najmłodszego członka Klanu, Bruenora. Została stworzona przez dziada obecnego posiadacza i od tego czasu stanowi dobro jego rodu.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na uroki, zamęt, dominację oraz unieruchomienie osoby
+
+Klasa Pancerza: +3
+
+Wymagania:
+– Siła: 4
+
+Waga: 2~
+@1067 = ~Sztylet ten ciąży ci w dłoni i jest ciepły w dotyku. Jeśli tylko masz go przy sobie, odczuwasz z jakiegoś powodu nieokreślony niepokój. Klejnot osadzony w rękojeści zdaje się świecić jakimś wewnętrznym światłem, lecz nie masz pojęcia, jak to możliwe, żeby kamień połyskiwał w taki sposób i jednocześnie pozostawał czarny i nieprzenikniony.
+
+PARAMETRY:
+
+Specjalne:
+– Mnożnik ciosu w plecy: +2
+
+Obrażenia: 1k4 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 0 
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@1069 = ~Ten potężny łuk został znaleziony przez Catti-Brie w Mithrilowym Dworze. Powiadają, że każda wystrzelona zeń strzała dosięga celu; ponadto jest zdolny do wytwarzania strzał.
+
+PARAMETRY:
+
+Specjalne:
+– Ten potężny łuk nie potrzebuje amunicji
+
+Obrażenia: 1k6 +5
+TraK0: +5
+Typ obrażeń: kłute
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Waga: 10~
+@1071 = ~Callandor stanowi święty symbol elfów. Jeden z ich bogów wykuł go dla swego sługi, przywódcy pewnego elfiego miasta, kiedy zgasła cała nadzieja, na zwyciężenie potworów oblegających miasto. Z pomocą miecza bestie zostały pokonane i powrócił spokój. Callandor stał się symbolem zwycięstwa nad ciemnością. Mimo czujnej straży został na czyjeś zlecenie ukradziony. Od tego czasu przechodzi z rąk do rąk, jednak nie bez rozlewu krwi.
+
+PARAMETRY:
+
+Specjalne: 
+– Klasa Pancerza: +2
+– Odporność na magię: +20%
+– 20% szans na wywołanie u przeciwnika choroby
+
+Obrażenia: 1k12 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz oburęczny 
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 7~
+@1072 = ~Topór ten został znaleziony przez Bruenora Walecznego Młota podczas jego przygód w szerokim świecie. Stał się przyczyną zguby wielu nieszczęsnych goblinów i olbrzymów.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +4, +3 obrażenia od ognia
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 15~
+@1080 = ~Cep bojowy to toporna drewniana rękojeść przymocowana do żelaznego pręta, drewnianego pręta z kolcami, albo kolczastej żelaznej kuli. Między rękojeścią a jej uzupełnieniem znajduje się łączenie z łańcucha bądź zawias. Ten cep został wzmocniony magią zimna.
+
+PARAMETRY:
+
+Specjalne:
+– 10% szans przy trafieniu na rzucenie na cel Stożka zimna
+
+Obrażenia: 1k6 +3, +4 obrażeń od zimna
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 12~
+@1089 = ~Pierwszymi mieczami jakie pojawiły się były właśnie krótkie miecze. Najprościej rzecz biorąc, jest to sztylet o ostrzu tak długim, że nie może być dłużej traktowany jak sztylet. Termin „krótki miecz” nie istnieje w żadnych klasyfikacjach mieczy. Tutaj oznacza on dwusieczne ostrze o długości około 60 centymetrów. Jego czubek jest zazwyczaj ostry, co sprawia, że doskonale służy do zadawania ran kłutych. Ten egzemplarz został wzmocniony skażoną magią Bestii.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +2, +5 obrażeń od elektryczności
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1091 = ~Halabarda to jeden z najczęściej używanych rodzajów broni drzewcowej, zakończony zakrzywionym ostrzem w kształcie topora na końcu 1,5 do 2,5 metrowego drzewca. Na przedłużeniu drzewca znajduje się długi szpic przypominający włócznię lub pikę. Po drugiej stronie ostrza znajduje się hak do przebijania zbroi i ściągania konnych z siodła. Można powiedzieć, że halabarda to skrzyżowanie włóczni z toporem. Ten egzemplarz został wzmocniony skażoną magią Bestii.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +2, +5 obrażeń od elektryczności
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 7
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 15~
+@1093 = ~Kij to najprostsza i najmniej efektywna z broni drzewcowych. Może mieć długość od 1,8 do grubo ponad 2 metrów. Wykonuje się go z dębowego drewna i często obija metalem na obu końcach. Do władania nim trzeba używać obu rąk. Ten egzemplarz został wzmocniony skażoną magią Bestii.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +2, +5 obrażeń od kwasu
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+@1095 = ~Wekiera jest w prostej linii spadkobierczynią zwykłej maczugi. Jest to po prostu drewniany trzonek, na którym została osadzona kamienna lub metalowa głowica, uzbrojona w kolce, ćwieki lub inne ostre zakończenia. Ten egzemplarz został wzmocniony skażoną magią Bestii.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +3, +5 obrażeń od magicznego ognia
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 10~
+@1097 = ~Jest to przeklęty miecz, który sprawuje się doskonale we wszystkich testach, poza ogniem bitwy. Postać, która wejdzie do walki, automatycznie wpada w berserk i zaczyna zabijać wszystkich w pobliżu do czasu, gdy walka się nie skończy lub gdy ona sama nie straci przytomności. Broń ta jest zaiste bardzo potężna, ale jej właściciel musi podjąć decyzję czy warto ryzykować czy też nie. Można się jej pozbyć tylko dzięki egzorcyzmom za pośrednictwem czaru Zdjęcie klątwy.
+
+PARAMETRY:
+
+Specjalne:
+– Dzierżąca go osoba wpada w szał berserkera
+– Można zdjąć tylko po rzuceniu czaru Zdjęcie klątwy
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 5~
+@1099 = ~Morgensztern ten stanowił oręż legendarnego barbarzyńcy żyjącego w Dolinie Lodowego Wichru. Broń ta była niezwykle skuteczna przeciw olbrzymom i budziła strach pośród potworów z Doliny. Ostatecznie jednak barbarzyńca ten poległ w bitwie, a broń trafiła w ręce lodowych olbrzymów.
+
+PARAMETRY:
+
+Obrażenia: 2k4 +3, +3 przeciw olbrzymom
+TraK0: +3, +3 przeciw olbrzymom
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 9~
+@1101 = ~Sztyletu tego użyto do zabicia demona zwanego Nizz'rim. Nikt nie wie, kim była zabójczyni, ani co się nią stało, sztylet bowiem został znaleziony wiele lat później w ciele orka.
+
+PARAMETRY:
+
+Obrażenia: 1k4 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Waga: 1~
+@1104 = ~Ta magiczna strzała przy każdym trafieniu zadaje potężny, ogłuszający cios.
+
+PARAMETRY:
+
+Specjalne:
+– 3k6 obrażeń od ogłuszenia
+
+Obrażenia: 1k6 +4
+Typ obrażeń: pocisk
+Wyrzutnia: łuk
+
+Waga: 0~
+@1111 = ~W rzeczywistości są to osadzone na nogach bransolety, zwiększające prędkość noszącego. Zostały one znalezione w Menzoberranzan.
+
+PARAMETRY:
+
+Specjalne:
+– Zwiększają prędkość poruszania się~
+@1113 = ~Jest to potężnie umagiczniony sejmitar +5, Iskra. Stanowi on własność Drizzta Do'Urden. Z uwagi na swą naturę mogą go używać jedynie osoby o czystym sercu.
+
+PARAMETRY:
+
+Specjalne: 
+– Klasa Pancerza: +2
+
+Obrażenia: 1k8 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Opóźnienie: 2
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 4~
+@1115 = ~Sejmitar ten został znaleziony przez Drizzta Do'Urdena w smoczych leżach. Wiadomym jest, że chroni dzierżącego przed ogniem, dzięki czemu uratował życia zarówno Drizzta, jak i Bruenora.
+
+PARAMETRY:
+
+Specjalne:
+– Ochrona przed ogniem
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Opóźnienie: 2
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 4~
+@1119 = ~Ten potężny płaszcz stworzony został przez matkę Mattiego Halmego w celu ustabilizowania różnic między żywiołami. Zapewnia 25% do odporności na ogień, zimno i elektryczność. Może być niezwykle przydatny przy ujemnych temperaturach.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień, zimno i elektryczność: +25%
+
+Waga: 1~
+@1121 = ~Ta skórzana zbroja noszona jest przez słynnego zabójcę Artemisa Entreriego. Znacząco poprawia rzuty obronne używającego.
+
+PARAMETRY:
+
+Specjalne:
+– Rzuty obronne: +3
+– Krycie się w cieniu: +20%
+
+Klasa Pancerza: 3
+
+Wymagania:
+– Siła: 8
+
+Waga: 5~
+@1123 = ~Bransolety te dają noszącemu niemal całkowitą odporność na magię, przez co stanowią koszmar magów. Obecnie znajdują się w posiadaniu Artemisa Entreriego, który ukradł je Kohrimowi Soulezowi.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +80%~
+@1125 = ~Sztylet ten należy do jednego z najlepszych wojowników świata, zabójcy Artemisa Entreriego i stanowi jego legalną własność. Broń ta potrafi wyssać z ofiary siły witalne, a Entreri nader często z tej zdolności korzysta przy wykańczaniu wrogów.
+
+PARAMETRY:
+
+Specjalne:
+– Przyspieszenie ruchów
+– Trucizna (2 punkty obrażeń na sekundę przez 10 sekund)
+
+Obrażenia: 1k4 +6
+TraK0: +6
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Waga: 1~
+@1131 = ~Tarczy średniej używa się podobnie, jak małej. Jednak w przeciwieństwie do niej, tarcza średnia waży na tyle dużo, że wojownik nie może wykorzystywać do innych celów podtrzymującej ją ręki. Tarcze tego typu wykonuje się zazwyczaj z metalu, mają od 90 do 120 cm średnicy i dowolny kształt, od okrągłych do prostokątnych. Typowa tarcza średniowieczna przypominała trójkąt z jednym z ramion skierowanym w dół. Ta wzmocniona została magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień: +75%
+
+Klasa Pancerza: +4
+
+Wymagania:
+– Siła: 12
+
+Waga: 7~
+@1133 = ~Do tej kategorii zaliczają się obusieczne miecze, miecze wojenne i wojskowe. Bardzo często miecze długie są jednosieczne. Nie istnieje jedna wersja broni tego typu; sposób wykonania i długość zależy od kultury, a nawet miejsca w obrębie jednego narodu, w którym wykuto ostrze. Ich najczęściej występującą wspólną cechą jest długość, wahająca się od 90 do 110 cm. Większość mieczy długich jest obusiecznych i ma zaostrzony koniec. Mimo ostrego końca, miecze te służą do zadawania ran siecznych, a nie kłutych. Ten wzmocniony został magicznym klejnotem.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +4, +2 obrażeń od ognia
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1135 = ~Katanę tego rodzaju zazwyczaj łączy się z drugą Kataną ognia, jednak niedawne jej połączenie z Kataną lodu, zaczyna cieszyć się coraz większą popularnością. Można określić kilka poziomów mocy katan ognia, a ten egzemplarz plasuje się gdzieś pośrodku.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +2, +5 obrażeń od ognia
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 6~
+@1137 = ~Tę pełną zbroję płytową stworzono w Dolinie Lodowego Wichru. Została ona przepełniona odpornościami na zimno, bowiem pierwotnym jej przeznaczeniem była ochrona noszącego ją w walce z nękającymi Dolinę olbrzymami.
+
+PARAMETRY:
+
+Specjalne: 
+– Odporność na zimno: 75%
+
+Klasa Pancerza: -2
+
+Wymagania:
+– Siła: 15
+
+Waga: 45~
+@1139 = ~Katana to lekko zakrzywiony miecz o jednym ostrzu. Są to prawdopodobnie najostrzejsze miecze jakie kiedykolwiek wykuto, proces ich tworzenia jest długi, trzymany w tajemnicy i jest prawdziwą sztuką. To ostrze jest chyba najważniejszą częścią kultury Kara-Tur. Dotknięcie czy wzięcie do ręki katany samuraja to dla niego obraza i zawsze wywołuje jego gniew. Rzadkością jest by gaijin, czyli obcokrajowiec, posiadał taki miecz. Albo ten gaijin jest serdecznym przyjacielem ważnego ministra, albo zamordował samuraja. Ta katana wzmocniona została magicznym klejnotem.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +3, +3 obrażeń od zimna
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 6~
+@1145 = ~Najlepsza (i najcięższa) zbroja, jaką wojownik może zdobyć – zarówno pod względem wyglądu, jak i ochrony, którą zapewnia. Jej znakomicie dopasowane, połączone elementy z litego metalu są specjalnie modelowane, by jak najlepiej odbijały tak uderzenia broni różnego typu, jak i strzały. Zwykle zbroja tego rodzaju jest bogato zdobiona – artystycznie grawerowana i upiększana różnymi dodatkami. Ta wzmocniona została magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zimno: +50%
+
+Właściwości ładunków:
+– Ognista tarcza (błękitna), raz dziennie
+
+Klasa Pancerza: -1
+
+Wymagania:
+– Siła: 15
+
+Waga: 70~
+@1147 = ~Jest to masywna, metalowa lub drewniana tarcza, sięgająca od ziemi aż do podbródka wojownika. Musi być solidnie przymocowana do przedramienia i cały czas przytrzymywana, co oznacza, że w ręce, na której opiera się tarcza nie można trzymać niczego innego. Ten egzemplarz wzmocniony został magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Regeneracja punktów życia: 1/6 sekund
+– Klasa Pancerza przeciw broni strzeleckiej: +1
+
+Właściwości ładunków:
+– Ochrona przez zimnem, trzy razy dziennie
+
+Klasa Pancerza: +3
+
+Wymagania:
+– Siła: 15
+
+Waga: 15~
+@1153 = ~Kolczuga jest wykonana z przeplatających się metalowych kółeczek. Zawsze nakłada się ją na kubrak z pikowanego materiału; ma to zapobiec bolesnym otarciom i złagodzić siłę ciosów. Ten egzemplarz wzmocniony został potężnym, magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię i obrażenia od magii: +50%
+
+Klasa Pancerza: 1
+
+Wymagania:
+– Siła: 8
+
+Waga: 40~
+@1155 = ~Halabarda to jeden z najczęściej używanych rodzajów broni drzewcowej, zakończony zakrzywionym ostrzem w kształcie topora na końcu 1,5 do 2,5 metrowego drzewca. Na przedłużeniu drzewca znajduje się długi szpic przypominający włócznię lub pikę. Po drugiej stronie ostrza znajduje się hak do przebijania zbroi i ściągania konnych z siodła. Można powiedzieć, że halabarda to skrzyżowanie włóczni z toporem. Ten egzemplarz wzmocniony został potężnym, magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +30%
+
+Obrażenia: 1k10 +4, +7 obrażeń od magii
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 6
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 15~
+@1164 = ~Drizzt Do'Urden ukradł tę figurkę w Menzoberranzan; pozwala ona na przywołanie posłusznej Drizztowi pantery Guenhwyvar.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Przywołanie czarnej pantery walczącej przez godzinę dziennie po twojej stronie~
+@1166 = ~Młot Moradina stanowi jedną z nagród na Arenie. Kiedy uważnie się przyglądasz, zauważasz, że to naprawdę jest mityczny Młot Moradina, główny temat legend i opowieści krasnoludów...
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zwykłe bronie
+
+Obrażenia: 2k4 +4
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 4~
+@1170 = ~Tę zbroję płytową znaczą symbole bogatej kupieckiej rodziny. Jej wartość zwiększa pomniejsze umagicznienie.
+
+PARAMETRY:
+
+Klasa Pancerza: 2
+
+Wymagania:
+– Siła: 12
+
+Waga: 20~
+@1180 = ~Miecz ten został odnaleziony w opuszczonej kopalni gdzieś w Górach Mglistych. O ile jego pochodzenie jest nieznane, o tyle właściwości zostały odkryte. Broń ta, z racji potężnego umagicznienia, znakomicie sprawdza się w walce, jednak jeśli jakakolwiek istota zostanie nim zabita, zmartwychwstanie, aczkolwiek jedyne, co będzie zdolna odczuwać, to ból.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +4
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 12~
+@1182 = ~Buty te zostały stworzone dla magów. Były one używane przez stulecia, a mimo to wciąż trzymają fason. Być może ten, kto je stworzył, w pełni to zaplanował.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +1
+– Odporność na magię: +10%
+– Odporność na obrażenia od magii: +10%
+
+Waga: 4~
+@1187 = ~Najlepsza (i najcięższa) zbroja, jaką wojownik może zdobyć – zarówno pod względem wyglądu, jak i ochrony, którą zapewnia. Jej znakomicie dopasowane, połączone elementy z litego metalu są specjalnie modelowane, by jak najlepiej odbijały tak uderzenia broni różnego typu, jak i strzały. Zwykle zbroja tego rodzaju jest bogato zdobiona – artystycznie grawerowana i upiększana różnymi dodatkami. Dzięki rękodzielnictwu Pipa Szarostopego, pancerz ten zyskał najpotężniejsze umagicznienie – został wzmocniony Okiem boga.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień, zimno, kwas, magię, elektryczność i truciznę: +50%
+– Ochrona przed nieumarłymi
+
+Właściwości ładunków:
+– Słup ognia, cztery razy dziennie
+
+Klasa Pancerza: -4
+
+Wymagania:
+– Siła: 15
+
+Waga: 50~
+@1189 = ~Jest to masywna, metalowa lub drewniana tarcza, sięgająca od ziemi aż do podbródka wojownika. Musi być solidnie przymocowana do przedramienia i cały czas przytrzymywana, co oznacza, że w ręce, na której opiera się tarcza nie można trzymać niczego innego. Dzięki rękodzielnictwu Pipa Szarostopego, tarcza ta zyskała najpotężniejsze umagicznienie – została wzmocniona Okiem boga.
+
+PARAMETRY:
+
+Specjalne:
+– Regeneracja punktów życia: 1/3 sekundy
+– Niewidzialność
+– Rzuty obronne: +3
+– Klasa Pancerza przeciw broni strzeleckiej: +1
+– Siła, Zręczność, Kondycja, Inteligencja, Mądrość i Charyzma: +1
+
+Właściwości ładunków:
+– Słup ognia, cztery razy dziennie
+
+Klasa Pancerza: +5
+
+Wymagania:
+– Siła: 15
+
+Waga: 15~
+@1191 = ~Katanę tego rodzaju zazwyczaj łączy się z drugą Kataną lodu, jednak niedawne jej połączenie z Kataną ognia, zaczyna cieszyć się coraz większą popularnością. Można określić kilka poziomów mocy katan lodu, a ten egzemplarz plasuje się gdzieś pośrodku.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +2, +5 obrażeń od zimna
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 6~
+@1209 = ~Jest to dokładna kopia Arandila.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 3~
+@1211 = ~Jest to jeden z mieczy używanych przez Jarlaxle'a, dawnego przywódcę Bregan Da'erthe.
+
+PARAMETRY:
+
+Specjalne: 
+– Przyspieszenie ruchów
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 2
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1213 = ~Jest to dokładna kopia Zagłady Meralchana.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 2
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1215 = ~Ten potężny sejmitar został stworzony w Podmroku przez drowy i obecnie znajduje się w posiadaniu Jarlaxle'a.
+
+PARAMETRY:
+
+Specjalne:
+– Regeneracja punktów życia: 1/5 sekund
+
+Obrażenia: 1k8 +4, +5 obrażeń od zimna, +5 obrażeń od ognia
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 3~
+@1217 = ~Miecz ten stanowi nagrodę za zwycięstwo w pierwszym dniu zawodów na Arenie. Wydaje się, że ostrze to zostało naładowane magią elektryczności.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +3, +5 obrażeń od elektryczności
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1219 = ~Ktoś, kto spotka katanę o umagicznieniu +3 może uważać się za szczęściarza. Umagicznienie katany nie jest prostą sprawą, dlatego tak mocno umagicznione są niezwykłą rzadkością. Zazwyczaj znaleźć je można w dłoniach najlepszych wojowników Faerûnu.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 5~
+@1221 = ~Ostrze to stanowi jedną z nagród na Arenie. Broń znana jest także jako „Udręka Świata”. Przedmiot równie potężny jak ten w złych rękach może powodować wojny.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +4, +2 obrażenia od ognia, +2 obrażenia od zimna, +2 obrażenia od elektryczności
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1227 = ~Miecz ten stanowi parę z Bransoletami Kohrima. Połączenie to znane jest z możliwości w zakresie odporności na magię, wysysania jej i używania przeciw atakującemu. Przynajmniej w prawej dłoni.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+– Inteligencja: 14
+
+Waga: 8~
+@1229 = ~Miecz ten posiada swoisty rodzaj inteligencji i może stać się bardzo niebezpieczny dla dzierżącego. Catti-Brie wygrała mentalny pojedynek z tą bronią, dzięki czemu może jej teraz używać do woli bez żadnego ryzyka.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +4
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+– Inteligencja: 10
+
+Waga: 8~
+@1231 = ~Jedna z nagród na Arenie. Jest to niewiarygodnie potężny amulet, zdolny podnieść każdą z cech noszącego o 1.
+
+PARAMETRY:
+
+Specjalne:
+– Siła, Zręczność, Kondycja, Inteligencja, Mądrość i Charyzma: +1
+
+Waga: 2~
+@1235 = ~Ostrze to jest jedną z nagród na Arenie. Jest także znane pod nazwą „Nieustraszony”.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zauroczenie
+– Odporność na dominację
+– Odporność na zamęt, bezmyślność i strach
+
+Obrażenia: 1k10 +6
+TraK0: +6
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1237 = ~Wygląda na to, że amulet ten stanowi ząb lisza umieszczony w miejscu, gdzie zazwyczaj znajduje się klejnot. Ząb jarzy się jakimś rodzajem magicznej energii. Niemądrym byłoby dotykanie go gołą skórą, tak więc powinien być zawieszany na ubraniu.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Infrawizja
+– Ochrona przed petryfikacją
+– Odporność na zwykłe bronie~
+@1239 = ~Ostrze Nomala zostało wykute przed dwoma wiekami, w celu zabicia demona, który przedsięwziął ucieczkę na powierzchnię. Tam z zimną krwią wymordował wszystkich w małym miasteczku nieopodal Arlax. Kiedy wieść o tym dotarła do miasta, mag imieniem Nomal stworzył magiczny miecz, by zabić demona jednym uderzeniem. Z zadaniem tym wysłany został pewien dzielny wojownik; cel udało się mu osiągnąć, jednak przypłacił to życiem, z powodu ran otrzymanych w trakcie walki. Kiedy z Arlax celem ustalenia faktycznych zdarzeń przybyła grupa magów, znaleźli oni ciała zarówno demona, jak i wojownika, niestety samo ostrze przepadło.
+
+PARAMETRY:
+
+Specjalne:
+– 15% szans na zabicie demona jednym ciosem
+
+Obrażenia: 1k6 +2, +2 obrażeń od zimna
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1244 = ~Ten mistyczny łuk stworzony został dla kapitana łuczników króla Hadira. Potrafi wytworzyć lustrzane odbicia dzierżącego, przez co znacząco utrudnia wrogom trafienie.
+
+PARAMETRY:
+
+Specjalne:
+– Lustrzane odbicie z czterema kopiami, trzy razy dziennie
+
+Obrażenia: +3
+TraK0: +3
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 18
+
+Waga: 7~
+@1246 = ~Jedno z najwspanialszych dzieł krasnoludzkiego rzemiosła, zapewnia też noszącemu niewiarygodną ochronę.
+
+PARAMETRY:
+
+Specjalne: 
+– Odporność na cios w plecy i wyssanie poziomów
+
+Klasa Pancerza: -1
+
+Wymagania:
+– Siła: 8
+
+Waga: 8~
+@1252 = ~Przed laty pewną magiczkę odwiedził jakiś chudy mężczyzna i poprosił ją o zrobienie dlań amuletu potęgi. Miał on podnosić jego krzepę, zwinność i witalność, a cenę ustalono na trzy tysiące. Magiczka wywiązała się ze swojego zadania, jednak została oszukana, bowiem mężczyzna powalił ją i zbiegł. Niewiasta była jednak nie w ciemię bita i już zawczasu postarała się o małą niespodziankę w przypadku wiarołomstwa. Oczywiście życzenie mężczyzny zostało zrealizowane, jednak nie tylko. Amulet powoduje także niewyobrażalny spadek sprawności umysłowej i zdolności do zapamiętywania, a także zohydza wygląd noszącego.
+
+PARAMETRY:
+
+Specjalne: 
+– Siła, Zręczność i Kondycja: +3
+– Inteligencja: 3
+– Mądrość: 3
+– Charyzma: 3
+– Może być zdjęty tylko po rzuceniu czaru Zdjęcie klątwy~
+@1254 = ~Amulet ten stworzony został w celu ochrony noszącego przed elektrycznością, z drugiej strony jednak także umożliwienia kontrataku przy jej użyciu, jako że imający się jej częstokroć nie są przed nią chronieni. To właśnie decyduje o wartości tego przedmiotu.
+
+PARAMETRY:
+
+Specjalne: 
+– Odporność na elektryczność: 100%
+
+Właściwości ładunków:
+– Błyskawica, trzy razy dziennie~
+@1256 = ~Amulet ten słynie ze zwiększania zadawanych celowi obrażeń. Spowodowane jest to tym, że noszący go staje się bardziej biegły w trafianiu w odpowiednie miejsca.
+
+PARAMETRY:
+
+Specjalne: 
+– +4 do obrażeń w walce wręcz~
+@1258 = ~Grot tej strzały nasączony jest specjalną trucizną, która powoduje na krótki okres czasu oślepienie trafionego stworzenia. Właściwość ta sprawia, że strzały te są niezwykle przydatne dla zabójców – pierwszy strzał nie musi być śmiertelny, ślepy przeciwnik to bezradny, a wkrótce i martwy, przeciwnik.
+
+PARAMETRY:
+
+Specjalne:
+– Oślepia cel na cztery rundy
+
+Obrażenia: 1k6
+Typ obrażeń: pocisk
+Wyrzutnia: łuk
+
+Waga: 0~
+@1260 = ~Trafienie strzałą tego typu, powoduje na krótki okres czasu utratę zdolności mowy przez trafione stworzenie. Strzały te postrzegane są jako niezwykle efektywne w walce z magami, już pojedyncza potrafi skutecznie unieszkodliwić maga, reszta w tym momencie to formalność.
+
+PARAMETRY:
+
+Specjalne:
+– Ucisza cel na cztery rundy
+
+Obrażenia: 1k6
+Typ obrażeń: pocisk
+Wyrzutnia: łuk
+
+Waga: 0~
+@1262 = ~Topór ten słynie ze zdolności obniżania umiejętności bojowych przeciwnika. Chociaż czyni to tylko na chwilę, jest to niezwykle cenne – kiedy wróg jest niezdolny do ataku z pełnią możliwości, można z większą swadą zadawać mu więcej obrażeń. Ostatnim właścicielem tego topora był Ybrick z Mithrilowego Dworu, jednak postradał go w bitwie.
+
+PARAMETRY:
+
+Specjalne: 
+– Jeśli przeciwnikowi nie powiedzie się rzut obronny przeciw czarom, jego TraK0 pogorszy się o 5 punktów na okres jednej rundy
+
+Obrażenia: 1k8 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 5~
+@1264 = ~Toporek ten został umagiczniony i wyostrza wzrok dzierżącego, dzięki czemu może być rzucany z daleka i przez to zaskakiwać wrogów.
+
+PARAMETRY:
+
+Specjalne:
+– Dodatkowe 2k6 obrażeń od zimna
+– Po rzucie wraca do właściciela
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń (walka wręcz): sieczne
+Typ obrażeń (rzucony): pocisk
+Opóźnienie: 2
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+@1266 = ~Topór ten wygląda na delikatny i pozbawiony mocy, jednak wygląd ma mylić, ponieważ założeniem tej broni jest wprowadzanie w błąd przeciwnika. Topór ten jest bowiem silnie umagiczniony i z pewnością nie zawiedzie w bitwie, ponadto widok  zaskoczenia na twarzy przeciwnika, kiedy tak „wymuskana” broń zadaje tak potężne obrażenia, wart jest każdego wyrzeczenia.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@1268 = ~Jak sama nazwa wskazuje, pas ten stworzono specjalnie dla złodziei. Noszony podnosi umiejętności złodziejskie noszącego, skutkiem czego jest niezwykle cennym elementem wyposażenia każdego złodzieja. Jedno jest pewne: pas ten zmienia właściciela częściej niż krasnolud onuce, tak więc jeśli ktoś zdecyduje się go założyć, powinien zachowywać daleko posuniętą ostrożność nosząc go.
+
+PARAMETRY:
+
+Specjalne: 
+– Każda z umiejętności złodziejskich: +20
+
+Waga: 2~
+@1270 = ~Pas ten swe miano zawdzięcza Esie Tchórzliwemu, znanemu ze swego wrodzonego tchórzostwa, którego nijak nie potrafił przezwyciężyć. Posiadł jednak ten wykonany dlań pas, skutkiem czego mógł uniknąć każdego niebezpieczeństwa. Często włączał się, bądź też był włączany do bójek, kiedy pijał w tawernach, i gdy nadciągały kłopoty, zapinał pas i znikał.
+
+PARAMETRY:
+
+Specjalne: 
+– Niewidzialność
+– Klasa Pancerza: +2
+
+Waga: 2~
+@1272 = ~Nazwa może być nieco myląca, jako, że pas ten chroni przed każdą magią bazującą na zauroczeniach. Kiedy ktoś go założy, może być pewnym, że żaden urok nie zostanie nań rzucony.
+
+PARAMETRY:
+
+Specjalne: 
+– Ochrona przed czarami ze szkoły Zaczarowań/Zauroczeń
+
+Waga: 2~
+@1274 = ~Fragment hełmu Bengara
+
+Wydaje się, że jest to słynny hełm Bengara, aczkolwiek brakuje mu skrzydeł. Pierwotnie należał on do legendarnego wojownika Bengara, który jednak zniknął w tajemniczych okolicznościach. Hełm po jakimś czasie został odnaleziony, jednak skrzydła zostały odeń odjęte. Niestety bez nich hełm jest pozbawiony swej mocy.
+
+PARAMETRY:
+
+Specjalne:
+– Chroni przed trafieniami krytycznymi
+
+Klasa Pancerza: bez zmian
+
+Waga: 2~
+@1280 = ~Hełm ten został stworzony dla chrobrego wojownika, Bengara. Moc tego przedmiotu zawarta jest w skrzydłach, które utracił, kiedy Bengar zaginął, jednak teraz zostały odnalezione i ponownie przyozdabiają to nakrycie głowy.
+
+PARAMETRY:
+
+Specjalne: 
+– Chroni przed trafieniami krytycznymi
+– Inteligencja: 18
+– Odporność na zamęt, bezmyślność, strach i zauroczenie
+
+Klasa Pancerza: +2
+
+Waga: 2~
+@1282 = ~Kiedy trzymany jest w dłoni, bełt ten wydaje się płonąć. Kiedy zostaje wystrzelony, zdaje się szybować ku celowi, zostawiając za sobą smugę siarkowego odoru. Kiedy trafia, emituje podmuch gorąca, spowodowany uwolnieniem przetrzymywanego żaru wprost do zadawanej rany.
+
+PARAMETRY:
+
+Specjalne:
+– 4k4 obrażeń od ognia (połowa po rzucie obronnym przeciwko zionięciom)
+
+Obrażenia: 1k8
+Typ obrażeń: pocisk
+Wyrzutnia: kusza
+
+Waga: 0~
+@1284 = ~Bełty to amunicja wystrzeliwana przez kusze, niezależnie od wielkości broni. Ten szczególny bełt jest magiczny; lecąc w kierunku celu sprawia wrażenie, jakby sam nakierowywał się na cel.
+
+PARAMETRY:
+
+Obrażenia: 1k8
+TraK0: +3
+Typ obrażeń: pocisk
+Wyrzutnia: kusza
+
+Waga: 0~
+@1286 = ~Bransolety te są jednymi z najrzadszego rodzaju: chronią przed całą rasą, w tym przypadku rasą yuan-ti, ponadto przeznaczone są wyłącznie dla magów. Pierwotnie były używane wyłącznie dla rozrywki: jako, że zapewniają całkowitą odporność na wszelkie ataki yuan-ti, magowie używali ich podczas przechadzek pośród więźniów reprezentujących wspomnianą rasę i niespiesznego ich mordowania.
+
+PARAMETRY:
+
+Specjalne:
+– Ochrona przed yuan-ti~
+@1288 = ~Historię związaną z powstaniem tych rękawic można określić jako rzewną. Pewnego razu był sobie prawy człek szukający sposobu na uzyskanie życia wiecznego. Stało się to jego obsesją i popchnęło go do popełnienia straszliwych czynów. Zamordował on setki ludzi i zmagazynował ich „energię życiową” wewnątrz tych bransolet. Zgodnie z oczekiwaniami miały one uwolnić ją, kiedy żywot noszącego dobiegłby kresu i w ten sposób przedłużyć go. O tym, jak błędne były to rachuby przekonano się po śmierci właściciela, bowiem okazało się, że zamiast do przedłużania jego życia, mogą być używane jedynie do dawania go innym. To właśnie stanowi istotę zła je przepełniającego, ponadto założenie ich kosztuje wiele cierpienia. Krążą pogłoski, że kiedy wszystkie schwytane żywoty zostaną zużyte, ich miejsce zajmie życie noszącego.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Zmartwychwstanie, raz dziennie~
+@1290 = ~Kiedy ktoś założy te buty, natychmiast zauważa zmianę w umiejętnościach manualnych. Niewiadomą jest przyczyna powstania butów tego rodzaju, zazwyczaj tego rodzaju umagicznienie występuje w bransoletach.
+
+PARAMETRY:
+
+Specjalne:
+– Zręczność: 19
+
+Waga: 3~
+@1292 = ~Buty są zwykle ręcznie wyrabiane przez szewców. Zwykłe buty są robione z użyciem jakiegoś ogólnego modelu stopy, ale te dobre wykonywane są na zamówienie i dopasowywane do stóp zamawiającego. Ta para została wzmocniona zaklęciami ochronnymi.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +1
+– Rzuty obronne: +1
+
+Waga: 3~
+@1294 = ~Buty te słyną ze stałego Sanktuarium, którym obdarzają noszącego, aczkolwiek zaklęcie to może zostać rozproszone. Mimo to mogą być niezwykle przydatne dla łowców, paladynów i kapłanów.
+
+PARAMETRY:
+
+Specjalne:
+– Sanktuarium~
+@1296 = ~Wewnątrz tego pocisku zawarte są magiczne energie co sprawia, że wydaje się on bardziej stabilny i lżejszy gdy podąża w kierunku celu. Gdy uderza w przeciwnika uwalnia falę zimna wprost do zadawanej rany.
+
+PARAMETRY:
+
+Obrażenia: 1k4 +2, +2 obrażenia od zimna
+TraK0: +1
+Typ obrażeń: pocisk
+Wyrzutnia: proca
+
+Waga: 0~
+@1298 = ~Wewnątrz tego pocisku zawarte są magiczne energie co sprawia, że wydaje się on bardziej stabilny i lżejszy gdy podąża w kierunku celu. Gdy uderza w przeciwnika uwalnia iskrę energii wprost do zadawanej rany.
+
+PARAMETRY:
+
+Obrażenia: 1k4 +2, +2 obrażenia od elektryczności
+TraK0: +1
+Typ obrażeń: pocisk
+Wyrzutnia: proca
+
+Waga: 0~
+@1300 = ~Łuk ten pierwotnie stworzono tylko w jednym celu: polowań na ludzi. Książę, którego imię zaginęło w odmętach dziejów, używał go dla rozrywki do łowów na niewolników. Używał do tego też specjalnych strzał, które „zmrażały” cel, by kończyć dzieło za pomocą czystego strzału w głowę.
+
+PARAMETRY:
+
+Obrażenia: +3
+TraK0: +3
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 18
+
+Waga: 8~
+@1302 = ~Ten potężny łuk został wzmocniony zaklęciami zdolnymi blokować wybrane czary oddziałujące na stan, wliczając to Uciszenie. Z powodu tej ostatniej odporności niektórzy z używających uskarżali się na fakt, iż stali się bardziej rozmowni niż zazwyczaj.
+
+PARAMETRY:
+
+Specjalne:
+– Swoboda działania
+– Ugłosowienie
+– Niewykrywalność
+
+Obrażenia: +2
+TraK0: +2
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 2~
+@1304 = ~Ta, noszona przez wysokiego rangą żołnierza, kolczuga została znaleziona w ruinach starożytnego miasta. Ci, którzy znaleźli całość twierdzą, że opięte nią ciało samo stało, a przyczyna jego śmierci pozostaje nieznana.
+
+PARAMETRY:
+
+Klasa Pancerza: 1
+
+Wymagania:
+– Siła: 8
+
+Waga: 9~
+@1306 = ~Henryka Wspaniałego historia zapamiętała jako władcę z dużym poczuciem humoru, co obrazuje między innymi także ta zbroja. Płatnerz, który ją stworzył cechował się równie sporym poczuciem humoru: jako, że Henryk słynął ze swego gadulstwa, dołożył do tej kolczugi mały prezent – uciszenie. Został oczywiście stracony.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +10%
+– Rzuty obronne: +1
+– Noszący znajduje się pod wpływem Uciszenia
+
+Klasa Pancerza: 0
+
+Wymagania:
+– Siła: 8
+
+Waga: 8~
+@1308 = ~Płaszcz ten ofiaruje noszącemu go szybkość i osłonę. Natychmiast po narzuceniu na siebie jego posiadacz znika z pola widzenia, zauważa także, że porusza się szybciej niż zazwyczaj. Ta ochrona znika, kiedy zdecyduje się wykonać atak.
+
+PARAMETRY:
+
+Specjalne: 
+– Przyspieszenie ruchów
+– Niewidzialność
+
+Waga: 3~
+@1310 = ~Paszcz ten może być używany tylko przez tych o czystym sercu. Wzbogaca pamięć noszącego, dzięki czemu może on zapamiętać na raz więcej zaklęć niż zazwyczaj.
+
+PARAMETRY:
+
+Specjalne:
+– Umożliwia zapamiętanie po jednym dodatkowym zaklęciu z 5., 6. i 7. poziomu~
+@1313 = ~Płaszcz ten został stworzony wyłącznie dla magów. Regeneruje siły życiowe noszącego i ofiaruje Duchowy pancerz dla ochrony. Płaszcze te były całkiem powszechne parę wieków temu w Sembii, jednak w dzisiejszych czasach są prawdziwą rzadkością.
+
+PARAMETRY:
+
+Specjalne:
+– Duchowy pancerz
+– Regeneracja punktów życia: 1/4 sekundy~
+@1315 = ~Trafiona tym morgenszternem ofiara może zostać zamieniona w kamień, ze względu na jego istotę „wyczerpywania”. Podanie głosi, że ci, którzy używali tej broni ostatecznie sami stali się jej ofiarami.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zostanie zamieniona w kamień, jeśli nie powiedzie się jej rzut obronny przeciw petryfikacji/polimorfii
+
+Obrażenia: 2k4 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 10~
+@1317 = ~Morgensztern ten zdobył sławę dzięki swej zdolności do wywoływania berserku u wrogów. Trafiona nim istota wpada w ślepą furię i atakuje wszystkich w zasięgu wzroku, z tego powodu jest to idealne narzędzie do siania zamętu w szeregach przeciwnika.
+
+PARAMETRY:
+
+Specjalne:
+– Wywołuje berserk u przeciwnika
+
+Obrażenia: 2k4 +4
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 3
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 9~
+@1326 = ~Płomień Przynoszącego Burzę; Piekło Północy; Ostrze, które zostało złamane: Kryształ. Wykuty podczas Czasu Niepokojów, strzaskany w ogniu walk pod Havannock, teraz przekuty w jedność, by przynieść śmierć wszystkim wrogom.
+
+Proces tworzenia Kryształu stanowi tajemnicę. Powiadają, że maczał w tym palce któryś z bogów, jednak nie zostało to udowodnione. W jakikolwiek sposób powstało, znalazło się w posiadaniu jednego z najpotężniejszych wojowników Czasu Niepokojów, Travisa Przynoszącego Burzę. W bitwie w której zginął, pod Havannock, Kryształ został strzaskany, a jego fragmenty zostały zgubione. Teraz znalezione, zostały przekute w jedność przez mistrza Brundora.
+
+PARAMETRY:
+
+Specjalne:
+– 90% szans na zadanie przeciwnikowi 1k10 dodatkowych obrażeń losowego typu
+
+Obrażenia: 1k10 +6
+TraK0: +6
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 7~
+@1328 = ~Ten potężny sztylet został wzmocniony magią zimna i umiejętnością przyzwania go z powrotem, kiedy zostanie rzucony, to ostatnie jest zresztą najbardziej pospolitym sposobem użycia.
+
+PARAMETRY:
+
+Specjalne:
+– Po rzucie wraca do właściciela
+
+Obrażenia: 1k4 +4, +2k4 obrażeń od zimna
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@1330 = ~Typowe sztylety posiadają ostro zakończone, dwusieczne ostrza, w odróżnieniu od zwykłych noży, które są jednosieczne i nieco krótsze. Ten egzemplarz został wzmocniony licznymi czarami ochronnymi.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zamęt, bezmyślność, strach i przerażenie
+– Ugłosowienie
+– Swoboda działania
+– Niewykrywalność
+
+Obrażenia: 1k4 +2
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@1332 = ~Strzałka to mały, łatwy do ukrycia pocisk, który służy do rzucania, a nie wystrzeliwania z łuku, kuszy czy procy. Ta aż trzeszczy nagromadzoną w niej energią i kiedy uderza w cel aplikuje w zadawaną przez siebie ranę dodatkowo wstrząs elektryczny.
+
+PARAMETRY:
+
+Obrażenia: 1k3 +1, +2k4 obrażeń od elektryczności
+TraK0: +1
+Typ obrażeń: pocisk
+Opóźnienie: 1
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+
+Waga: 0~
+@1334 = ~Strzałka to mały, łatwy do ukrycia pocisk, który służy do rzucania, a nie wystrzeliwania z łuku, kuszy czy procy. Ta powoduje przemianę w kamień, jeśli przebije skórę – petryfikacja następuje natychmiast, kiedy tylko strzałka wejdzie w kontakt z krwią ofiary. A ponieważ nawet najmniejsze skaleczenie tą bronią może spowodować śmierć, każdy powinien zachować szczególną ostrożność przy użyciu.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zostanie zamieniona w kamień (odporność może chronić), jeśli nie powiedzie się jej rzut obronny przeciw petryfikacji/polimorfii
+
+Obrażenia: 1k3 +2
+TraK0: +2
+Typ obrażeń: pocisk
+Opóźnienie: 1
+Rodzaj biegłości: strzałka
+Typ broni: 1-ręczna
+
+Waga: 0~
+@1336 = ~Fama została wzmocniona runami zarówno Clangeddina, jak i Moradina. Poważanie jakim cieszy się wśród krasnoludów jest, podobnie jak jej moc, ogromne. Istnieje też szansa, że podczas trafienia zawarta w broni siła obu bogów zostanie przebudzona i zada celowi dodatkowe obrażenia. Ponadto w starciu z olbrzymami używający ma szansę na zabicie wroga jednym ciosem.
+
+PARAMETRY:
+
+Specjalne: 
+– Po rzucie natychmiast wraca do właściciela
+– 10% szans na zadanie 4k10 dodatkowych obrażeń obuchowych
+– 25% szans na zabicie jednym ciosem ognistych i lodowych olbrzymów
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń (walka wręcz): sieczne
+Typ obrażeń (rzucony): pocisk
+Opóźnienie: 1
+Rodzaj biegłości: topór
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 4
+
+Waga: 3~
+@1338 = ~Cep ten jest znany z ochrony dzierżącego go przed każdym rodzajem nagłej śmierci. Szansa na zgon pozostaje bez zmian, jednakże używający tej broni będzie bezpieczny od wszelkich niepożądanych i nieoczekiwanych śmiertelnych zaklęć. Z pewnością dobrze byłoby wiedzieć, co cię zabiło.
+
+PARAMETRY:
+
+Specjalne:
+– Ochrona przed nagłą śmiercią
+
+Obrażenia: 1k6 +3
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 10~
+@1340 = ~W przeddzień bitwy z, bliskiego zaatakowania przez orków, Albagaru wydostał się, zostawiając obrońców bez przywódcy, Sermak Wielki. Albagarskie kobiety i dzieci z nieliczną eskortą uszły bezpiecznie w góry. Miasto zostało zaatakowane i obrońcy znaleźli się o krok od przegranej. Jednak piątego dnia o świcie, jak przyobiecał, Sermak powrócił wraz z nową bronią. Samopas natarł na tyły, zmagającego się z obrońcami, wroga. Niestety jego liczebność była zbyt duża nawet dla Jutrzenki, ostatecznie więc bitwa zakończyła się klęską, miasto i cep bojowy zostały stracone.
+
+PARAMETRY:
+
+Specjalne: 
+– Zabija orki jednym ciosem
+– Odporność na bronie o umagicznieniu mniejszym niż 2
+
+Obrażenia: 1k6 +6
+TraK0: +5
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: cep bojowy/morgensztern
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 5~
+@1342 = ~Angmar był niezwykle uzdolnionym płatnerzem; spod jego ręki wyszedł między innymi ten właśnie pancerz. Ofiarował go swojemu władcy, który nie posiadał się z radości i szczodrze go wynagrodził. Niestety dla Angmara jego rywal znalazł okazję, by nałożyć na tę zbroję klątwę. Kiedy jej istnienie wyszło na jaw, Angmar został zmuszony do udania się na banicję.
+
+PARAMETRY:
+
+Specjalne:
+– TraK0: -2
+– -5 do zadawanych obrażeń
+– Może być zdjęta tylko po rzuceniu czaru Zdjęcie klątwy
+
+Klasa Pancerza: -4
+
+Wymagania:
+– Siła: 15
+
+Waga: 35~
+@1344 = ~Zbroja ta wykonana została z czystego zła, jednak nie ma żadnych świadectw na temat jej pochodzenia. Cała nienawiść do dobra ujawnia się, kiedy pancerz jest zakładany, a może to uczynić jedynie osoba o sercu do szczętu przesiąkniętym złem. Zbroja dodatkowo zapewnia też premie do ataków skierowanych przeciw osobom o dobrym charakterze.
+
+PARAMETRY:
+
+Specjalne:
+– +2 obrażeń przeciw istotom o charakterze dobrym
+– TraK0 przeciw istotom o charakterze dobrym: +2
+
+Klasa Pancerza: -3
+
+Wymagania:
+– Siła: 15
+
+Waga: 30~
+@1346 = ~Zbroja ta zawiera krew trolla, co pozwala noszącemu cieszyć się, podobną do posiadanej przez trolle, zdolnością, regeneracją. Każdy, kto ją założy natychmiast zacznie lepiej się czuć i znienawidzi ją ściągać.
+
+PARAMETRY:
+
+Specjalne:
+– Regeneracja punktów życia: 1/3 sekundy
+
+Klasa Pancerza: -2
+
+Wymagania:
+– Siła: 15
+
+Waga: 35~
+@1348 = ~Ten pancerz jest wykonany z zachodzących na siebie łusek smoka cienia, a na nich łusek złotego smoka. Eleganckie wykonanie i względy praktyczne czynią tę zbroję piękną jak i użyteczną. Łuski smoka cienia dają właścicielowi dodatkową ochronę przed kwasem, a łuski złotego smoka pełną ochronę przed elektrycznością. Odpowiednio połączone łuski czynią tę zbroję niezwykle trudną do przebicia.
+
+PARAMETRY:
+
+Specjalne: 
+– Odporność na kwas: +50%
+– Odporność na elektryczność: +100%
+
+Klasa Pancerza: -3
+
+Wymagania:
+– Siła: 8
+
+Waga: 15~
+@1352 = ~Hełm ten powoduje zwiększenie prędkości zarówno umysłu, jak i ciała. Natychmiast po nałożeniu można zauważyć zdolność do szybszego myślenia i poruszania się. Ułatwia to trafienie celu, a także wykonanie niektórych uników. Przyspieszenie dawane przez ten hełm może zostać rozproszone, niezależnie od tego jednak pozostaną premie do ataku i obrony.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: 18
+– Ulepszone przyspieszenie ruchów
+– Chroni przed trafieniami krytycznymi
+
+Klasa Pancerza: +1
+TraK0: +1
+
+Waga: 2~
+@1354 = ~Legenda mówi, że ten typ kamieni Ioun produkuje się więżąc duszę ognistego olbrzyma. Ten jasny jak ogień, pomarańczowy kamień Ioun obdarza noszącego siłą olbrzyma.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: 22
+
+Klasa Pancerza: bez zmian
+
+Waga: 2~
+@1356 = ~Hełm ten chroni noszącego przed każdego rodzaju próbą ataku na jego umysł. Mówi się, że osłabia także jego uczucia. Nie jest możliwym to udowodnić, jednak gdyby okazało się to prawdą, nie można by mówić o zaskoczeniu.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na Ogłupienie, Zamęt, Bezmyślność, Strach, Dominację, Szał bojowy i Zauroczenie
+– Chroni przed trafieniami krytycznymi
+
+Waga: 1~
+@1358 = ~Halabarda ta zawiera magiczne prądy powietrzne, które mogą zostać wyzwolone przy trafieniu. Efekt jest podobny do smoczego Uderzenia skrzydeł – ofiarę dosłownie wywiewa sprzed dzierżącego.
+
+PARAMETRY:
+
+Specjalne:
+– 50% szans przy trafieniu na rzucenie na cel Uderzenia skrzydeł (rzut obronny przeciw zionięciom z modyfikatorem -6 neguje)
+
+Obrażenia: 1k10 +5
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 4
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 12~
+@1360 = ~Kiedy żył, Rękawicznik był strategiem, który wierzył, że każdy wróg może zostać pobity wskutek zastosowania odpowiedniej strategii. Dlatego też ta halabarda została dlań wykonana, posiada kilka zdolności, które, zaaplikowane przeciwnikowi, czynią prostszą jego eliminację.
+
+PARAMETRY:
+
+Specjalne:
+– 25% szans na spowodowanie u celu choroby na okres 2 rund
+– 25% szans na wywołanie u celu paniki na okres 2 rund
+– 25% szans na ogłupienie celu na okres 2 rund
+– 25% szans na unieruchomienie celu na okres 2 rund
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 6
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 12~
+@1362 = ~Młot ten pierwotnie powstał jako swoisty figiel spłatany przez Gola Szczyta Jakubowi Chalimowi. Nieszczęsna ironia wynikła jakiś czas później, kiedy mężczyźni ci wyruszyli na wojnę, by walczyć po przeciwnych stronach, wtedy to Jakub zabił Gola tym właśnie młotem.
+
+PARAMETRY:
+
+Specjalne:
+– Następny rzucony przez ofiarę czar podlegać będzie efektom dzikiej magii, jeśli nie powiedzie się jej rzut obronny przeciw czarom
+
+Obrażenia: 1k4 +3
+TraK0: +2
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 6~
+@1364 = ~Ten młot bojowy wzmocniono trującą i trawiącą magią, zarówno w aspekcie jej walorów ofensywnych, jak i defensywnych. Stworzyła go ręka krasnoluda, jednak później zazwyczaj znajdował się w dłoniach ludzi.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na kwas: +50%
+– Odporność na truciznę: +50%
+
+Obrażenia: 1k4 +4, +2 obrażenia od kwasu, +2 obrażenia od trucizny
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 9
+
+Waga: 5~
+@1366 = ~Ten młot bojowy został znaleziony przez magów i to sprawia, że nazwa staje się zrozumiała, bowiem broń ta jest postrachem wszystkich parających się magią. Ci, którzy nie mają wystarczająco mocy, by przeciwstawić się potędze młota, zapominają przy każdym trafieniu jeden z czarów, a to może powodować panikę, i w konsekwencji tego pewną śmierć. Magowie, którzy znaleźli tę broń, próbowali ją ukryć, mimo to w jakiś sposób została skradziona, jednakże po tym zdarzeniu nie wypłynęła żadna informacja o miejscu jej przechowywania.
+
+PARAMETRY:
+
+Specjalne:
+– Rozprasza wszystkie wrogie Sanktuaria w danym obszarze, bez rzutu obronnego
+– Każde trafienie powoduje zapomnienie przez cel jednego z czarów, odporność na magię może ochronić przed utratą
+
+Obrażenia: 2k4 +6
+TraK0: +6
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: młot bojowy
+Typ broni: 1-ręczna
+
+Waga: 4~
+@1368 = ~Miecz ten jest połączeniem trojga krótkich mieczy: Ognia, Lodu i Błyskawicy, które w jedność, Świętą Trójcę, przekuł mistrz Brundor. Broń ta jest przepełniona potęgą, powiadają też, że ten, kto włada mocą trzech mieczy, włada mocą bogów.
+
+PARAMETRY:
+
+Specjalne: 
+– 5% szans na rzucenie na cel Ognistej kuli, która zadaje 10k6 obrażeń
+– 5% szans na rzucenie na cel Stożku zimna
+– 5% szans na rzucenie na cel Błyskawicy
+
+Obrażenia: 1k6 +4, +1 obrażenie od ognia, +1 obrażenie od zimna, +1 obrażenie od elektryczności
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1370 = ~Ostrze to zostało stworzone, by wytrącać świat z równowagi. Z racji tego mogą nim władać tylko dobrzy i źli, neutralni zasię otrzymują dodatkowe obrażenia.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +2, +3 przeciw istotom o charakterze neutralnym
+TraK0: +2, +3 przeciw istotom o charakterze neutralnym
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1372 = ~Kataną tą władał mistrz broni gildii wojowników w Morgoth. Broń ta przy każdym trafieniu uwalnia rój twardych jak stal owadów, które boleśnie kąsają wroga zadając mu dodatkowe obrażenia. Cel może także zostać ogłupiony bądź rozmyty.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zostanie ogłupiona na okres 4 rund, jeśli nie powiedzie się jej rzut obronny przeciw czarom
+– Ofiara zostanie rozmyta na okres 3 rund, jeśli nie powiedzie się jej rzut obronny przeciw czarom z modyfikatorem -4
+
+Obrażenia: 1k10 +4, +5 obrażeń siecznych
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: katana
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+@1374 = ~Łuk ten budzi strach wszędzie, gdzie dotarł o nim słuch. Strzela widmowymi strzałami, które wypalają i zmrażają ranę oraz mogą spowolnić cel. Każdy powinien mieć się na baczności, bowiem, jak powiadają, Widmo jest przeklęte – kiedy używa się go zbyt długo, można postradać zmysły...
+
+PARAMETRY:
+
+Specjalne: 
+– Ten potężny łuk nie potrzebuje amunicji
+– Może spowolnić cel
+
+Obrażenia: 1k6 +4, +2 obrażenia od magicznego ognia,  +2 obrażenia od magicznego zimna
+TraK0: +4
+Opóźnienie: 4
+Rodzaj biegłości: długi łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 3~
+@1376 = ~Zbroja skórzana ćwiekowana ma niewiele wspólnego ze zwykłą zbroją skórzaną. Podczas gdy zbroja skórzana jest utwardzaną skorupą, zbroja ćwiekowana jest miękka i wzmocniona setkami, nabitych w niewielkich odległościach nitów. Znajdują się one tak blisko siebie, że tworzą trudną do przebicia metalową zaporę, która świetnie powstrzymuje sieczne i kłute ataki. Miękkie skórzane podbicie służy jedynie do utrzymania nitów w miejscu. Ten egzemplarz został silnie umagiczniony.
+ 
+PARAMETRY:
+
+Klasa Pancerza: 3
+
+Wymagania:
+– Siła: 6
+
+Waga: 8~
+@1378 = ~Ta potężnie umagiczniona zbroja słynie z absorbowania niskopoziomowych czarów. Dotyczy to zarówno czarów wspomagających, jak i szkodzących, skutkiem czego dla jednego może stać się ratunkiem, dla innego zasię zgubą.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na czary z poziomów 1-3
+
+Klasa Pancerza: 3
+
+Wymagania:
+– Siła: 3
+
+Waga: 4~
+@1380 = ~Zbroja ta stworzona została wyłącznie w jednym celu: by chronić noszącego przed jednym z najbardziej przerażających czarów w Faerûnie, Uwięzieniem. Z tego powodu jest niezwykle przydatna przeciw demiliszom.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na Uwięzienie
+
+Klasa Pancerza: 2
+
+Wymagania:
+– Siła: 6
+
+Waga: 8~
+@1382 = ~Wekiera ta działa dwojako. Zadaje celowi dodatkowe niepodlegające odpornościom obrażenia, lecząc jednocześnie posiadacza identyczną ilością PŻ. Tak więc, dokładniej rzecz ujmując, broń ta nie kradnie życia, chociaż z drugiej strony zabiera je jednemu, a daje innemu.
+
+PARAMETRY:
+
+Specjalne: 
+– Każde trafienie wysysa z ofiary 2 punkty życia i przekazuje je posiadaczowi wekiery
+
+Obrażenia: 1k6 +4
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 4
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 7~
+@1384 = ~Nazwa broni nawiązuje do jej zdolności. Daje szansę na zatrucie lub wywołanie u celu choroby na krótki okres czasu, a jednocześnie zapewnia częściową ochronę posiadacza przed trucizną. Powiadają, że do stworzenia tej broni użyto węży.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zostanie zarażona chorobą bądź zatruta na okres 3 rund, jeśli nie powiedzie się jej rzut obronny przeciw śmierci z modyfikatorem -3
+– Odporność na truciznę: +50%
+
+Obrażenia: 1k6 +2
+TraK0: +1
+Typ obrażeń: obuchowe
+Opóźnienie: 6
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 6~
+@1386 = ~Miecz ninja, ninja-to, jest gorszej jakości niż inne klingi z Kara-Tur, takie jak katana. Ninja-to jest krótki i ma proste ostrze, co sprawia, że jest idealnym narzędziem podstępnych ninja. Ninja-to jest też lepszy do walki w zamkniętych przestrzeniach, dając czasem ninja przewagę nad samurajami uzbrojonymi w dłuższą broń. Ten egzemplarz jest dość mocno umagiczniony.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 5~
+@1388 = ~Miecz ninja, ninja-to, jest gorszej jakości niż inne klingi z Kara-Tur, takie jak katana. Ninja-to jest krótki i ma proste ostrze, co sprawia, że jest idealnym narzędziem podstępnych ninja. Ninja-to jest też lepszy do walki w zamkniętych przestrzeniach, dając czasem ninja przewagę nad samurajami uzbrojonymi w dłuższą broń. Ten egzemplarz jest dość mocno umagiczniony.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1393 = ~Broń ta została stworzona przez mistrza Brundora, z połączenia zwykłego ninja-to i kamieni wspomnień starożytnego bohatera, Xandera. Szybko stało się wiadomym, że posiadasz może pozwolić duchowi przejąć kontrolę nad mieczem, który będzie samodzielnie atakować przez krótki okres czasu. Tak więc marzenie Xandera odnośnie przekazania swoich umiejętności potomnym zostało zrealizowane.
+
+PARAMETRY:
+
+Specjalne: 
+– Miecz może atakować samodzielnie przez 5 rund
+
+Obrażenia: 1k8 +2
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 2
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1395 = ~Zbroja ta została stworzona przez wyznawców słońca przed około millenium, jednak do dziś prezentuje się bez zarzutu. Wpływ na to ma także umagicznienie, które wciąż działa doskonale. Noszący ten pancerz może rzucać parę zaklęć kapłańskich.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Promień słońca i Fałszywy świt, trzy razy dziennie
+
+Klasa Pancerza: -1
+
+Wymagania:
+– Siła: 12
+
+Waga: 50~
+@1397 = ~Ta zbroja płytowa działa jak swoisty portal między sferami. W momencie założenia ciało używającego częściowo przechodzi do innej, gdzie zyskuje znaczną ochronę.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na cios w plecy i petryfikację
+– Maksymalne punkty życia: +10
+
+Klasa Pancerza: -2
+
+Wymagania:
+– Siła: 12
+
+Waga: 27~
+@1399 = ~Malver był już starcem, kiedy stworzył tę zbroję, a miała ona stanowić prezent dla jego wnuka. Jednak wkrótce po jej ukończeniu Malver zmarł, wskutek czego nie mógł jej ofiarować swemu potomkowi osobiście. Miał to uczynić, gdyby wynikła taka właśnie sytuacja, jego asystent, dlatego też zabrał zbroję. Niestety nie trafiła ona nigdy w ręce wnuka Malvera.
+
+PARAMETRY:
+
+Klasa Pancerza: 0
+
+Wymagania:
+– Siła: 12
+
+Waga: 35~
+@1403 = ~Mikstura ta powoduje przeniesienie niemal całej powłoki cielesnej pijącego do innej sfery egzystencji. Przynosi to wymierne efekty w postaci polepszenia klasy pancerza i rzutów obronnych, niestety na bardzo krótki okres czasu.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +10
+– Rzuty obronne: +10
+
+Czas działania: 2 rundy~
+@1408 = ~Pierścienie noszone są na palcach i bardzo często mają własności magiczne. Na każdej dłoni można nosić jeden pierścień. Ten został pobłogosławiony.
+
+PARAMETRY:
+
+Specjalne:
+– Błogosławieństwo (+2 do rzutów obronnych i na trafienie)~
+@1410 = ~Pierścienie noszone są na palcach i bardzo często mają własności magiczne. Na każdej dłoni można nosić jeden pierścień. W ten pierścień zaklęto zaklęcie psalmu.
+
+PARAMETRY:
+
+Specjalne:
+– Psalm (+1 do rzutów na trafienie, zadawanych obrażeń i rzutów obronnych dla sojuszników, dla przeciwników odpowiednio -1)~
+@1412 = ~Pierścień umysłowości jest przeciwieństwem Pierścienia żywotności. Podnosi cechy, które są ważniejsze dla ludzi przedkładających starcia mentalne nad fizyczne. Pierścień ten nie jest na tyle potężny, by podnosić je sam z siebie, dlatego też pobiera je z innego źródła.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja, Mądrość i Charyzma: +1
+– Siła, Zręczność i Kondycja: -1~
+@1414 = ~Pierścień ten może być używany do rzucania najpotężniejszych zaklęć leczących i obronnych. Niestety jego pojemność jest ograniczona i zostaje odnowiona dopiero następnego dnia.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Pułapka na czary, Całkowita niewrażliwość, Tarcza Archonów, Zmartwychwstanie i Większe przywrócenie, raz dziennie~
+@1416 = ~Pierścień żywotności jest przeciwieństwem Pierścienia umysłowości. Podnosi cechy, które są ważniejsze dla ludzi przedkładających starcia fizyczne nad mentalne. Pierścień ten nie jest na tyle potężny, by podnosić je sam z siebie, dlatego też pobiera je z innego źródła.
+
+PARAMETRY:
+
+Specjalne:
+– Siła, Zręczność i Kondycja: +1
+– Inteligencja, Mądrość i Charyzma: -1~
+@1418 = ~Od czasów Netherilu magowie nauczyli się obdarzać szeroką gamę zwykłych otaczających ich przedmiotów czarodziejskimi mocami. Szczególnie upodobali sobie zwykłe szaty, gdyż są one dość lekkie, wszędzie dostępne i łatwo chłoną magię, stając się idealnym wyposażeniem czarodzieja. Magiczne pochodzenie przyczynia się jednakże do faktu, iż zaczarowane szaty mogą nosić tylko magowie. Ta została wzmocniona zaklęciami ochronnymi.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+
+Waga: 4~
+@1420 = ~Podanie głosi, że przed wiekami pewien regent, którego imię nie zachowało się w dziejach, poważnie zachorował i solennie przyobiecał wynagrodzić tego, kto będzie zdolny go wyleczyć. Mag zwany Albacarem stworzył taką szatę, jednak z powodu zasad AD&D 2 ed. regent nie mógł jej założyć, bowiem nie był magiem. Regent ostatecznie zmarł, a szata przepadła.
+
+PARAMETRY:
+
+Specjalne:
+– Ochrona przed kwasem
+– Ochrona przed trucizną
+
+Waga: 4~
+@1422 = ~Noszący tę szatę może kontrolować czas. Magiczna energia szaty wystarcza, by mag mógł rzucić dwa razy dziennie Zatrzymanie czasu, które zacznie działać natychmiast. Jako, że szata jest wręcz przepełniona magią, potrafi ona blokować część energii pochodzącej z zewnątrz.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię i obrażenia od magii: +10%
+
+Właściwości ładunków:
+– Zatrzymanie czasu ze skutkiem natychmiastowym, dwa razy dziennie
+
+Waga: 4~
+@1430 = ~Czerwony mag niskiej rangi o imieniu Huhhus ponoć odkrył doskonały sposób na destylowanie ciała trolli, by tworzyć eliksiry o tej samej mocy regeneracji, co u trolli. Jednakże niewielu było chętnych do picia tak sporządzonego płynu i kilka dekad później uczeń Huhhusa stworzył ten pierścień, podpierając się wiedzą, której podwaliny stworzył jego mistrz.
+
+PARAMETRY:
+
+Specjalne: 
+– Regeneracja punktów życia: 1/6 sekund
+
+Obrażenia: +2
+TraK0: +2
+Opóźnienie: 4
+Rodzaj biegłości: krótki łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 2~
+@1432 = ~Powiadają, że chłopiec zwany Hammonem raz został wyzwany do zestrzelenia jabłka z głowy swego ojca. By móc to uczynić, otrzymał ten łuk, chociaż wtedy nikt nie wiedział o jego zdolności do trafiania. W każdym razie chłopak strzelił i trafił ojca w pierś. Dekady później mieszkający w pobliskiej wiosce znawca odkrył, że kiedy z tego łuku wystrzelona zostanie strzała, dążyć będzie do celu w najbardziej śmiercionośny sposób, jak to możliwe.
+
+PARAMETRY:
+
+TraK0: +8
+Opóźnienie: 5
+Rodzaj biegłości: krótki łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 2~
+@1434 = ~Liczbę Gepardów szacuje się na około dwadzieścia sztuk, z czego z piętnaście zaginęło. Wszystkie wyszły spod ręki Sokolicy, której prawdziwe imię pozostało nieznane, i wszystkie były używane przez jej żołnierzy. Ludzie umierają i sejmitary te przechodzą z rąk do rąk.
+
+PARAMETRY:
+
+Specjalne: 
+– Dwa dodatkowe ataki na rundę
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 3~
+@1435 = ~Broń tę nazywa się także Złodziejołapem. Była używana przez wojowników do polowania na złodziei. Niestety, oczywiście nie dla złodziei, broń przepadła i aż do teraz nie można było znaleźć żadnego śladu jej istnienia.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na cios w plecy
+
+Właściwości ładunków:
+– Ujawnienie niewidzialnych, trzy razy dziennie
+
+Obrażenia: 1k8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 3~
+@1437 = ~Twórca tej broni był szalony, a mimo to niezwykle potężny. Zabijał wysokopoziomowych kapłanów, magów i wojowników i porywał ich dusze więżąc w tej broni. W końcu uzbrojony weń zstąpił do piekieł i wyzwał lorda demonów Graz'zta. Nie jest znany rezultat tej walki, podobnie jak dalsze losy tego sejmitara.
+
+PARAMETRY:
+
+Specjalne:
+– Każde trafienie powoduje natychmiastowe rzucenie na ofiarę jednego z następujących czarów: Słup ognia, Krzywdzenie, Ognista kula, Stożek zimna, Palec śmierci
+
+Obrażenia: 1k8 +6
+TraK0: +6
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 3~
+@1439 = ~Tarcza ta została stworzona, by chronić przed wszystkimi broniami strzeleckimi, jednak magia zawierała się głównie w inkrustacjach, których obecnie brakuje.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza przeciw broni strzeleckiej: +2
+
+Klasa Pancerza: +2
+
+Wymagania:
+– Siła: 15
+
+Waga: 15~
+@1447 = ~Tarcza ta została stworzona, by chronić przed wszystkimi broniami strzeleckimi, a jej magia zawiera się głównie w inkrustacjach. One to właśnie przyciągają pociski, by trafiały w tarczę, nie ją dzierżącego.
+
+PARAMETRY:
+
+Specjalne: 
+– Ochrona przed wszystkimi broniami strzeleckimi
+
+Klasa Pancerza: +3
+
+Wymagania:
+– Siła: 15
+
+Waga: 15~
+@1449 = ~Był to typ tarczy używanej przez gwardzistów króla Pelandoru. Takie jak ta rzadko były znajdowane gdzieś indziej. Złodzieje i kupcy rozprowadzili po świecie około dwudziestu spośród nich.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza przeciw broni strzeleckiej: +1
+
+Klasa Pancerza: +4
+
+Wymagania:
+– Siła: 10
+
+Waga: 4~
+@1451 = ~Tarcza ta zapewnia niemal pewną ochronę przed wszelkimi bazującymi na nagłej śmierci atakami. Aczkolwiek jej posiadacz wciąż może umrzeć w każdy inny sposób. Znakomite wykonanie zostało uzupełnione stałym zaklęciem lekkości, dlatego też bardzo łatwo dzierżyć tę tarczę.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza przeciw pociskom: +1
+– Rzuty obronne przeciw śmierci: +6
+
+Klasa Pancerza: +4
+
+Wymagania:
+– Siła: 10
+
+Waga: 10~
+@1453 = ~Proca ta została stworzona w Dolinie Lodowego Wichru, jednak imię jej twórcy przepadło. Dodał on, względnie dodała ona, niewielkie umagicznienie, które zmraża pocisk, kiedy zostanie on umieszczony w procy. Kiedy zaś uderzy w cel, zimno to zostaje uwolnione wprost do rany.
+
+PARAMETRY:
+
+Obrażenia: +3, +1k4 obrażeń od zimna 
+TraK0: +3
+Opóźnienie: 4
+Rodzaj biegłości: proca
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 0~
+@1455 = ~Dawno temu morderca, nazywający siebie Krukiem, przemierzał ulice Calimportu. Był on najlepszym zabójcą swoich czasów, nikt nigdy go nie widział, przynajmniej jego prawdziwego i nigdy nie zawiódł w jakimkolwiek zleceniu. Pewnego dnia jednak po prostu zniknął. Niektórzy twierdzą, że trafiła kosa na kamień i został zamordowany, inni zaś, że najzwyczajniej w świecie wyjechał. Są tacy, którzy wciąż wierzą, że pewnego dnia wróci.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zginie, jeśli nie powiedzie się jej rzut obronny przeciw śmierci
+
+Obrażenia: +4
+TraK0: +4
+Opóźnienie: 2
+Rodzaj biegłości: proca
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 0~
+@1457 = ~Tarczy średniej używa się podobnie, jak małej. Jednak w przeciwieństwie do niej, tarcza średnia waży na tyle dużo, że wojownik nie może wykorzystywać do innych celów podtrzymującej ją ręki. Tarcze tego typu wykonuje się zazwyczaj z metalu, mają od 90 do 120 cm średnicy i dowolny kształt, od okrągłych do prostokątnych. Typowa tarcza średniowieczna przypominała trójkąt z jednym z ramion skierowanym w dół. Ta została potężnie umagiczniona.
+
+PARAMETRY:
+
+Klasa Pancerza: +4
+
+Wymagania:
+– Siła: 12
+
+Waga: 7~
+@1459 = ~Włócznia ta zawiera magię, która powoduje skutki identycznie jak wyłupienie oczu. Magia ta jest uwalniania podczas każdego trafienia i jeśli cel nie będzie mógł się jej przeciwstawić, skutkować to będzie dożywotnim oślepieniem, które będzie mogło być rozproszone tylko przy pomocy potężnej magii.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara zostanie oślepiona na zawsze (efekt można rozproszyć), jeśli nie powiedzie się jej rzut obronny przeciw zionięciom z modyfikatorem -2
+
+Obrażenia: 1k6 +2
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 4
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1461 = ~Koniec tej włóczni wzmocniony został magią zimna, która powoduje dodatkowe obrażenia. Broń ta jest dość wiekowa i moc jej magii częściowo osłabła, dlatego obecnie istnieje tylko mała szansa na to, że uderzy z pełną siłą. Uwalniana moc jest zazwyczaj słabsza.
+
+PARAMETRY:
+
+Specjalne:
+– 60% szans na zadanie 1k4 dodatkowych obrażeń od zimna
+– 30% szans na zadanie 2k4 dodatkowych obrażeń od zimna
+– 10% szans na zadanie 3k4 dodatkowych obrażeń od zimna
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 3
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1463 = ~Włócznia ta została stworzona z surowców możliwych do znalezienia jedynie w morskiej toni. Umagicznienie nadaje im twardość kamienia i czyni je niezwykle efektywnymi w walce. Wiadomym jest, że chroni ją dzierżącego przed działaniem paru czarów. Niektórzy twierdzą, że jednym spośród nich jest Wskrzeszenie, jednakże to jedynie mit.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na spowolnienie, ogłuszenie i rozproszenie magii
+
+Obrażenia: 1k6 +5
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1465 = ~Małe tarcze są zazwyczaj okrągłe. Mocuje się je na przedramieniu i dodatkowo przytrzymuje dłonią. W odróżnieniu od tarczy średniej, ich lekka waga pozwala wojownikowi nosić inne przedmioty w zajętej ręce, chociaż nie może to być broń. Ta została potężnie umagiczniona.
+
+PARAMETRY:
+
+Klasa Pancerza: +4
+
+Wymagania:
+– Siła: 4
+
+Waga: 2~
+@1467 = ~Mendelew całe swoje życie poświęcił badaniu możliwości odbijania zaklęć z pomocą ekwipunku. Tarcza ta zawiera wszystko, co odkrył zanim umarł. Dorobku tego nijak nie można postrzegać jako nikłego, przeciwnie tarcza ta brała udział w niezliczonej ilości bitew. Z czasem, gdy rozpowszechnił się odbijający ekwipunek, jej wartość dość znacznie spadła, jednak do dziś wielu poszukiwaczy przygód uczyniłoby wszystko, by móc ją zdobyć.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +20%
+– Odbija do źródła zaklęcia z poziomów 2-4
+
+Klasa Pancerza: +5
+
+Wymagania:
+– Siła: 4
+
+Waga: 2~
+@1469 = ~Ta średnia tarcza pozwala ukrywać ją noszącego. Niestety ta zdolność zanika i teraz dzierżący ją bywa widzialny.
+
+PARAMETRY:
+
+Specjalne:
+– Noszący znajduje się pod wpływem działającej okresowo niewidzialności
+
+Klasa Pancerza: +5
+
+Wymagania:
+– Siła: 12
+
+Waga: 7~
+@1471 = ~Ten krótki miecz jest magicznie wzmocniony, ilość podobnych mu jest znikoma, tak więc niezwykle rzadko można na jakiś natrafić. Razem z dwoma innymi – Lodem i Błyskawicą – można przekuć go w artefakt, jakim niewątpliwie jest Święta trójca. W dawnych zapiskach Garema Krągłociernia można znaleźć następujące słowa: „ten, kto włada mocą Świętej trójcy, włada mocą bogów”.
+
+PARAMETRY:
+
+Specjalne:
+– 5% szans na rzucenie na cel Ognistej kuli, która zadaje 10k6 obrażeń
+
+Obrażenia: 1k6 +3, +1 obrażeń od ognia
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1473 = ~Ten krótki miecz jest magicznie wzmocniony, ilość podobnych mu jest znikoma, tak więc niezwykle rzadko można na jakiś natrafić. Razem z dwoma innymi – Ogniem i Błyskawicą – można przekuć go w artefakt, jakim niewątpliwie jest Święta trójca. W dawnych zapiskach Garema Krągłociernia można znaleźć następujące słowa: „ten, kto włada mocą Świętej trójcy, włada mocą bogów”..
+
+PARAMETRY:
+
+Specjalne:
+– 5% szans na rzucenie na cel Stożku zimna
+
+Obrażenia: 1k6 +3, +1 obrażeń od zimna
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1475 = ~Ten krótki miecz jest magicznie wzmocniony, ilość podobnych mu jest znikoma, tak więc niezwykle rzadko można na jakiś natrafić. Razem z dwoma innymi – Ogniem i Lodem – można przekuć go w artefakt, jakim niewątpliwie jest Święta trójca. W dawnych zapiskach Garema Krągłociernia można znaleźć następujące słowa: „ten, kto włada mocą Świętej trójcy, włada mocą bogów”.
+
+PARAMETRY:
+
+Specjalne:
+– 5% szans na rzucenie na cel Błyskawicy
+
+Obrażenia: 1k6 +3, +1 obrażeń od elektryczności
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1477 = ~Kij to najprostsza i najmniej efektywna z broni drzewcowych. Może mieć długość od 1,8 do grubo ponad 2 metrów. Wykonuje się go z dębowego drewna i często obija metalem na obu końcach. Do władania nim trzeba używać obu rąk. Ten egzemplarz został nasączony dość potężną magią.
+
+PARAMETRY:
+
+Specjalne: 
+– Ofiara zostanie ogłuszona na okres 1 rundy, jeśli nie powiedzie się jej rzut obronny przeciw zionięciom z modyfikatorem -2
+– Traktowany jest jak broń +5
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1478 = ~Ten prosty kij emanuje potężnym umagicznieniem, mimo iż prostota jego wykonania sugeruje jakieś najzupełniej zwyczajne pochodzenie. Może być użyty do przełamania magicznej obrony przeciwnika, a ponieważ magia zawarta jest w samym kosturze, magowie nie mają wyłączności na jej użycie.
+
+PARAMETRY:
+
+Specjalne:
+– Przy każdym trafieniu szansa na rzucenie na cel Rozproszenia magii
+
+Właściwości ładunków:
+– Rozproszenie magii i Wyłom, dwa razy dziennie
+– Przeszywająca magia, Rubinowy promień odwrócenia i Bicz ochronny Khelbena, raz dziennie
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 1
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1480 = ~Kij to najprostsza i najmniej efektywna z broni drzewcowych. Może mieć długość od 1,8 do grubo ponad 2 metrów. Wykonuje się go z dębowego drewna i często obija metalem na obu końcach. Do władania nim trzeba używać obu rąk. Ten egzemplarz został nasączony dość potężną magią, włączając w to przyspieszenie.
+
+PARAMETRY:
+
+Specjalne:
+– Przyspieszenie ruchów
+
+Obrażenia: 1k6 +1
+TraK0: +1
+Typ obrażeń: obuchowe
+Opóźnienie: 3
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+@1482 = ~Cyklon jest najszybszym kijem, jaki kiedykolwiek stworzono, nie posiada opóźnienia i obdarza dzierżącego przyspieszeniem. Powstał on z połączenia miecza, kija i dwóch diamentów – miecz został wtopiony w kij, diamenty zaś posłużyły do wzmocnienia obu końców, zwiększając w ten sposób zadawane obrażenia. Dzięki kilku zaklęciom Cyklon stał się niewyobrażalnie lekki.
+
+PARAMETRY:
+
+Specjalne:
+– Przyspieszenie ruchów
+– Jeden dodatkowy atak na rundę
+– Zręczność: 18
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 0
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@1483 = ~Władający tym mieczem zyskuje dostęp do paru najpotężniejszych czarów w Faerûnie. Dzięki nim może zarówno uwięzić kogoś w wieczystym więzieniu, jak i kogoś zeń uwolnić. Zdolności tej broni powinny być używane z rozsądkiem, w przeciwnym razie można stać się ofiarą więzienia w miejsce wroga.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Uwięzienie i Uwolnienie, raz dziennie
+
+Obrażenia: 2k4 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 5
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 8~
+@1485 = ~Dhor był niezwykle uzdolnionym i wszechstronnym człowiekiem. Słynął ze znakomitej rozrywki, którą potrafił zorganizować, był także przedmiotem uwielbienia dam. Był ponadto wziętym harfistą i doskonałym myśliwym. Niestety poległ na wojnie, a jego miecz wpadł w ręce wrogów. Jego dalsze dzieje są nieznane.
+
+PARAMETRY:
+
+Specjalne:
+– Zadaje 1k4 dodatkowych obrażeń od trucizny, kwasu, siecznych lub kłutych
+
+Obrażenia: 2k4 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz półtoraręczny
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 11
+
+Waga: 8~
+@1487 = ~Delvin był znakomitym płatnerzem wyznającym zasadę równowagi sił. To najwspanialsze jego dzieło i napawało go dumą nie tylko z powodu idealnego zbalansowania. Niestety zasadniczą wadą z punktu widzenia poszukiwaczy przygód, którzy mieli tej broni używać, był fakt, że Delvin miał charakter idealnie neutralny, dlatego miecz nie poprzestaje jedynie na zadawaniu obrażeń, może także obdarować cel pewnymi pomocnymi zdolnościami.
+
+PARAMETRY:
+
+Specjalne:
+– Każde trafienie powoduje natychmiastowe rzucenie na ofiarę jednego z następujących efektów: Labirynt, Ogłuszenie, Unieruchomienie, Błogosławieństwo, Niewidzialność, Pomoc, -2 do rzutów obronnych, Zadanie dodatkowych 25 obrażeń od magii, Uleczenie 25 PŻ, 100% odporności na magię. Czas trwania tymczasowych efektów to 3 rundy.
+
+Obrażenia: 1k8 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 4
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1489 = ~Wampirza krew płynie w tym mieczu i dzięki temu przy każdym trafieniu powstaje sposobność na wyssanie ofierze dwóch poziomów doświadczenia, podobnie, jak czynią to wampiry. Nic nie jest zdolne oprzeć się tej broni, tak więc nawet najpotężniejsze istoty krain mogą być zmuszone ugiąć się pod jej mocą.
+
+PARAMETRY:
+
+Specjalne: 
+– 15% szans przy trafieniu na wyssanie celowi dwóch poziomów (rzut obronny przeciw czarom z modyfikatorem -3 neguje, odporność nie ma wpływu)
+
+Obrażenia: 1k8 +5
+TraK0: +5
+Typ obrażeń: sieczne
+Opóźnienie: 1
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 4~
+@1491 = ~Do tej kategorii zaliczają się obusieczne miecze, miecze wojenne i wojskowe. Ostrze leciutko brzęczy w twej dłoni, ale zapewnia ochronę podczas walki.
+
+PARAMETRY:
+
+Specjalne:
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+
+Obrażenia: 1k8 +2
+TraK0: +2
+Typ obrażeń: sieczne
+Opóźnienie: 3
+Rodzaj biegłości: miecz długi
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 2~
+@1493 = ~Miecz ten znany jest także jako Miecz gniewu. Z zewnątrz wygląda po prostu na całkiem ładny kawał żelastwa, jednak kiedy trafia, może doprowadzić ofiarę do obłędu. Imię twórcy tej broni przepadło, jednak na najdawniejsze wieści o niej można natrafić w Calimporcie.
+
+PARAMETRY:
+
+Specjalne: 
+– Ofiara wpadnie w berserk na okres 3 rund, jeśli nie powiedzie się jej rzut obronny przeciw czarom z modyfikatorem -2
+
+Obrażenia: 1k6 +2
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 2
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1495 = ~Miecz ten słynie z trafiania w cel. Zdumiewające jest, że nawet zupełnie nieopierzony żółtodziób może trafiać z dokładnością równą całkiem dobrze wyszkolonemu wojownikowi. Broń ta cieszy się niezłą reputacją także wśród zabójców, ponieważ we wprawnej dłoni potrafi zadać śmierć w okamgnieniu.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +4
+TraK0: +8
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1497 = ~Mimo swego prostego wyglądu, miecz ten jest niezwykle potężny – posiada niezwykle rzadką zdolność kontrolowania pogody. Za każdym razem, gdy pod otwartym niebem dochodzi do walki dzierżącego ten miecz, zaczyna padać deszcz. Ponadto istnieje pewna szansa przy każdym trafieniu, że broń przywoła błyskawicę, która z olbrzymią mocą uderzy w ofiarę. Niestety te jakże potężne zdolności stają się nieefektywne w zamkniętych pomieszczeniach.
+
+PARAMETRY:
+
+Specjalne:
+– 10% szans na rzucenie na cel Wezwania błyskawic (działa tylko pod otwartym niebem)
+– Kiedy dzierżący ten miecz dołącza do walki, zaczyna padać
+
+Obrażenia: 1k6 +3, +1k4 obrażeń od elektryczności
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1498 = ~Broń ta należała do zbrojnego maga, Xara. Zgodnie z jednym z podań, pewnego dnia pojawił się u bram Malorchas, domagając się wydania mu Diamentu Thery, precjoza o niebywałej wartości. Jego żądanie oczywiście odrzucono, jednak efekty przeszły najśmielsze oczekiwania – w pojedynkę zniszczył miasto i zabrał klejnot. Ci, którzy ocaleli opowiadali o przerażających demonach, które miał na usługi. Najwięksi awanturnicy wyruszyli na wyprawę, by go zabić, ale żaden z nich nigdy nie powrócił.
+
+PARAMETRY:
+
+Specjalne:
+– Ochrona przed złem
+– Traktowany jest jak broń +5
+
+Właściwości ładunków:
+– Przywołanie potwora III, Przywołanie zwierząt III, Wielobies i Brama, raz dziennie
+
+Obrażenia: 1k12 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 7
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1500 = ~Manfryd, legendarny rycerz Zakonu Promiennego Serca, był odważnym przywódcą, który zawsze przystępował do bitwy w pierwszym szeregu. Takie zachowanie musiało prędzej czy później doprowadzić do jego śmierci i rzeczywiście tak się stało. Niemniej jednak imię jego wciąż cieszy się wielkim poważaniem wśród członków Zakonu.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +4
+TraK0: +4
+Typ obrażeń: sieczne
+Opóźnienie: 6
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 10~
+@1502 = ~Wakizashi, czyli miecz pomocniczy, jest niezwykle ważny dla samuraja. Nosi się go przez cały czas, nawet w mieszkaniu, spoczywa blisko samuraja gdy ten śpi. Mistrzowie Wu Jen zamknęli wielką moc w tym wakizashi, wyzwalana tylko gdy jego właściciel znajduje się w bitewnej gorączce. Nie wiadomo, jak ten wakizashi trafił do Faerûnu, ale jeśli samuraj, do którego należy, wciąż żyje, to z pewnością będzie go szukał.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +1
+TraK0: +1
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 3~
+@1504 = ~Wakizashi, czyli miecz pomocniczy, jest niezwykle ważny dla samuraja. Nosi się go przez cały czas, nawet w mieszkaniu, spoczywa blisko samuraja gdy ten śpi. Mistrzowie Wu Jen zamknęli wielką moc w tym wakizashi, wyzwalana tylko gdy jego właściciel znajduje się w bitewnej gorączce. Nie wiadomo, jak ten wakizashi trafił do Faerûnu, ale jeśli samuraj, do którego należy, wciąż żyje, to z pewnością będzie go szukał.
+
+PARAMETRY:
+
+Obrażenia: 1k8 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: sejmitar/wakizashi/ninja-to
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1506 = ~Kuszę tę zwą także Kuszą żywiołów. Kiedy zostaje z niej wystrzelony bełt, umagicznienie kuszy dodaje pewną małą, magiczną niespodziankę. Kiedy bełt uderza w cel, niespodzianka zostaje uwolniona.
+
+PARAMETRY:
+
+Obrażenia: +3, +1 obrażenie od ognia, +1 obrażenie od zimna, +1 obrażenie od elektryczności
+TraK0: +3
+Opóźnienie: 2
+Rodzaj biegłości: kusza
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 5~
+@1508 = ~Kusza ta została odnaleziona w ruinach Harabanu. Jest niezwykle szybka w obsłudze, a w związku z tym zwano ją Śmiercią. Zadaje śmierć na tyle szybko, że używający jej może zastrzelić z tuzin goblinów, nim te zaczną myśleć o zrobieniu czegokolwiek.
+
+PARAMETRY:
+
+Obrażenia: +4
+TraK0: +4
+Opóźnienie: 1
+Rodzaj biegłości: kusza
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 8
+
+Waga: 5~
+@1510 = ~Pas taki jest zazwyczaj noszony przez wodzów ogrzych plemion. Stanowi on symbol ich przywództwa dodaje im odwagi, woli i siły do walki.
+
+PARAMETRY:
+
+Specjalne:
+– Siła: +2
+– Odporność na zamęt, bezmyślność i strach
+
+Waga: 2~
+@1514 = ~Pancerz ten stanowi nagrodę za zwycięstwo w drugim dniu zmagań na Arenie. Zaiste przepiękna to zbroja.
+
+PARAMETRY:
+
+Klasa Pancerza: -2
+
+Wymagania:
+– Siła: 15
+
+Waga: 35~
+@1516 = ~Taaa, cóż, umożliwiłem użycie tej broni przez gracza, jednak wcięło mi jej grafikę, dlatego ostatecznie zrobiłem ją nieupuszczalną.
+
+PARAMETRY:
+
+Specjalne:
+– Ofiara może zostać ogłuszona
+– Ofiara może zostać oślepiona
+– Ofiara może zostać przerażona
+
+Obrażenia: 1k6 +5
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 8~
+@1518 = ~Był sobie raz młody człowiek zwany Tapio Perkiomaki, który żył w małej wiosce nieopodal Wrót Baldura. W wiosce miał wielu przyjaciół, jednak pewnego dnia zdecydował się opuścić to miejsce i udać się do Wrót. Nie potrafiłby odejść bez ofiarowania czegoś swoim przyjaciołom, dlatego poświęcił tydzień na stworzenie tej halabardy. W noc, w którą skończył, zostawił ją na środku wioski i napisał na ziemi: „Moje dziedzictwo”. Wtedy odszedł i nikt więcej go nie ujrzał. Kiedy jego przyjaciele wstali rano i znaleźli broń, wiedzieli, kto ją stworzył. Od tego czasu była chlubą tejże wioski, do czasu, aż została skradziona.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zimno: 100%
+
+Obrażenia: 1k10 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 6
+Rodzaj biegłości: halabarda
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 13
+
+Waga: 12~
+@1524 = ~Pierścienie tego rodzaju zostały zaprojektowane i wykonane dla zabójców magów. Służą do odbijania wszystkich zaklęć rzuconych na noszącego, dzięki czemu są niezwykle przydatne w walce z magami.
+
+PARAMETRY:
+
+Specjalne:
+– Odbija wszystkie obrażenia od zaklęć do źródła. Dotyczy to zaklęć ofensywnych takich jak Magiczny pocisk, ale nie unieruchamiających (nie zadających obrażeń) np. Unieruchomienie osoby.~
+@1526 = ~Amulet ten znany jest ze zdolności zauraczania wszelkich humanoidów. Jest własnością Regisa, a może być noszony jedynie przez niziołki.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Zauroczenie humanoida, raz dziennie~
+@1534 = ~Jedna z nagród na Arenie. Ten mały przedmiot przepełniono zaklęciami mającymi na celu obronę.
+
+PARAMETRY:
+
+Specjalne: 
+– Odporność na ogień, zimno, elektryczność, kwas i truciznę: +30%
+– Rzuty obronne: +2
+– Klasa Pancerza przeciw broniom obuchowym, kłutym i siecznym: +2~
+@1536 = ~Sztylet ten jest używany podczas niektórych rytuałów Kultu Bestii, zazwyczaj służy do podrzynania gardeł.
+
+PARAMETRY:
+
+Obrażenia: 1k2
+Typ obrażeń: kłute
+Opóźnienie: 2
+Rodzaj biegłości: sztylet
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 3
+
+Waga: 1~
+@1538 = ~Szata ta została wzmocniona wieloma magicznymi ochronami i z tego powodu wielokrotnie zmieniała właściciela, zazwyczaj z użyciem przemocy. Z racji, że nie mogą jej nosić złodzieje, nieprzeliczalną ilość razy byli zatrudniani do jej kradzieży. Z uwagi na sposób nabywania własności jej posiadaczami byli niemal wyłącznie źli magowie.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień, zimno, elektryczność, kwas i truciznę: +25%
+– Klasa Pancerza: +1
+– Rzuty obronne: +1
+
+Waga: 4~
+@1542 = ~Tarcza ta stanowi jedną z nagród na Arenie. Kiedy przyjrzysz się z bliska, możesz zauważyć, że to naprawdę jest „Boski obrońca”, Tarcza Thora.
+
+PARAMETRY:
+
+Klasa Pancerza: +5
+
+Wymagania:
+– Siła: 4
+
+Waga: 2~
+@1544 = ~Jest to jedna z kilku zbroi znalezionych w ruinach miasta Esto. Dusza poprzedniego właściciela była uwięziona wewnątrz bardzo długo, do czasu, aż uwolnił<HESHE> ją <CHARNAME>. Zbroja jest teraz pozbawiona możliwości odczuwania, oczywiście pozbawiona jest też mowy. Zawarty w niej zmysł zła przepadł, tak więc może być obecnie używana także przez postaci o dobrym charakterze.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zwykłe bronie
+
+Klasa Pancerza: -1
+
+Wymagania:
+– Siła: 15
+
+Waga: 40~
+@1546 = ~Jest to jedna z kilku zbroi znalezionych w ruinach miasta Esto. Dusza poprzedniego właściciela została w jakiś sposób w niej uwięziona i uskarża się za każdym razem, kiedy ktoś uderzy w zbroję. Nieliczni mają odwagę ją zakładać, ponieważ pozostali obawiają się, że jeśli mając ją na sobie umrą, ich dusze również zostaną uwięzione.
+
+Wieść niesie także, że uwięziona dusza zagaduje posiadacza, kilka osób twierdzi nawet, że zbroja do nich przemówiła. Dało się rozróżnić słowa ból i „oni”.
+
+Całkiem niedawno w zbroi uwięziona została kolejna dusza, kapłana Waukeen, a odpowiedzialność za to ponosi <CHARNAME>. Pancerz zyskał dzięki temu dodatkowe umagicznienie, jednak nie może być dłużej noszony przez osoby o charakterze neutralnym.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zwykłe bronie i pociski
+
+Klasa Pancerza: -2
+
+Wymagania:
+– Siła: 15
+
+Waga: 40~
+@1547 = ~Jest to jedna z kilku zbroi znalezionych w ruinach miasta Esto. Dusza poprzedniego właściciela została w jakiś sposób w niej uwięziona i uskarża się za każdym razem, kiedy ktoś uderzy w zbroję. Nieliczni mają odwagę ją zakładać, ponieważ pozostali obawiają się, że jeśli mając ją na sobie umrą, ich dusze również zostaną uwięzione.
+
+Wieść niesie także, że uwięziona dusza zagaduje posiadacza, kilka osób twierdzi nawet, że zbroja do nich przemówiła. Dało się rozróżnić słowa ból i „oni”.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na zwykłe bronie i pociski
+
+Klasa Pancerza: -1
+
+Wymagania:
+– Siła: 15
+
+Waga: 40~
+@1551 = ~Ten rodzaj otwartego hełmu, wykonywany z metalu lub wzmocnionej skóry, stanowi ochronę dla głowy, jednak zwykle bez osłaniania twarzy i karku. Zazwyczaj jest również wyposażony w ochronę nosa. Ten wzmocniony został magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na elektryczność: +75%
+– Regeneracja punktów życia: 1/6 sekund
+– Chroni przed trafieniami krytycznymi
+
+Klasa Pancerza: +2
+
+Waga: 2~
+@1553 = ~Wekiera jest w prostej linii spadkobierczynią zwykłej maczugi. Jest to po prostu drewniany trzonek, na którym została osadzona kamienna lub metalowa głowica, uzbrojona w kolce, ćwieki lub inne ostre zakończenia. Ta wzmocniona została magicznym klejnotem.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +3, +2k6 obrażeń od elektryczności
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 5
+Rodzaj biegłości: wekiera
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 10
+
+Waga: 8~
+@1555 = ~Małe tarcze są zazwyczaj okrągłe. Mocuje się je na przedramieniu i dodatkowo przytrzymuje dłonią. W odróżnieniu od tarczy średniej, ich lekka waga pozwala wojownikowi nosić inne przedmioty w zajętej ręce, chociaż nie może to być broń. Ta wzmocniona została magicznym klejnotem.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na elektryczność: 100%
+
+Klasa Pancerza: +3
+
+Wymagania:
+– Siła: 4
+
+Waga: 3~
+@1569 = ~Jest to symbol rodu Talavana, w którego posiadaniu znajduje się od dwóch stuleci. Znaleziony został w zrujnowanym zamku, który zajęła ówczesna głowa rodu. Nikt nie zna wcześniejszych dziejów hełmu.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +5%
+– Chroni przed trafieniami krytycznymi
+
+Klasa Pancerza: +1
+
+Waga: 2~
+@1571 = ~Broń ta należy do herszta Olmara.
+
+PARAMETRY:
+
+Specjalne:
+– Przyspieszenie
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 1
+Rodzaj biegłości: miecz krótki
+Typ broni: 1-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 2~
+@1575 = ~Przed wiekami potężnemu magowi udało się schwytać w ten kostur błyskawicę. Wykorzystując jej moc, był zdolny nadać broni wiele magicznych właściwości, wszystkie oparte na elektryczności.
+
+PARAMETRY:
+
+Specjalne:
+– 20% szans na rzucenie Wyładowania łańcuchowego na cel
+
+Obrażenia: 1k6 +3, +5 obrażeń od elektryczności
+TraK0: +3
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+@1580 = ~Tuiganie to naród nomadów rozproszony po stepowych regionach Faerûnu, ale związany ze sobą wspólną linią krwi. Ich łuki są zaprojektowane specjalnie dla ich mobilnych wojowników, a proces ich tworzenia jest okryty ścisłą tajemnicą. Ale jego rezultaty są dobrze znane: każdy tuigański łuk strzela szybciej niż normalny.
+
+PARAMETRY:
+
+Specjalne:
+– Trzy strzały na rundę
+
+Obrażenia: +4
+TraK0: +4
+Opóźnienie: 2
+Rodzaj biegłości: krótki łuk
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 6
+
+Waga: 2~
+@1582 = ~Pochodzący od długiego miecza, miecz oburęczny jest znacznie dłuższy, zarówno jego klinga jak i rękojeść. Jego głównym zadaniem jest rozszczepianie jeźdźców i rozbijanie formacji pikinierów. Ta magiczna wersja jest jeszcze lepiej przystosowana do tych zadań, i służy jako przykład tego, co powstaje z połączenia magii i broni.
+
+PARAMETRY:
+
+Obrażenia: 1k10 +3
+TraK0: +3
+Typ obrażeń: sieczne
+Opóźnienie: 6
+Rodzaj biegłości: miecz oburęczny
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 14
+
+Waga: 12~
+@1586 = ~O tej należącej do Mistrza Ostateczności szacie wiadomo tyle, że wykonana jest z niedźwiedziego futra i daje pewną ochronę od żywiołów.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na ogień, zimno, elektryczność i kwas: +50%~
+@1588 = ~Kostur ten wykonano z czystej magii. Jarzy się zielono w rękach wybrańca.
+
+PARAMETRY:
+
+Specjalne:
+– Inteligencja: +2
+– Klasa Pancerza: +2
+– Swoboda działania
+– 5% szans na rzucenie Ostateczności przy trafieniu
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń: obuchowe
+Opóźnienie: 2
+Rodzaj biegłości: kij
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 4~
+
+//***********************************************************************************************
+// PODKLASY
+//***********************************************************************************************
+
+@1636 = ~Lansjerzy specjalizują się we włóczniach i kijach, mogą także je tworzyć. Ta włócznia została wykonana przez początkującego lansjera.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +1
+TraK0: +1
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1638 = ~Lansjerzy specjalizują się we włóczniach i kijach, mogą także je tworzyć. Ta włócznia została wykonana przez niskopoziomowego lansjera.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +2
+TraK0: +2
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1640 = ~Lansjerzy specjalizują się we włóczniach i kijach, mogą także je tworzyć. Ta włócznia została wykonana przez średniopoziomowego lansjera.
+
+PARAMETRY:
+
+Obrażenia: 1k6 +3
+TraK0: +3
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1642 = ~Lansjerzy specjalizują się we włóczniach i kijach, mogą także je tworzyć. Ta włócznia została wykonana przez wysokopoziomowego lansjera.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +20%
+– Klasa Pancerza: +2
+
+Obrażenia: 1k6 +4
+TraK0: +4
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1644 = ~Lansjerzy specjalizują się we włóczniach i kijach, mogą także je tworzyć. Ta włócznia została wykonana przez naprawdę wysokopoziomowego lansjera.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +30%
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+
+Obrażenia: 1k6 +5
+TraK0: +5
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1646 = ~Lansjerzy specjalizują się we włóczniach i kijach, mogą także je tworzyć. Ta włócznia została wykonana przez lansjera o mistrzowskich umiejętnościach.
+
+PARAMETRY:
+
+Specjalne:
+– Odporność na magię: +40%
+– Klasa Pancerza: +2
+– Rzuty obronne: +2
+
+Obrażenia: 1k6 +6, +3 obrażenia od ognia, +3 obrażenia od zimna, +3 obrażenia od elektryczności
+TraK0: +6
+Typ obrażeń: kłute
+Opóźnienie: 5
+Rodzaj biegłości: włócznia
+Typ broni: 2-ręczna
+
+Wymagania:
+– Siła: 5
+
+Waga: 5~
+@1698 = ~Kiedy zostanie zagrana, pieśń tej harfy przepełnia strachem wszystkie znajdujące się w pobliżu wrogie istoty. Tego rodzaju harfy są zazwyczaj dziełem harfistów.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Groza na okres 5 rund, trzy razy dziennie~
+@1700 = ~Kiedy zostanie zagrana, pieśń tej harfy podnosi zdolności bojowe drużyny. Tego rodzaju harfy są zazwyczaj dziełem harfistów.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Wszyscy sojusznicy otrzymują +2 do trafienia i obrażeń na okres 5 rund, trzy razy dziennie~
+@1702 = ~Kiedy zostanie zagrana, pieśń tej harfy podnosi zdolności obronne drużyny. Tego rodzaju harfy są zazwyczaj dziełem harfistów.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Wszyscy sojusznicy otrzymują +3 do Klasy Pancerza i rzutów obronnych na okres 5 rund, trzy razy dziennie~
+@1704 = ~Kiedy zostanie zagrana, pieśń tej harfy powoduje fizyczny atak skierowany przeciw określonemu pojedynczemu celowi. Tego rodzaju harfy są zazwyczaj dziełem harfistów.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Miażdżący atak skierowany przeciw jednemu celowi, trzy razy dziennie, bez rzutu obronnego~
+@1706 = ~Kiedy zostanie zagrana, pieśń tej harfy powoduje na krótki okres czasu przejście na Twoją stronę jednego z wrogów. Tego rodzaju harfy są zazwyczaj dziełem harfistów.
+
+PARAMETRY:
+
+Właściwości ładunków:
+– Dominacja na jednego z przeciwników na okres 5 rund, trzy razy dziennie~
