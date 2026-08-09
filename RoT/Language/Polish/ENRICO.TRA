@@ -1,0 +1,4 @@
+@0    = ~Jestem tu, by powiedzieć ci o tworzeniu nowych postaci oraz edytowaniu już istniejących.~
+@1    = ~Creature Maker jest bardzo prosty w obsłudze. Pamiętaj tylko, by zapisać imię oraz biografię postaci do pliku dialog.tlk. Inaczej nie pojawią się w grze. To po prostu wypełnianie pól. Jest wyraźnie podane, co musisz wprowadzić w każdą rubrykę, a kiedy postać będzie już gotowa do użycia w grze, zapisz ją w folderze override.~
+@2    = ~Pamiętaj, że w polu „Death Variable” powinna być wpisana nazwa pliku postaci. Tekst, który masz w rubryce death variable, będzie używany w skryptach.~
+@3    = ~Obecnie program ten uważany jest za przestarzały, znacznie lepszy i nie tak inwazyjny jest DragonLance TC Editor Pro. Wszelkie pytania dotyczące modowania możesz zadawać w Athkatli – Forum Klanu Children of Bhaal (Komnaty moddingu znajdziesz w Dokach).~

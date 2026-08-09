@@ -1,0 +1,13 @@
+@0    = ~Jestem tu, by nauczyć cię podstaw edycji plików 2DA i IDS. Czego chcesz się dowiedzieć?~
+@1    = ~Czym są pliki 2DA?~
+@2    = ~Czym są pliki IDS?~
+@3    = ~Co mogę uzyskać poprzez edytowanie plików 2DA?~
+@4    = ~Co mogę uzyskać poprzez edytowanie plików IDS?~
+@5    = ~Jak mogę edytować pliki 2DA i IDS?~
+@6    = ~Niczego.~
+@7    = ~Zawierają reguły gry. Przykładowo określają, że kiedy reputacja jest zbyt niska, postacie o dobrym charakterze zdenerwują się i opuszczą drużynę.~
+@8    = ~Nie mam więcej pytań.~
+@9    = ~Są one używane do skryptów. Zawierają linijki oraz inne informacje potrzebne do ich pisania. Nie ma potrzeby ich edytować, chyba że tworzysz nowy czar (albo pocisk... itp.) i chcesz go użyć poprzez skrypt.~
+@10   = ~Możesz zmieniać zasady gry. Na przykład możesz sprawić, by sprzedawcy dawali ci 50% zniżki, kiedy twoja reputacja wynosi 2.~
+@11   = ~Możesz używać nowych czarów (poprzez skrypty) oraz pocisków (pocisków używa się, by dodać specjalne animacje przedmiotom i czarom) tylko po dodaniu ich do plików IDE. Rzeczone pliki IDE zwane są SPELL i PROJECTL. Animacje również umieszcza się w plikach IDE.~
+@12   = ~Potrzebujesz jedynie Notatnika lub innego edytora tekstów – moim zdaniem najlepsze są Notepad++ i Notepad2. Pliki są w formacie tekstowym. Polecam programy jak NI (Near Infinity) czy DLTCEP.~

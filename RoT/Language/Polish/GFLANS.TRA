@@ -1,0 +1,5 @@
+@0    = ~Edytowanie BAM-ów jest bardzo proste, więc zapoznam cię z podstawami.~
+@1    = ~Po pierwsze potrzebujesz programu BamWorkshop(2). Następnie otwórz z gry plik bam. i wszystko zrozumiesz.~
+@2    = ~Są dwa rodzaje plików bam. Nieanimowane (ikony przedmiotów, czarów...) oraz animowane (animacje postaci, czarów...).~
+@3    = ~To oznacza, że używając BamWorkshopa, możesz tworzyć ikony oraz animacje. Jest bardzo prosty w obsłudze. Podobny do Painta, nie licząc możliwości tworzenia animacji.~
+@4    = ~Jako przykładowy plik animacji możesz wczytać SKYBOLT, a jako ikony SPWI901A.~
