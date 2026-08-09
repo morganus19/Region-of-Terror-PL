@@ -1,0 +1,899 @@
+// AHIGGHMA3.DLG
+//solved – 33, 34  -> #71679
+@500000 = ~Zabójstwa
+
+Postanowiliśmy nie zabijać Regeana i powiedzieliśmy mu o Zemirze. Rezultat: Regean żywy, Zemir martwy.~
+
+
+//ALISSA1.DLG
+//unsolved – 5, 6, 7  -> #74337
+@574337 = ~Zdolności Alissy
+
+Kapłanka Deneira, Alissa, dołączyła do mojej drużyny. Powiedziała mi, że sama uczyła się dziwnych zdolności i zamierza się czegoś o nich dowiedzieć. Zdecydowaliśmy się jej pomóc.~
+
+
+//ALISSA1J.DLG
+//unsolved – 4, 8   -> #74338
+@574338 = ~Zdolności Alissy
+
+Alissa powiedziała o swoich zdolnościach bratu Cadderliusowi. Polecił nam odszukać świątynię Oghmy.~
+
+
+//ALROR.DLG
+//unsolved – 15  -> #66095
+@566095 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Odnaleźliśmy kolejnego drowa na Wzgórzach Umar. Mroczna elfka powiedziała nam, że Bruenora można odnaleźć w Zachodnich Zgliszczach. To będzie nasz następny przystanek.~
+
+
+//ARLAXT3.DLG
+//unsolved – 3, 4
+@569174 = ~Zbiegły więzień
+
+Znaleźliśmy Treshama czekającego w Miedzianym Diademie. Zbiegł, ale jego „przyjaciel” powiedział nam, że zamierza się spotkać z jednym z jego „przyjaciół” na ulicach Slumsów po upływie jednego dnia, pod osłoną nocy. Również i my powinniśmy się wybrać na to spotkanie...~ /* #69174 */
+
+
+//ARLAXT1.DLG
+//unsolved – 4, 10
+//ARLAXT7.DLG
+//unsolved – 4, 10
+@569173 = ~Zbiegły więzień
+
+Wycisnęliśmy trochę informacji z lokalnego złodziejaszka. Tresham najwidoczniej uciekł do Slumsów w Athkatli.~ /* #69173 */
+
+
+//ARLAXP6.DLG
+//unsolved – 13
+@576186 = ~Duch
+
+Jakiś człowiek zabrał nas, byśmy zobaczyli ducha. Duch był kobietą i mówił o kimś, kto ma na imię Henryk. Mógł on być jednym z magów z Arlax.~ /* #76186 */
+
+
+//ARLAXGC.DLG
+//unsolved – 3
+@568920 = ~Zbiegły więzień
+
+Kapitan straży miejskiej w Arlax powiedział nam o zbiegłym więźniu. Ten złodziej, Tresham, uciekł w nocy i nie zostawił po sobie żadnych śladów. Lokalni złodzieje powinni coś na ten temat wiedzieć, obiecaliśmy więc, że odnajdziemy go i sprowadzimy z powrotem.~ /* #68920 */
+//solved – 12
+@569177 = ~Zbiegły więzień
+
+Zabiliśmy złodzieja Treshama i zabraliśmy jego ciało do kapitana straży miejskiej.~ /* #69177 */
+//solved – 14
+@569178 = ~Zbiegły więzień
+
+Przyprowadziliśmy z powrotem złodzieja Treshama i odebraliśmy swoją nagrodę.~ /* #69178 */
+
+
+//BIGGS.DLG
+//unsolved – 8
+@564128 = ~Zamki w wirze wojny
+
+Posłaniec o imieniu Biggs przyszedł do nas i opowiedział o swoim mistrzu, który ma swój zamek w okolicach Athkatli. Ma jakieś problemy z innym zamkiem i dlatego wezwano nas na pomoc. Powinniśmy udać się tam, tak szybko, jak to możliwe.~ /* #64128 */
+
+
+//BREHERM1.DLG
+//unsolved – 8
+@572810 = ~Pustelnik
+
+Spotkaliśmy pustelnika i zgodziliśmy się zdobyć dla niego zapasy w mieście Bremen.~ /* #72810 */
+//unsolved – 18, 27
+@572811 = ~Pustelnik
+
+Przynieśliśmy mu zapasy i zgodziliśmy się wykonać kolejne zadanie. Mamy znaleźć klejnot, który zgubił. Najprawdopodobniej zabrał go jakiś potwór w okolicach chaty.~ /* #72811 */
+//solved  – 35
+@572812 = ~Pustelnik
+
+Przynieśliśmy klejnot pustelnikowi, a on oznajmił, że teraz umrze. I właśnie to zrobił. Powiedział też „Możesz otworzyć pudełko, jeśli chcesz...”.~ /* #72812 */
+
+
+//BRELAMOR.DLG
+//unsolved – 5
+@572896 = ~Brat Lamorine
+
+Kobieta o imieniu Lamorine poprosiła nas bezpieczne doprowadzenie jej brata Torvalda do Bremen. Jest on strasznym zgrywusem i twierdził, że chce przejść przez góry. Powinien schodzić na dół w ciągu dwóch, maksymalnie pięciu dni. Nie powinniśmy mu mówić, że jesteśmy tam, aby mu pomóc.~ /* #72896 */
+//solved – 15
+@572897 = ~Brat Lamorine
+
+Udało się. Brat szczęśliwie dostał się do Bremen.~ /* #72897 */
+//solved – 17
+@572898 = ~Brat Lamorine
+
+Zawieliśmy, Torvald nie żyje.~  /* #72898 */
+//solved – 20
+@572899 = ~Brat Lamorine
+
+Nie odnaleźliśmy brata. Prawdopodobnie zginął.~ /* #72899 */
+//solved – 24
+@572903 = ~Brat Lamorine
+
+Pozwoliliśmy Torvaldowi iść samemu. Prawdopodobnie zginął.~ /* #72903 */
+
+
+//BRUNDOR, BRUNDOR2.DLG
+//unsolved – 83
+@571685 = ~Dziwna mówiąca zbroja
+
+Poszliśmy do kowala Brundora i pokazaliśmy mu Zbroję uwięzionej duszy, którą znaleźliśmy w legowisku smoka Hefajstosa. Nie był nam w stanie niczego o niej powiedzieć, ale polecił nam porozmawiać z Chadem w Zachodnich Zgliszczach.~ /* #71685 */
+
+
+//CADDER3.DLG
+//unsolved – 17
+@571235 = ~Demony we Wzlatującej Duszy
+
+Kiedy dotarliśmy do Wzlatującej Duszy, brat Cadderlius wyjaśnił nam sytuację. Jakiś nowoprzybyły dostał się do komnaty najpotężniejszych przyzwań i otwarł bramę prowadzącą do Otchłani. Cadderlius nie był w stanie nam powiedzieć, jak on w ogóle mógł się dostać do tego pomieszczenia, ale w jakiś sposób tego dokonał. Wkrótce po tym, jak brama została otwarta, demony zaczęły napływać i szybko przejęły kontrolę na świątynią. Kapłanom udało się zablokować wejście, ale blokada długo już nie wytrzyma. Plan jest taki, że mamy wejść do świątyni i zamknąć portal z pomocą brata Luciusa. Umrze pod koniec tego procesu, ale mamy go zachować przy życiu, dopóki nie dotrzemy do portalu.~ /* #71235 */
+//unsolved – 20
+@571236 = ~Demony we Wzlatującej Duszy
+
+Jesteśmy w świątyni. Mamy zlokalizować komnatę najpotężniejszych przywołań i spróbować utrzymać brata Luciusa przy życiu.~ /* #71236 */
+
+
+//CADDER5.DLG
+//solved – 1
+@571237 = ~Demony we Wzlatującej Duszy
+
+Udało nam się i portal został zamknięty. Nadszedł czas na powrót do Amn.~ /* #71237 */
+
+
+//CADDERLY.DLG
+//unsolved – 14
+@566097 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Spotkaliśmy człowieka, który wie, jak zniszczyć Odłamek kryształu. Jego imię to Cadderlius. Obiecał nam, że spojrzy na kilka dokumentów, które mogą nam pomóc. Powinien skończyć za dzień, albo dwa.~ /* #66097 */
+//unsolved – 28
+@566098 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Cadderlius odkopał dla nas kilka użytecznych informacji. Używany przez Entreriego i Jarlaxle'a artefakt może być zniszczony tylko przez oddech potężnego smoka. Nie możemy sami wziąć Odłamka kryształu, bo mógłby przejąć nad nami kontrolę i użyć nas do swoich własnych celów, dlatego musi zostać zniszczony w miejscu, w którym się znajduje. Nie mamy więc wyboru, musimy schwytać smoka i wypuścić go podczas konfrontacji z Entrerim i Jarlaxlem. Zniszczy on Odłamek kryształu. Schwytanie go może nam się udać dzięki przedmiotowi, który spoczywa w piekle. To tam teraz właśnie zmierzamy.~ /* #66098 */
+//unsolved – 33
+@566099 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Schwytaliśmy smoka. Teraz musimy czekać na następną wskazówkę.~ /* #66099 */
+
+
+//CAIN.DLG
+//unsolved – 7
+@568192 = ~Pomóż złodziejowi w Arlax
+
+Zgodziliśmy się pomóc złodziejowi, Cainowi, w kilku zadaniach, które otrzymał. Jest nędznym złodziejem, ale ma ukraść kilka rzeczy z Arlax. Pomożemy mu je zdobyć. Pierwszy z nich, złoty sztylet, można znaleźć w świątyni Helma. Nie wiadomo, gdzie dokładnie leży, więc będziemy musieli go poszukać.~ /* #68192 */
+//unsolved – 17
+@568205 = ~Pomóż złodziejowi w Arlax
+
+Ukończyliśmy pierwsze zadanie i złodziej dał nam drugie. Mamy pójść do starej gospody i ukraść diament od podróżnika. Podróżnik wyjeżdża za dwa dni, więc musimy działać szybko.~ /* #68205 */
+//unsolved – 19
+@568220 = ~Pomóż złodziejowi w Arlax
+
+Skończyliśmy drugie zadanie i złodziej dał nam trzecie, ostatnie. Mamy ukraść zwój od maga zwanego Henvisem. Znajdziemy go w budynku najwyższej rady magów.~ /* #68220 */
+//solved – 15
+@568198 = ~Pomóż złodziejowi w Arlax
+
+Zdecydowaliśmy się jednak mu nie pomagać. Nie mamy na to czasu.~ /* #68198 */
+//solved – 21
+@568221 = ~Pomóż złodziejowi w Arlax
+
+Zawaliliśmy drugie zadanie. Spóźniliśmy się z kradzieżą diamentu.~ /* #68221 */
+//solved – 23
+@568222 = ~Pomóż złodziejowi w Arlax
+
+Udało nam się wypełnić ostatnie zadanie i przynieśliśmy zwój do Caina. Obiecał nam zapłacić, jeśli będzie miał ku temu okazję... Taa, jasne!~ /* #68222 */
+
+
+//CATT2.DLG
+//solved – 1, 2  – íĺň íč îäíîăî EraseJournalEntry() !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+@566428 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Entreri i Jarlaxle nie żyją. Odłamek kryształu został zniszczony. Przyjaciele Drizzta są bezpieczni. Poszukiwania zakończone.~ /* #66428 */
+
+
+//CHADE.DLG
+//unsolved – 6, 7
+@571711 = ~Dziwna mówiąca zbroja
+
+Rozmawialiśmy z Chadem. Powiedział, że moglibyśmy uwolnić uwięzioną duszę, ale potrzebujemy pomocy kapłana. Na szczęście jeden mieszka w wiosce.~ /* #71711 */
+//solved – 8
+@571709 = ~Dziwna mówiąca zbroja
+
+Rozmawialiśmy z Chadem. Powiedział, że moglibyśmy uwolnić uwięzioną duszę, ale odmówiliśmy.~ /* #71709 */
+//solved – 11
+@571712 = ~Dziwna mówiąca zbroja
+
+Rozmawialiśmy z kapłanem i zgodził się pomóc. Mogliśmy uwolnić duszę ze zbroi.~ /* #71712 */
+
+
+//CHAUNTI.DLG
+//unsolved – 3
+@571233 = ~Demony we Wzlatującej Duszy
+
+Ze Wzlatującej Duszy przybył brat Chaunticleerius w poszukiwaniu pomocy u Drizzta. Demony przejmują kontrolę nad świątynią, czy coś w tym stylu, nie był bowiem zbyt rozgarnięty. Natychmiast udaliśmy się w drogę, by sprawdzić, co się tam dzieje.~ /* #71233 */
+
+
+//CLOB.DLG
+//unsolved – 5
+@567005 = ~Zaginiony syn Cloba
+
+Pomagamy przy poszukiwaniach zaginionego syna Cloba. Został posłany, żeby kupić szatę od sprzedawcy w Dzielnicy Mostów w Athkatli. Tam zaczniemy poszukiwania.~ /* #67005 */
+
+
+//CULTBE.DLG
+//unsolved – 8, 9
+@574058 = ~Kult Bestii
+
+Przy zdobywaniu informacji o nocnych działaniach Mateusza Wyndona trafiliśmy do twierdzy Kultu Bestii. Mamy do wyboru dwie opcje: dołączyć lub zginąć.~ /* #74058 */
+
+
+//CULTBEH.DLG
+//unsolved – 18
+@574059 = ~Kult Bestii
+
+Zdecydowaliśmy się dołączyć i stać się pomniejszymi członkami. Otrzymaliśmy symbol, dzięki któremu będziemy mogli dostać się do twierdzy, kiedy zostaniemy przyzwani. Mamy przejść kilka testów, żeby stać się pełnoprawnymi członkami.~ /* #74059 */
+//solved – 60
+@574061 = ~Kult Bestii
+
+Dokonaliśmy wszelkich rodzajów okrucieństw i przyjęto nas do kultu. Otrzymaliśmy kolejny symbol, dzięki któremu możemy się dostać do twierdzy, kiedy tylko zechcemy. Mamy obowiązek brać udział w przynajmniej jednym rytuale w tygodniu.~ /* #74061 */
+
+
+//DRIZ2.DLG
+//unsolved – 28, 32, 34, 37, 48, 50
+@566094 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Drow zwący się Drizzt Do'Urden dołączył do mojej drużyny. W tajemniczy sposób zgubił swoich przyjaciół, więc zgodziliśmy się ich poszukać. Jeśli mu pomożemy, on pomoże nam rozprawić się z moim nieznajomym porywaczem. Na ten moment nie mamy żadnych wskazówek, dzięki którym wiedzielibyśmy, gdzie zacząć poszukiwania.~ /* #66094 */
+
+
+//DRIZ2J.DLG
+//unsolved – 11, 24
+@574781 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Do Drizzta przybył dżin, żeby powiedzieć o tym, że człowiek o imieniu Artemis Entreri porwał jego przyjaciół. Idziemy do miasta Arlax, aby zdobyć więcej informacji.~ /* #74781 */
+//unsolved – 28
+@564316 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Artemis Entreri wysłał kolejnego dżina. Wskazał miasto Arlax i teraz musimy się tam udać, żeby dowiedzieć się czegoś o przyjaciołach Drizzta.~ /* #64316 */
+//unsolved – 41, 47-51, 54, 55
+@563195 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Nawiązaliśmy kontakt z osobą w kanałach Arlax. Powiedział nam, że jeden z porwanych jest przetrzymywany w miejscu zwanym Jaskinia Monzumy. Znajduje się gdzieś w pobliżu gór przy Arlax. Powinniśmy się tam udać tak szybko, jak będzie to możliwe.~ /* #63195 */
+//unsolved – 86, 87, 89, 90, 91, 93
+@566096 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Odnaleźliśmy Bruenora i go uwolniliśmy. Drizzt powiedział nam o człowieku, który wie, jak zniszczyć Odłamek kryształu, który w jakiś sposób ma z tym związek. Możemy się udać do człowieka z Brynnlaw z pomocą brata Martinusa.~ /* #66096 */
+//unsolved – 121
+@566101 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Słyszeliśmy, że Dolina Lodowego Wichru jest atakowana przez potwory. Entreri i Jarlaxle je kontrolują. Ta misja zaczyna się stawać coraz bardziej ważna.~ /* #66101 */
+//unsolved – 165, 169
+@572915 = ~Zaginiona broń
+
+Bronie Drizzta i Wulfgara zostały skradzione. Są prawdopodobnie w jaskini Thorina Lodobrodego. Jaskinia zdaje się być położona na zachód od wioski Bremen.~ /* #72915 */
+
+
+//EGALD1.DLG
+//unsolved – 4,16,18,19
+@571803 = ~Podróż na Północ
+
+Człowiek, który nazywa się Edomis Błotozamki, zaczepił nas i zaoferował pięćset sztuk złota, w zamian za chronienie go podczas podróży do Doliny Lodowego Wichru. Zgodziliśmy się.~ /* #71803 */
+//unsolved – 5
+@571802 = ~Podróż na Północ
+
+Człowiek, który nazywa się Edomis Błotozamki, zaczepił nas i zaoferował pięćset sztuk złota, w zamian za chronienie go podczas podróży do Doliny Lodowego Wichru. Powiedzieliśmy, że moglibyśmy mu pomóc. Jeśli się na to zdecydujemy, będzie czekał przy bramach miasta Athkatli.~ /* #71802 */
+//unsolved – 8,20
+@571801 = ~Podróż na Północ
+
+Człowiek, który nazywa się Edomis Błotozamki, zaczepił nas i zaoferował pięćset sztuk złota, w zamian za chronienie go podczas podróży do Doliny Lodowego Wichru. Wyruszymy, kiedy tylko będziemy gotowi.~ /* #71801 */
+//unsolved – 9, 11
+
+@575862 = ~Podróż na Północ
+
+Wyruszyliśmy.~ /* #75862 */
+
+
+//EGALD2.DLG
+//unsolved – 1
+@571806 = ~Podróż na Północ
+
+Udało nam się dotrzeć Bremen bez żadnych komplikacji. Może powinniśmy się tu rozejrzeć, kiedy Edomis załatwia swoje sprawy w Samotnej Kniei.~ /* #71806 */
+
+
+//EGALD3.DLG
+//solved – 1
+@571805 = ~Podróż na Północ
+
+Wróciliśmy do Amn. Podróż się udała.~ /* #71805 */
+
+
+//ELEANA2.DLG
+//solved – 2
+@568695 = ~Eleana i zwój
+
+Zapomnieliśmy porozmawiać z kupcem. Zadanie zakończyło się fiaskiem.~ /* #68695 */
+//solved – 4
+@568867 = ~Eleana i zwój
+
+Nie udaliśmy się po zwój Gaidana i wróciliśmy do Eleany. Ten problem to już nie nasza sprawa.~ /* #68867 */
+//solved – 6, 10
+@568877 = ~Eleana i zwój
+
+Udaliśmy się do starego zamku, zabiliśmy Gaidana i zabraliśmy od niego zwój. Potem wróciliśmy do Eleany i daliśmy go jej.~ /* #68877 */
+//solved – 7,9,11,12
+@568875 = ~Eleana i zwój
+
+Udaliśmy się do starego zamku, zabiliśmy Gaidana i zabraliśmy od niego zwój. Potem wróciliśmy do Eleany, daliśmy go jej i odebraliśmy nagrodę.~ /* #68875 */
+//solved – 16,17
+@568873 = ~Eleana i zwój
+
+Udaliśmy się do starego zamku, spotkaliśmy Gaidana i kupiliśmy od niego zwój. Potem wróciliśmy do Eleany, oddaliśmy jej go i zażądaliśmy zwrotu naszych pieniędzy. Dostaliśmy tylko połowę.~ /* #68873 */
+//solved – 19
+@568881 = ~Eleana i zwój
+
+Udaliśmy się do starego zamku, wykonaliśmy robotę zleconą przez Gaidana, a on oddał nam zwój. Potem wróciliśmy do Eleany i daliśmy go jej.~ /* #68881 */
+//solved – 20, 21
+@568882 = ~Eleana i zwój
+
+Udaliśmy się do starego zamku, wykonaliśmy robotę zleconą przez Gaidana, a on oddał nam zwój. Potem wróciliśmy do Eleany, daliśmy go jej i odebraliśmy nagrodę.~ /* #68882 */
+
+
+//ELEANA.DLG
+//unsolved – 6
+@568689 = ~Eleana i zwój
+
+Na prośbę Eleany obiecaliśmy udać się do Athkatli i zdobyć zwój z zaklęciem od kupca. Powinniśmy móc go odnaleźć przy bramach miasta. Eleana dała nam list i kiedy pokażemy go kupcowi, da nam zwój. Powiedziała również, że jeśli nie będziemy jej mogli znaleźć w budynku najwyższej rady magów, kiedy wrócimy, będzie przebywać w posiadłości obok więzienia.
+
+Jeszcze coś, kupiec będzie tam tylko przez dziesięć dni, więc musimy się pospieszyć.~ /* #68689 */
+
+
+//ENTDJIN3.DLG
+//unsolved – 0
+@566100 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Zdobyliśmy ostatnią wskazówkę. Entreriego można znaleźć w jaskini obok wioski Maribur. Tam skończy się to wszystko.~ /* #66100 */
+
+
+//ENTER2.DLG
+//solved – 1,2 – no Erase!!!!!!!!!!!!!!!!!!!!
+
+@575863 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Zdradziliśmy Drizzta i dołączyliśmy do Entreriego i Jarlaxle'a.~ /* #75863 */
+
+
+//ERANDA2.DLG
+//unsolved – 5
+@570608 = ~Problemy w zamku
+
+Jakaś grupa ludzi wkroczyła na moje ziemie i zatrzymała się w drewnianej fortecy. Chcą z nami rozmawiać. Powiedzieliśmy, że pójdziemy tam i zobaczymy, czego chcą.~ /* #70608 */
+//solved – 10,11
+@570607 = ~Problemy w zamku
+
+Problemem była tylko jakaś grupa niezadowolonych ludzi, która chciała z nami rozmawiać. Rozkazaliśmy ich zabić.~ /* #70607 */
+//solved – 14
+@570609 = ~Problemy w zamku
+
+Rozprawiliśmy się z tymi ludźmi. Nie będą nas już więcej niepokoić.~ /* #70609 */
+
+
+//ESATH2.DLG
+//unsolved – 0
+@568545 = ~Pomaganie rolnikom
+
+Udaliśmy się do leżących na uboczu gospodarstw. Esath spotkał nas tam i powiedział, żeby podążać drogą na północ. Odnajdziemy zniszczoną osadę i jaskinię obok niej. W środku będziemy mogli odnaleźć przywódcę.~ /* #68545 */
+//solved – 3
+@568546 = ~Pomaganie rolnikom
+
+Zabiliśmy przywódcę – był to lisz – i wróciliśmy do Esatha. Podziękował nam i powiedział, że nagrodę znajdziemy w jego domu.~ /* #68546 */
+
+
+//ESATH.DLG
+//unsolved – 14,19
+@568549 = ~Pomaganie rolnikom
+
+Rolnik imieniem Esath zaczepił nas i poprosił o pomoc w Arlax. Leżące na uboczu gospodarstwa są w niebezpieczeństwie; potwory atakują w grupach, są zorganizowane. Mają przywódcę. Obiecaliśmy zabić tego przywódcę, ale musimy działać szybko. Jeśli byśmy zwlekali tydzień albo dwa, rolnicy mogliby być już martwi...~ /* #68549 */
+
+
+//GAREM.DLG
+//unsolved – 2
+@568263 = ~Poszukiwania pierścienia Garema w kanałach
+
+Zgodziliśmy się odszukać pierścień w Kanałach Arlax. Jest na nim wygrawerowane imię „Garem”, więc szukanie go nie powinno przysporzyć większych trudności. Z drugiej strony ktoś mógł go już sobie wziąć.~ /* #68263 */
+//solved – 9,11,13,15
+@568281 = ~Poszukiwania pierścienia Garema w kanałach
+
+Odnaleźliśmy pierścień i zwróciliśmy go prawowitemu właścicielowi.~ /* #68281 */
+
+
+//GRAGHAK.DLG
+//unsolved – 28
+@564865 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Rozmawialiśmy z królem Graghii. Powiedział nam, że Bruenor może być w innym mieście w tej okolicy. Możemy się tam dostać tylko po rozwiązaniu „wielkiej zagadki”. Istnieje pięć części historii, zapisanych na kamieniach, wokół tego miasta. Mamy jeden. Każdy z nich zawiera wskazówkę dotyczącą położenia kolejnego z nich. Kiedy zbierzemy wszystkie, mamy udać się do drzwi pomiędzy miastami i przeczytać historię zapisaną na kamieniach. Po tym będziemy mogli przejść przez drzwi.~ /* #64865 */
+
+
+//GRAYFOT2.DLG
+//unsolved – 179
+@570462 = ~Poszukiwania Oka boga
+
+Pip Szarostopy, specjalista od obróbki klejnotów z Arlax, opowiedział nam o legendarnym klejnocie o nazwie „Oko boga”. Nie jest nawet pewien, czy on istnieje, ale zaznaczył na mojej mapie miejsce, w którym mógłby się on znajdować. Jeśli ten klejnot naprawdę istnieje i zostanie wkuty na jakiś przedmiot, dawałby niesamowite moce. Może powinniśmy pójść zobaczyć, co możemy znaleźć w miejscu, które nam wskazano.~ /* #70462 */
+//unsolved – 199
+@570505 = ~Poszukiwania Oka boga 
+
+Odnaleźliśmy Oko i zanieśliśmy je Pipowi. Przerobił je na przedmiot, po czym wspomniał, że znalazł doskonałe miejsce na nową kuźnię, pożegnał się i odszedł.~ /* #70505 */
+
+
+//HANDS.DLG
+//unsolved – 9,10
+@566652 = ~Zemsta w imieniu Handsa
+
+Człowiek o imieniu Hands opowiedział nam o hordzie potworów, która go zaatakowała i zabiła jednego z jego synów. Zgodziliśmy zemścić się w jego imieniu. Potwory można prawdopodobnie odnaleźć w jaskini.~ /* #66652 */
+//solved – 18,19
+@566653 = ~Zemsta w imieniu Handsa 
+
+Odnaleźliśmy potwory i je zabiliśmy.~ /* #66653 */
+
+
+//HEDAN.DLG
+//unsolved – 4
+@565530 = ~Zachodnie Zgliszcza w opałach
+
+Spotkaliśmy przywódcę wioski. Dał nam klucz, którego możemy użyć, aby dostać się do domu Emanatha. Musimy tam wejść i go zabić, chociaż nie mamy pojęcia, z czym przyjdzie się nam zmierzyć w tym domu.~ /* #65530 */
+//unsolved – 17
+@565533 = ~Zachodnie Zgliszcza w opałach
+
+Jednak zgodziliśmy się im pomóc.~ /* #65533 */
+//unsolved – 24,29
+@565536 = ~Zachodnie Zgliszcza w opałach
+
+Poinformowano nas o kłopotach w Zachodnich Zgliszczach. Ludzie są tam atakowani przez gobliny, orki i inne sługi zła. Przyczyną tych ataków jest mag o imieniu Emanath. Jego dom stoi na skraju wioski.~ /* #65536 */
+//solved – 30
+@565656 = ~Zachodnie Zgliszcza w opałach
+
+Zabiliśmy Emanatha, ale nie otrzymaliśmy żadnej nagrody. Powiedzieliśmy, że cała ta zbieranina to nędzarze, i odeszliśmy.~ /* #65656 */
+//solved – 30,32
+@565655 = ~Zachodnie Zgliszcza w opałach
+
+Zabiliśmy Emenatha.~ /* #65655 */
+//solved – 34
+@566285 = ~Zachodnie Zgliszcza w opałach
+
+Hedan przypuszczał, że zabiliśmy Emanatha. Powiedział nam wcześniej, że niczym nam nie zapłaci, więc niczego nie dostaliśmy. Powiedzieliśmy, że ta cała zbieranina to nędzarze, i odeszliśmy.~ /* #66285 */
+//solved – 35
+@565653 = ~Zachodnie Zgliszcza w opałach
+
+Przypadkiem powiedzieliśmy, że Emanath nie zginął. Hedan nie był zadowolony, ale się z tym pogodził.~ /* #65653 */
+//solved – 36
+@566284 = ~Zachodnie Zgliszcza w opałach
+
+Zrobiliśmy, co przyrzekliśmy, i powiedzieliśmy Hedanowi o śmierci Emanatha. Możemy teraz bez obaw stwierdzić, że konflikt się zakończył.~ /* #66284 */
+
+
+//ILHAN.DLG
+//unsolved – 5,24,25
+@563941 = ~Zabicie przywódcy cyklopów
+
+Zgodziliśmy się zabić przywódcę cyklopów w pobliżu zamku Olmara. Cyklopy stwarzały zamkowi kłopoty, a ponieważ herszt zamku nic w tej sprawie nie zamierza zrobić, my zajmiemy się tym problemem.~ /* #63941 */
+//solved – 19,21
+@563943 = ~Zabicie przywódcy cyklopów
+
+Zabiliśmy przywódcę cyklopów. Pozostałe cyklopy prawdopodobnie w najbliższym czasie opuszczą te tereny.~ /* #63943 */
+
+//ILHAN2.DLG
+//unsolved – 6,11,13
+@570748 = ~Wiadomość Ilhana
+
+Ilhan wpadł na pomysł, aby napaść na bogato wyglądającego kupca zmierzającego na północ zaledwie kilka kilometrów na zachód od zamku. Stwierdziliśmy, że to dobry pomysł i poszliśmy obrobić tego człowieka.~ /* #70748 */
+//solved – 36,39
+@570736 = ~Wiadomość Ilhana
+
+Ograbiliśmy kupca i obu nam dostała się całkiem pokaźna ilość złota.~ /* #70736 */
+
+
+//JAPHET.DLG
+//unsolved – 3
+@566785 = ~Złodziej w sklepie Kindasta
+
+Jafet ukradł miksturę, żeby pomóc swojej chorej żonie. Zdecydowaliśmy się udać z tą sprawą do Kindasta.~ /* #66785 */
+//unsolved – 5
+@566784 = ~Złodziej w sklepie Kindasta
+
+Jafet ukradł miksturę, żeby pomóc swojej chorej żonie. Zdecydowaliśmy się zapłacić za miksturę.~ /* #66784 */
+
+
+//JATTA.DLG
+//unsolved – 6
+@567011 = ~Zaginiony syn Cloba
+
+Jakaś ladacznica pamiętała o chłopcu. Powiedziała nam, że jacyś wielcy goście zabrali go do wysokiego budynku w północnej części dzielnicy.~ /* #67011 */
+
+
+//KINDAST.DLG
+//unsolved – 6,8,10
+@566777 = ~Złodziej w sklepie Kindasta
+
+Kindast, kupiec z Maribur, najął nas, byśmy złapali złodzieja, który ukradł od niego trochę pieniędzy i miksturę. Nasze śledztwo powinniśmy zacząć od pilnowania jego sklepu w nocy.~ /* #66777 */
+//unsolved – 18
+@566781 = ~Złodziej w sklepie Kindasta
+
+Widzieliśmy złodzieja. Był to ktoś o imieniu Jafet. Teraz musimy się dowiedzieć, dlaczego zrobił to zrobił.~ /* #66781 */
+//solved – 22
+@566782 = ~Złodziej w sklepie Kindasta
+
+Kindast zaakceptował powód, dla którego Jafet ukradł od niego miksturę, a my za nią zapłaciliśmy. Szczęśliwe zakończenie.~ /* #66782 */
+//solved – 26,27,28
+@566783 = ~Złodziej w sklepie Kindasta
+
+Kindast zapłacił za miksturę dla Jafeta. Otrzymaliśmy swoją nagrodę.~ /* #66783 */
+
+
+//LOREM.DLG
+//unsolved – 9
+@576084 = ~Polowanie
+
+Ludzie z Zachodnich Zgliszcz byli atakowani i z tego powodu potrzebowali człowieka, który ochroniłby ich wioskę. Spowodowało to niedostatek zapasów jedzenia i zgodziliśmy się zdobyć dla nich pięćset funtów mięsa.~ /* #76084 */
+//solved – 3
+@576086 = ~Polowanie
+
+Udało się nam zdobyć wystarczająco dużo mięsa, by zadowolić Lorema.~ /* #76086 */
+
+
+//LATHAR.DLG
+//unsolved – 6
+@576185 = ~Duch
+
+Powiedziano nam, że w Arlax widziano ducha. Człowiek w pobliżu starej gospody wie więcej na ten temat.~ /* #76185 */
+
+
+//MARALDA.DLG
+//unsolved – 4,9,10,12,14,16
+@563708 = ~Poszukiwania zwoju Maraldy
+
+Ktoś ukradł zwój od magiczki o imieniu Maralda. Powiedziała, że złodziejem jest Alenna albo Melan. Powinniśmy z nimi porozmawiać.~ /* #63708 */
+//solved – 32,36,39,51
+@563712 = ~Poszukiwania zwoju Maraldy
+
+Udało się nam ustalić, że to Alenna ukradła zwój. Była to bardzo prosta sprawa, nie warta marnowania naszego czasu, naprawdę.~ /* #63712 */
+
+
+//MARTWYN1.DLG
+//unsolved – 10,12,13
+@573330 = ~Smocze Sanktuarium
+
+Stary człowiek o imieniu Martwyn opowiedział nam o świętym miejscu smoków. Jeśli chcemy tam pójść, musielibyśmy przejść z zamkniętymi oczami przez ziemie nie do przebycia, a potem przejść przez Lodowy Labirynt.~ /* #73330 */
+
+
+//MAYASSI.DLG
+//unsolved – 7
+@574055 = ~Co się dzieje z Mateuszem?
+
+Pomocnik burmistrza Bremen spytał nas, czy nie moglibyśmy ustalić, co dzieje się w domu Mateusza Wyndona późnymi nocami. Jest on dziwnym człowiekiem, więc można się spodziewać wszystkiego.~ /* #74055 */
+//solved – 21
+@574056 = ~Co się dzieje z Mateuszem?
+
+Odkryliśmy, że Mateusz używa jakiegoś rodzaju portalu, żeby gdzieś się dostać, ale nie pozwolił nam przez niego przejść.~ /* #74056 */
+//solved – 23
+@574057 = ~Co się dzieje z Mateuszem?
+
+Odkryliśmy, że Mateusz używa portalu, żeby dostać się do kryjówki jakiegoś kultu. Widocznie jest on jego członkiem. Pomocnik burmistrza podziękował nam i obiecał porozmawiać na ten temat z burmistrzem.~ /* #74057 */
+
+
+//MAYDOBR.DLG
+//unsolved – 4,16
+@572659 = ~Przygnębieni ludzie
+
+Zgodziliśmy się porozmawiać z mieszkańcami Bremen, żeby podnieść ich na duchu. Rozważają bowiem opuszczenie wioski z powodu stałych ataków potworów. Zadanie polega na próbie zatrzymania ich.~ /* #72659 */
+//solved – 29
+@572660 = ~Przygnębieni ludzie
+
+Dokonaliśmy niesamowitej roboty. Nikt już nie mówi o wyjeździe z wioski.~ /* #72660 */
+//solved – 30
+@572661 = ~Przygnębieni ludzie
+
+Dokonaliśmy doskonałej roboty. Nikt już nie mówi o wyjeździe z wioski.~ /* #72661 */
+//solved – 31
+@572662 = ~Przygnębieni ludzie
+
+Dokonaliśmy dobrej roboty. Nikt już nie mówi o wyjeździe z wioski.~ /* #72662 */
+//solved – 32
+@572663 = ~Przygnębieni ludzie
+
+Dokonaliśmy niezłej roboty. Ludzie wciąż są trochę przygnębieni, ale widać poprawę.~ /* #72663 */
+//solved – 33,34
+@572664 = ~Przygnębieni ludzie
+
+Nie udało się nam niczego wskórać.~ /* #72664 */
+//solved – 35
+@572666 = ~Przygnębieni ludzie
+
+Wyrządziliśmy tylko krzywdę.~ /* #72666 */
+//solved – 36,37
+@572670 = ~Przygnębieni ludzie
+
+Sprawiliśmy, że duch wioski podupadł bardziej niż kiedykolwiek. Cóż...~ /* #72670 */
+
+
+//MENDOR.DLG
+//unsolved – 8
+@567010 = ~Zaginiony syn Cloba
+
+Spotkaliśmy złodzieja w wysokim budynku. Powiedział, że domu tego używano jako miejsca do trzymania niewolników i że chłopak został schwytany, aby stać się niewolnikiem. Handlarze niewolnikami są tuż za miastem. Zaznaczył ten punkt na naszej mapie.~ /* #67010 */
+
+
+//MOLLY2.DLG
+//unsolved – 8
+@566564 = ~Skradziony naszyjnik Molly
+
+Spotkaliśmy w Zachodnich Zgliszczach kobietę o imieniu Molly. Jej naszyjnik został skradziony i mamy go odzyskać. Podejrzewa Burricha, właściciela gospody.~
+
+//solved – 19
+@566565 = ~Skradziony naszyjnik Molly
+
+Znaleźliśmy w wiosce naszyjnik. Złodziejem był „zły człowiek”. Musieliśmy go zabić, żeby odzyskać naszyjnik.~ /* #66565 */
+//solved – 21
+@566566 = ~Skradziony naszyjnik Molly
+
+Znaleźliśmy w wiosce naszyjnik. Złodziejem był „zły człowiek”. Musieliśmy go zabić, żeby odzyskać naszyjnik.~ /* #66566 */
+
+
+//OLMAR4.DLG
+//solved – 3
+@564221 = ~Zamki w wirze wojny
+
+Udało nam się. Zamek Talavana został zdobyty, a mnie ogłoszono jego nowym władcą. Ilhan pośle po mnie, jeśli coś na zamku będzie wymagać mojej uwagi.~ /* #64221 */
+//solved – 4
+@564220 = ~Zamki w wirze wojny
+
+Udało nam się. Zamek Talavana został zdobyty i Ilhan został ogłoszony jego nowym władcą.~ /* #64220 */
+
+
+//OLMMESS.DLG
+//unsolved – 1
+@570734 = ~Wiadomość Ilhana
+
+Ilhan wysłał mi wiadomość. Coś się dzieje na zamku. Powinniśmy to sprawdzić tak szybko, jak to możliwe.~ /* #70734 */
+
+
+//OLMAR.DLG
+//unsolved – 15-19
+@564219 = ~Zamki w wirze wojny
+
+Zdobyliśmy klucz, ale stanęliśmy po stronie Olmara. Zabijemy Talavana, kiedy będziemy w zamku Olmara, a następnie razem z Olmarem zdobędziemy zamek Talavana.~ /* #64219 */
+//unsolved – 26-30
+@564130 = ~Zamki w wirze wojny
+
+Mamy klucz. Kiedy z nim powrócimy, zaatakujemy zamek Olmara.~ /* #64130 */
+
+
+//PLADJIN.DLG
+//unsolved – 34
+@576012 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Poszukiwania Bruenora zaprowadziły nas do jakiegoś rodzaju sfery zewnętrznej. Spotkaliśmy kogoś, kto zwie się Święty Strażnik. Pilnuje miasta zwanego „Graghia”. Nie ma odwrotu, więc musimy iść naprzód. Musimy wypełnić cztery zadania Świętych, żeby dostać się do miasta.~ /* #76012 */
+//unsolved – 83
+@564701 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Powiodło się nam we wszystkich czterech zadaniach. Mamy teraz pozwolenie na wejście do Graghii.~ /* #64701 */
+
+
+//RANDALLJ.DLG
+//unsolved – 3
+@574048 = ~Nekromanta chcący dopaść Randalla
+
+Drużyna została zaatakowana przez nekromantę i grupę szkieletów. Oczywiste było, że chodziło im o Randalla. Przyczyna tego ataku jest tajemnicą.~ /* #74048 */
+//unsolved – 5,6
+@574049 = ~Nekromanta chcący dopaść Randalla
+
+Znowu zdarzyło się to samo. Randall twierdzi, że nie zrobił nic, co mogłoby sprowokować te ataki.~/* #74049 */
+//unsolved – 12
+@574051 = ~Nekromanta chcący dopaść Randalla
+
+Znowu. Ale tym razem była notatka, która prowadzi nas kryjówki człowieka, który za tym stoi. Zgodziliśmy się tam pójść i zobaczyć, co tam można znaleźć.~ /* #74051 */
+//solved – 7
+@574050 = ~Nekromanta chcący dopaść Randalla
+
+Znowu stało się to samo. Uznaliśmy, że podróż z Randallem jest zbyt niebezpieczna, więc go wyrzuciliśmy.~ /* #74050 */
+//solved – 17
+@574052 = ~Nekromanta chcący dopaść Randalla
+
+Człowiek, który chciał dopaść Randalla, jest teraz martwy. Randall przysiągł odnaleźć swojego ojczyma, żeby dowiedzieć się czegoś więcej o śmierci swoich prawdziwych rodziców.~ /* #74052 */
+
+
+//REG2.DLG
+
+//unsolved – 13,14
+@564415 = ~Pomóż Drizztowi w odszukaniu jego przyjaciół
+
+Znaleźliśmy więźnia w Jaskini Monzumy. Był to Regis. Powiedział nam, że Entreri chce, abyśmy udali się teraz na Wzgórza Umar.~ /* #64415 */
+
+
+//ROB.DLG
+//unsolved – 4,6
+@564299 = ~Olbrzymy porwały żonę Roba
+
+Jakieś olbrzymy zabrały żonę Roba do Jaskini Monzumy. Spróbujemy jej poszukać, kiedy tam będziemy.~ /* #64299 */
+//solved – 9,10
+@564301 = ~Olbrzymy porwały żonę Roba
+
+Znaleźliśmy martwą żonę Roba, ciało zostało wykorzystane przez demona.~ /* #64301 */
+
+
+//ROBEMER.DLG
+//unsolved – 3
+@567006 = ~Zaginiony syn Cloba
+
+Rozmawialiśmy z kupcem. Skierował nas do gospody Pod Pięcioma Dzbanami, gdzie miał się udać chłopak.~ /* #67006 */
+
+
+//RODGER.DLG
+//solved – 2,3
+@567008 = ~Zaginiony syn Cloba
+
+Odnaleźliśmy chłopaka. Rzeczywiście porwano go, by uczynić niewolnym. Zabiliśmy handlarzy niewolnikami i uwolniliśmy więźniów.~ /* #67008 */
+
+
+//RYONN.DLG
+//unsolved – 14
+@565535 = ~Zachodnie Zgliszcza w opałach
+
+Spotkaliśmy człowieka o imieniu Ryon. Przekonał nas do pomocy wiosce. Są oni atakowani przez gobliny, orki i inne sługi zła. Przyczyną tych ataków jest mag o imieniu Emanath. Jego dom leży na skraju wioski. Nie wiemy jeszcze dokładnie, co się wydarzy, ale dowiemy się tego w wiosce.~ /* #65535 */
+//unsolved – 16
+@565529 = ~Zachodnie Zgliszcza w opałach
+
+Spotkaliśmy człowieka o imieniu Ryon. Próbował uzyskać od nas pomoc dla swojej wioski. Są oni atakowani przez gobliny, orki i inne sługi zła. Przyczyną tych ataków jest mag o imieniu Emanath. Powiedzieliśmy, że nie pomożemy, ale mimo to zaznaczył wioskę na naszej mapie, gdybyśmy jednak zmienili zdanie.~ /* #65529 */
+
+
+//QUINTIP1.DLG
+//unsolved – 4,7,9
+@572863 = ~Łowcy
+
+W górach nieopodal Bremen znajdowała się grupa myśliwych. Ich oczekiwane pojawienie się opóźnia się i zgodziliśmy się ustalić tego przyczynę.~ /* #72863 */
+//solved – 14
+@572864 = ~Łowcy
+
+Odkryliśmy, co się stało. Zostali zaatakowani przez wyjątkowo dużą grupę potworów. Najprawdopodobniej nikt nie ocalał.~ /* #72864 */
+
+
+//SCRLMER.DLG
+//unsolved – 16,17,19
+@568691 = ~Eleana i zwój
+
+Rozmawialiśmy z kupcem, powiedział nam, że został ograbiony przez „złodziejską grupę Gaidana”. Podał nam lokalizację twierdzy Gaidana, dzięki czemu możemy od niego odzyskać zwój. Możemy też powrócić do Eleany i powiedzieć jej, co się wydarzyło. Nie byłby to już wówczas nasz problem.
+
+Kupiec powiedział też, że może nam odpowiedzieć na pytania dotyczące Gaidana.~ /* #68691 */
+
+
+//SHDW1.DLG
+//unsolved – 2
+@571713 = ~Dziwna mówiąca zbroja
+
+Ktoś czy coś nas zaczepiło. Powiedziało, że mogłoby zaczarować dla nas zbroję, gdybyśmy zabili kapłana...~ /* #71713 */
+//solved – 5
+@571714 = ~Dziwna mówiąca zbroja
+
+Cóż, zabiliśmy kapłana. (Czuliśmy się ŹLI!!) Cień zrobił to, co obiecał, i zaczarował dla nas zbroję.~ /* #71714 */
+
+
+//SLAVET5.DLG
+//solved – 5
+@567009 = ~Zaginiony syn Cloba
+
+Odnaleźliśmy chłopaka. Rzeczywiście został porwany do niewoli. Wzięliśmy od handlarzy niewolników pieniądze i pozwoliliśmy im odejść.~ /* #67009 */
+
+
+//TALAVAN3.DLG
+//solved – 2
+@564132 = ~Zamki w wirze wojny
+
+Misja się skończyła. Olmar nie żyje, a Talavan posiada oba zamki. Zaoferował mi pozycję przywódcy zamku Olmara, co spotkało się z moją aprobatą. Eranda wyśle mi informację, jeśli pojawi się coś wymagającego mojej uwagi.~ /* #64132 */
+//solved – 4
+@564131 = ~Zamki w wirze wojny
+
+Misja się skończyła. Olmar nie żyje, a Talavan posiada oba zamki. Eranda została, żeby zająć się sprawami w zamku Olmara.~ /* #64131 */
+
+
+//TALAVAN.DLG
+//unsolved – 30
+@564129 = ~Zamki w wirze wojny
+
+Przywódca, Talavan, wszystko nam wyjaśnił. Zamierza zaatakować ten drugi zamek po tym, jak zdobędziemy klucz do magicznych drzwi od jego przywódcy. Kiedy będziemy mieć ten klucz, a atak się rozpocznie, mamy dostać się do środka drugiego zamku i zabić wszystkich.~ /* #64129 */
+
+
+//TALMESS.DLG
+//unsolved – 0,1
+@570606 = ~Problemy w zamku
+
+Z mojego zamku została wysłana wiadomość. Mają tam jakiś problem. Powinniśmy się tam jak najszybciej udać.~ /* #70606 */
+
+
+//TRESHAM1.DLG
+//unsolved – 4
+@569184 = ~Zbiegły więzień
+
+Złapaliśmy Treshama. Powinniśmy go zabrać do kapitana straży miejskiej w Arlax.~ /* #69184 */
+
+
+//ULGARTH.DLG
+//unsolved – 0
+@573242 = ~Żona Wulfgara
+
+Spotkaliśmy grupę barbarzyńców w Dolinie Lodowego Wichru. Mieli złowieszcze wieści. Żona Wulfgara została porwana. Ślady zaprowadziły barbarzyńców niedaleko od miejsca pobytu żony i natychmiast wyruszamy na jej poszukiwania.~ /* #73242 */
+
+
+//ULTIMM.DLG
+//unsolved – 17
+@565641 = ~Zachodnie Zgliszcza w opałach
+
+Spotkaliśmy „Mistrza Ostateczności”. Niespodziewanie byliśmy w stanie przekonać go do odejścia. Pokój powrócił do wioski. Myślę, że powinniśmy pójść powiedzieć Hedanowi, co się stało.~ /* #65641 */
+
+
+//ZEMIR.DLG
+//unsolved – 24
+@571675 = ~Zabójstwa
+
+Spotkaliśmy złodzieja o imieniu Zemir w kanałach Arlax. Zgodziliśmy się zostać jego płatnymi zabójcami, dał nam pierwsze zlecenie. Mamy pójść do doków Athkatli w nocy i zabić kobietę o imieniu Galan.~ /* #71675 */
+//unsolved – 28
+@571676 = ~Zabójstwa
+
+Zabiliśmy Galan i dostaliśmy kolejny cel. Jego imię to Laron, możemy go znaleźć sprzedającego przedmioty na Promenadzie Waukeen w Athkatli.~ /* #71676 */
+//unsolved – 33
+@571677 = ~Zabójstwa
+
+Zabiliśmy Larona i dostaliśmy ostatnie zlecenie. Mamy zabić najwyższego maga Regeana z Arlax. Możemy go odnaleźć w budynku najwyższej rady magów.~ /* #71677 */
+//solved – 29
+@571680 = ~Zabójstwa
+
+Zabiliśmy Galan, ale powiedzieliśmy, że nie będziemy już więcej zabijać. Zemir nas zaatakował.~ /* #71680 */
+//solved – 40
+
+@571678 = ~Zabójstwa
+
+Zabiliśmy Regeana i ukończyliśmy nasze misje zabijania.~ /* #71678 */
+//solved – 43
+@571681 = ~Zabójstwa
+
+Zabiliśmy Larona, ale powiedzieliśmy, że nie będziemy już więcej zabijać. Zemir nas zaatakował.~ /* #71681 */
+
+
+//*********************************************************************************************************************
+//*********************************************************************************************************************
+//Missed Journal entries from scripts (??)
+@573244 = ~Żona Wulfgara
+
+Zabiliśmy potwory, które tam biegały. Widocznie uwolniły one duchy mnichów, którzy żyli w klasztorze. Odnaleźliśmy żonę Wulfgara, ale była już martwa. Nie chce się poddać i próbujemy zrobić coś, żeby ożywić ją w świątyni.~
+
+//morand1.baf
+@563001 = ~Pomoc Morandinowi
+
+Zgodziliśmy się pomóc magowi, który nazywa się Morandin, w zabiciu stworzeń z grobu jego ojca pod jego domem. Nie mamy pojęcia, czemu może nam tam przyjść stawić tam czoła. W ramach zapłaty możemy zabrać wszystko, co znajdziemy w grobie.~
+
+
+//*********************************************************************************************************************
+//*********************************************************************************************************************
+//Journal entries from scripts
+@573245 = ~Żona Wulfgara
+
+Nasze poszukiwania nie były bezowocne. Znaleźliśmy coś w rodzaju kręgu wskrzeszania i ożywioną Delly. Wulfgar zabrał ją natychmiast do Bremen.~
+
+//ra5601.baf – unsolved
+@573243 = ~Żona Wulfgara
+
+Dowiedzieliśmy się więcej. Jesteśmy na ziemiach klasztoru. Potwory przejęły nad tym miejscem kontrolę, coś w rodzaju ducha otworzyło mi główne drzwi.~
+//ra5611.baf – solved
+@572917 = ~Zaginione bronie
+
+Odzyskaliśmy bronie.~
+
+//rr3303.baf – unsolved
+@575059 = ~Zaginieni graghowie
+
+Podczas rozmowy z królem Graghii, padła wzmianka o tym, że kilkoro graghów może być wciąż żywych w tym innym mieście. Powinniśmy ich poszukać.~
+@575061 = ~Zaginieni graghowie 
+ 
+Znaleźliśmy troje żywych Graghów. Rozpoczęli swoją podróż powrotną do miasta.~
+//solved
+@575062 = ~ Zaginieni graghowie
+
+Zaginieni graghowie wrócili bezpiecznie.~
+
+//rr3100.baf – solved
+@576184 = ~Duch
+
+Odnaleźliśmy Henryka i zabraliśmy go na spotkanie z duchem. Stało się oczywiste, że była ona jego kochanką i kochała go za bardzo, żeby odejść. Henryk również kochał ją bardziej niż własne życie. Odeszli. Miłość okazała się silniejsza od śmierci.~
+
+//ra5412.baf – solved
+@573332 = ~Smocze Sanktuarium
+
+Odnaleźliśmy to miejsce. Może powinniśmy się tu trochę rozejrzeć.~
